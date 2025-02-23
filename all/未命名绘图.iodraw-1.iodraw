@@ -196,8 +196,11 @@
             <mxPoint x="510" y="1169.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="koKNnahoAx2qQS0RDwpo-72" value="func signature of kernel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
+        <mxCell id="koKNnahoAx2qQS0RDwpo-72" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="670" y="1145" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="koKNnahoAx2qQS0RDwpo-73" value="cu_function" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1160" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
