@@ -215,12 +215,6 @@
         <mxCell id="koKNnahoAx2qQS0RDwpo-72" value="cu_function" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="680" y="1153.75" width="70" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="koKNnahoAx2qQS0RDwpo-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="1210" as="sourcePoint" />
-            <mxPoint x="740" y="1210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="714.5" y="1140" as="sourcePoint" />
