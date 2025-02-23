@@ -243,7 +243,7 @@
           <mxGeometry x="645" y="1310" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-83" value="&lt;div&gt;need&lt;/div&gt;shared size" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1300" width="90" height="40" as="geometry" />
+          <mxGeometry x="455" y="1320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-84" value="get_device_properties" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="1230" width="150" height="40" as="geometry" />
@@ -264,6 +264,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="679.5" y="1270" as="sourcePoint" />
             <mxPoint x="679.5" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="koKNnahoAx2qQS0RDwpo-91" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.5" y="1280" as="sourcePoint" />
+            <mxPoint x="499.5" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
