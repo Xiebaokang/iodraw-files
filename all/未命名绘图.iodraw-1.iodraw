@@ -196,13 +196,8 @@
             <mxPoint x="510" y="1169.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="koKNnahoAx2qQS0RDwpo-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=31.2;exitDy=10.000000000000002;exitPerimeter=0;" edge="1" parent="1" source="koKNnahoAx2qQS0RDwpo-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="1250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="koKNnahoAx2qQS0RDwpo-67" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=6.6;dx=28.8;notch=0;arrowHead=33.2;rounded=0;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1220" width="60" height="40" as="geometry" />
+        <mxCell id="koKNnahoAx2qQS0RDwpo-67" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=6.6;dx=28.8;notch=0;arrowHead=33.2;rounded=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1190" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
