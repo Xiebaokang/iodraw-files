@@ -207,8 +207,8 @@
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="724.5" y="1140" as="sourcePoint" />
-            <mxPoint x="724.5" y="1110" as="targetPoint" />
+            <mxPoint x="714.5" y="1140" as="sourcePoint" />
+            <mxPoint x="714.5" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-77" value="&lt;div&gt;kernel&lt;/div&gt;run result" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -222,6 +222,12 @@
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-79" value="grid&lt;div&gt;block&lt;/div&gt;&lt;div&gt;stream&lt;/div&gt;&lt;div&gt;kernel args&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="770" y="1153.75" width="70" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="koKNnahoAx2qQS0RDwpo-80" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="804.5" y="1140" as="sourcePoint" />
+            <mxPoint x="804.5" y="1110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
