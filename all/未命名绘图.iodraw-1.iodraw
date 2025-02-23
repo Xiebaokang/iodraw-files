@@ -121,7 +121,7 @@
         <mxCell id="koKNnahoAx2qQS0RDwpo-45" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="745" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="koKNnahoAx2qQS0RDwpo-46" value="cuLaunchKernel(function, gridX, gridY, gridZ, 32*num_warps, 1, 1, shared_memory, stream, params, 0)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="koKNnahoAx2qQS0RDwpo-45">
+        <mxCell id="koKNnahoAx2qQS0RDwpo-46" value="cuLaunchKernel(function, gridX, gridY, gridZ, blockX,&amp;nbsp; blockY, blockZ, shared_memory, stream, params, 0)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="koKNnahoAx2qQS0RDwpo-45">
           <mxGeometry y="30" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
