@@ -246,7 +246,7 @@
           <mxGeometry x="455" y="1320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-84" value="get_device_properties" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1230" width="150" height="40" as="geometry" />
+          <mxGeometry x="425" y="1230" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-86" value="load_binary" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1235" width="120" height="30" as="geometry" />
