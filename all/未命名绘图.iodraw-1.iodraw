@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-72" value="cu_function" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1147.5" width="80" height="32.5" as="geometry" />
+          <mxGeometry x="680" y="1153.75" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -220,7 +220,7 @@
             <mxPoint x="724.5" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="koKNnahoAx2qQS0RDwpo-79" value="cu_function&lt;div&gt;verify datas&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
+        <mxCell id="koKNnahoAx2qQS0RDwpo-79" value="grid&lt;div&gt;block&lt;/div&gt;&lt;div&gt;stream&lt;/div&gt;&lt;div&gt;kernel args&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="790" y="1147.5" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
