@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-82" value="reg_num&lt;div&gt;n_spill&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1300" width="70" height="40" as="geometry" />
+          <mxGeometry x="645" y="1310" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-83" value="&lt;div&gt;need&lt;/div&gt;shared size" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="455" y="1300" width="90" height="40" as="geometry" />
@@ -258,6 +258,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="714.5" y="1230" as="sourcePoint" />
             <mxPoint x="714.5" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="koKNnahoAx2qQS0RDwpo-90" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.5" y="1270" as="sourcePoint" />
+            <mxPoint x="679.5" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
