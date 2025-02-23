@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="koKNnahoAx2qQS0RDwpo-1" value="MLIR(LLVM dialect + NVVM/ROCDL dialect)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="80" width="260" height="40" as="geometry" />
+          <mxGeometry x="260" y="40" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-2" value="LLVM IR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="100" height="40" as="geometry" />
@@ -30,8 +30,8 @@
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="200" as="sourcePoint" />
-            <mxPoint x="390" y="260" as="targetPoint" />
+            <mxPoint x="630" y="120" as="sourcePoint" />
+            <mxPoint x="630" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
