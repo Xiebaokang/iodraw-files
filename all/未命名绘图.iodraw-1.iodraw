@@ -152,7 +152,7 @@
           <mxGeometry x="670" y="1065" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-59" value="load&amp;nbsp;cuda_utils&lt;div&gt;(py)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1140" width="100" height="40" as="geometry" />
+          <mxGeometry x="525" y="1150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -182,6 +182,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="574.5" y="1030" as="sourcePoint" />
             <mxPoint x="574.5" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="koKNnahoAx2qQS0RDwpo-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574.5" y="1110" as="sourcePoint" />
+            <mxPoint x="574.5" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
