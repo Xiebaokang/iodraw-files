@@ -131,151 +131,151 @@
           <mxGeometry y="30" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-52" value="HSACO/&lt;span style=&quot;background-color: initial;&quot;&gt;CUBIN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1155" width="100" height="30" as="geometry" />
+          <mxGeometry x="1171" y="755" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-53" value="_build func" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1065" width="90" height="40" as="geometry" />
+          <mxGeometry x="1331" y="665" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-54" value="generate_launcher func" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1065" width="150" height="40" as="geometry" />
+          <mxGeometry x="1001" y="665" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-55" value="func signature of kernel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1060" width="112" height="50" as="geometry" />
+          <mxGeometry x="841" y="660" width="112" height="50" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-56" value="&lt;div&gt;main.c&lt;/div&gt;launch src code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1062.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="1201" y="662.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-57" value="&lt;div&gt;cuda.c&lt;/div&gt;load src code&lt;div&gt;(load kernel)&lt;/div&gt;&lt;div&gt;(get gpu args)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="525" y="950" width="100" height="70" as="geometry" />
+          <mxGeometry x="1326" y="550" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-58" value="lunch&amp;nbsp;cuda_utils.so&lt;div&gt;(py)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1065" width="170" height="40" as="geometry" />
+          <mxGeometry x="1471" y="665" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="koKNnahoAx2qQS0RDwpo-59" target="koKNnahoAx2qQS0RDwpo-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="573" y="1210" />
-              <mxPoint x="500" y="1210" />
+              <mxPoint x="1374" y="810" />
+              <mxPoint x="1301" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="koKNnahoAx2qQS0RDwpo-59" target="koKNnahoAx2qQS0RDwpo-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="573" y="1210" />
-              <mxPoint x="680" y="1210" />
+              <mxPoint x="1374" y="810" />
+              <mxPoint x="1481" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="koKNnahoAx2qQS0RDwpo-59" value="load&amp;nbsp;cuda_utils.so&lt;div&gt;(py)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1150" width="105" height="40" as="geometry" />
+        <mxCell id="koKNnahoAx2qQS0RDwpo-59" value="load&amp;nbsp;cuda_utils.so&lt;div&gt;(py)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1321" y="750" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="1084.5" as="sourcePoint" />
-            <mxPoint x="190" y="1084.5" as="targetPoint" />
+            <mxPoint x="961" y="684.5" as="sourcePoint" />
+            <mxPoint x="991" y="684.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="1084.5" as="sourcePoint" />
-            <mxPoint x="390" y="1084.5" as="targetPoint" />
+            <mxPoint x="1161" y="684.5" as="sourcePoint" />
+            <mxPoint x="1191" y="684.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="1084.5" as="sourcePoint" />
-            <mxPoint x="520" y="1084.5" as="targetPoint" />
+            <mxPoint x="1291" y="684.5" as="sourcePoint" />
+            <mxPoint x="1321" y="684.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="1084.5" as="sourcePoint" />
-            <mxPoint x="660" y="1084.5" as="targetPoint" />
+            <mxPoint x="1431" y="684.5" as="sourcePoint" />
+            <mxPoint x="1461" y="684.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="574.5" y="1030" as="sourcePoint" />
-            <mxPoint x="574.5" y="1060" as="targetPoint" />
+            <mxPoint x="1375.5" y="630" as="sourcePoint" />
+            <mxPoint x="1375.5" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="574.5" y="1110" as="sourcePoint" />
-            <mxPoint x="574.5" y="1140" as="targetPoint" />
+            <mxPoint x="1375.5" y="710" as="sourcePoint" />
+            <mxPoint x="1375.5" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="1169.5" as="sourcePoint" />
-            <mxPoint x="510" y="1169.5" as="targetPoint" />
+            <mxPoint x="1281" y="769.5" as="sourcePoint" />
+            <mxPoint x="1311" y="769.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-72" value="cu_function" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1153.75" width="70" height="32.5" as="geometry" />
+          <mxGeometry x="1481" y="753.75" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="714.5" y="1140" as="sourcePoint" />
-            <mxPoint x="714.5" y="1110" as="targetPoint" />
+            <mxPoint x="1515.5" y="740" as="sourcePoint" />
+            <mxPoint x="1515.5" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-77" value="&lt;div&gt;kernel&lt;/div&gt;run result" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="980" width="90" height="40" as="geometry" />
+          <mxGeometry x="1521" y="580" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-78" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="1060" as="sourcePoint" />
-            <mxPoint x="760" y="1030" as="targetPoint" />
+            <mxPoint x="1561" y="660" as="sourcePoint" />
+            <mxPoint x="1561" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-79" value="grid&lt;div&gt;block&lt;/div&gt;&lt;div&gt;stream&lt;/div&gt;&lt;div&gt;kernel args&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1153.75" width="70" height="62.5" as="geometry" />
+          <mxGeometry x="1571" y="753.75" width="70" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-80" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="805" y="1140" as="sourcePoint" />
-            <mxPoint x="804.5" y="1110" as="targetPoint" />
+            <mxPoint x="1606" y="740" as="sourcePoint" />
+            <mxPoint x="1605.5" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-82" value="reg_num&lt;div&gt;n_spill&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="645" y="1310" width="70" height="40" as="geometry" />
+          <mxGeometry x="1446" y="910" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-83" value="&lt;div&gt;need&lt;/div&gt;shared size" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1310" width="90" height="40" as="geometry" />
+          <mxGeometry x="1256" y="910" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-84" value="get_device_properties" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1230" width="150" height="30" as="geometry" />
+          <mxGeometry x="1226" y="830" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-86" value="load_binary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1230" width="120" height="30" as="geometry" />
+          <mxGeometry x="1421" y="830" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="koKNnahoAx2qQS0RDwpo-86" target="koKNnahoAx2qQS0RDwpo-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-89" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="714" y="1230" as="sourcePoint" />
-            <mxPoint x="714" y="1190" as="targetPoint" />
+            <mxPoint x="1515" y="830" as="sourcePoint" />
+            <mxPoint x="1515" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-90" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="679.5" y="1270" as="sourcePoint" />
-            <mxPoint x="679.5" y="1300" as="targetPoint" />
+            <mxPoint x="1480.5" y="870" as="sourcePoint" />
+            <mxPoint x="1480.5" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-91" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="499.5" y="1270" as="sourcePoint" />
-            <mxPoint x="499.5" y="1300" as="targetPoint" />
+            <mxPoint x="1300.5" y="870" as="sourcePoint" />
+            <mxPoint x="1300.5" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-92" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10;endSize=11.4;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="1329.5" as="sourcePoint" />
-            <mxPoint x="630" y="1329.5" as="targetPoint" />
+            <mxPoint x="1361" y="929.5" as="sourcePoint" />
+            <mxPoint x="1431" y="929.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
