@@ -440,8 +440,8 @@
         <mxCell id="2tb7v5jE-2WRfNFIRobp-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="2063" y="35" width="20" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="2tb7v5jE-2WRfNFIRobp-58" value="cublas 行优先" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="438" width="100" height="30" as="geometry" />
+        <mxCell id="2tb7v5jE-2WRfNFIRobp-58" value="cublas 行优先变化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2008" y="438" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
