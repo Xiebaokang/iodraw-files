@@ -306,7 +306,7 @@
           <mxGeometry x="2140" y="52.5" width="319" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2tb7v5jE-2WRfNFIRobp-12" value="ptrB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2274.5" y="72.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="2090" y="47.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2tb7v5jE-2WRfNFIRobp-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2026" y="155" width="42" height="160" as="geometry" />
@@ -346,6 +346,9 @@
         </mxCell>
         <mxCell id="2tb7v5jE-2WRfNFIRobp-22" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1835" y="395" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2tb7v5jE-2WRfNFIRobp-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2195" y="8" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
