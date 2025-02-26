@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="qZqkXakZP7cPQXiCxv3s">
-    <mxGraphModel dx="1750" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,10 +576,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2tb7v5jE-2WRfNFIRobp-101" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1875" y="190" width="20" height="360" as="geometry" />
+          <mxGeometry x="1855" y="530" width="20" height="400" as="geometry" />
         </mxCell>
         <mxCell id="2tb7v5jE-2WRfNFIRobp-102" value="内存中的排布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1835" y="380" width="100" height="30" as="geometry" />
+          <mxGeometry x="1810" y="740" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
