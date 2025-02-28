@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="qZqkXakZP7cPQXiCxv3s">
-    <mxGraphModel dx="1313" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1185,7 +1185,7 @@
           <mxGeometry x="1521" y="1395" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-259" value="Q乘K后，block的每个线程都会有一个分块结果&lt;div&gt;需要对此结果进行online softmax操作&lt;/div&gt;&lt;div&gt;下面是水平方向上的计算softmax的迭代过程：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="845" y="1375" width="270" height="60" as="geometry" />
+          <mxGeometry x="836" y="1390" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-260" value="m0 &lt;b&gt;=&lt;/b&gt; -FLT_MAX&lt;div&gt;d0 &lt;b&gt;=&lt;/b&gt; 0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="876" y="1470" width="110" height="40" as="geometry" />
@@ -1222,6 +1222,57 @@
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-272" value="④" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="836" y="1622.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-273" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-274" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-275" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-276" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-277" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-278" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-279" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-280" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-281" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-282" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-284" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-285" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-286" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-287" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-288" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-289" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1340" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
