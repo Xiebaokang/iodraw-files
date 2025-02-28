@@ -1691,8 +1691,8 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-515" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
           <mxGeometry x="394.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-524" value="若当前线程为 laneId&lt;div&gt;则该函数获取线程 laneId + i 的rowMax数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="1875" width="250" height="40" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-524" value="当这一个步骤过完&lt;div&gt;则可以得出一个Br*Bc块的每一行的Max和Sum(d)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1598" y="1865" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
