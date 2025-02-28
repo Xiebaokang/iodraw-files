@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="qZqkXakZP7cPQXiCxv3s">
-    <mxGraphModel dx="1105" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1191,10 +1191,10 @@
           <mxGeometry x="851" y="1460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-261" value="m1 = max(m0, x1)&lt;div&gt;d1 = 0 * exp(m0 - m1) + exp(x1 - m1) = exp(x1 - m1)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="1460" width="300" height="40" as="geometry" />
+          <mxGeometry x="1006" y="1460" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-262" value="m2 = max(m1, x2)&lt;div&gt;d2 = exp(x1 - m1) * exp(m1 - m2) + exp(x2 - m2) = exp(x1 - m2) + exp(x2 - m2)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="851" y="1520" width="440" height="40" as="geometry" />
+          <mxGeometry x="851" y="1530" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-263" value="m3 = max(m2, x3)&lt;div&gt;d3 = [exp(x1 - m2) + exp(x2 - m2)] * exp(m2 - m3) + exp(x3 - m3) = exp(x1 - m3) + exp(x2 - m3) + exp(x3 - m3)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="851" y="1590" width="610" height="40" as="geometry" />
