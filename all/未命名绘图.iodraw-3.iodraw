@@ -1125,7 +1125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-525" value="由于 P 矩阵的 x 方向是由 Main For 循环所进行的切分&lt;div&gt;所以 block 在 x 方向上具有一个迭代&lt;/div&gt;&lt;div&gt;也就是需要存储每次迭代的 Max 和 Sum(d)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="1990" width="310" height="70" as="geometry" />
+          <mxGeometry x="1575" y="2250" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-533" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="930" y="1210" width="1052" height="285" as="geometry" />
@@ -1725,7 +1725,7 @@
           <mxGeometry x="930" y="2020" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-618" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1304.75" y="2070" width="75" height="390" as="geometry" />
+          <mxGeometry x="1304.75" y="2080" width="75" height="390" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-591" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-618">
           <mxGeometry x="20" width="20" height="20" as="geometry" />
@@ -1899,7 +1899,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-621" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1222.25" y="2070" width="70" height="390" as="geometry" />
+          <mxGeometry x="1222.25" y="2080" width="70" height="390" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-575" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-621">
           <mxGeometry x="25" width="20" height="20" as="geometry" />
