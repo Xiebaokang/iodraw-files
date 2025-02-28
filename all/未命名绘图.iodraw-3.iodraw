@@ -1647,7 +1647,7 @@
           <mxGeometry x="1761.5" y="1600.5" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-510" value="m &lt;b&gt;=&lt;/b&gt; max(m3, m6)&lt;div&gt;d &lt;b&gt;=&lt;/b&gt; [&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m3) + exp(x2 - m3) + exp(x3 - m3)] * exp(m3 - m) + [&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m6) + exp(x4 - m6) + exp(x5 - m6)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;] * exp(m6 - m)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m) + exp(x2 - m) + exp(x3 - m) + &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m) + exp(x4 - m) + exp(x5 - m)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1734.5" width="680" height="60" as="geometry" />
+          <mxGeometry x="1480" y="1679.5" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-511" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.221;exitY=-0.036;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-510">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
