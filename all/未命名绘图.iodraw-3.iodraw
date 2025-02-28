@@ -1412,8 +1412,8 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-426" value="block中一行线程所存储的rowSum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="905.75" y="1660" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-427" value="这个block的行线程的个数必须要小于32（1warp）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#fd0808;" vertex="1" parent="1">
-          <mxGeometry x="860.75" y="1870" width="290" height="30" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-427" value="这个block的行线程的个数必须要小于32（1warp）&lt;div&gt;使用warp的shf_down_sync函数求tile分块的m和d&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#fd0808;" vertex="1" parent="1">
+          <mxGeometry x="860.75" y="1865" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-428" value="block中一行线程所存储的rowMax" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="905.75" y="1835" width="200" height="30" as="geometry" />
