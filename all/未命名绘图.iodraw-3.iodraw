@@ -1725,7 +1725,7 @@
           <mxGeometry x="930" y="2020" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-618" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1269.75" y="2190" width="75" height="390" as="geometry" />
+          <mxGeometry x="1271.5" y="2230" width="75" height="390" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-591" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-618">
           <mxGeometry x="20" width="20" height="20" as="geometry" />
@@ -1785,7 +1785,7 @@
           <mxGeometry x="-15" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-619" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1065" y="2190" width="80" height="390" as="geometry" />
+          <mxGeometry x="1066.75" y="2230" width="80" height="390" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-559" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-619">
           <mxGeometry x="25" width="20" height="20" as="geometry" />
@@ -1845,7 +1845,7 @@
           <mxGeometry x="-10" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-620" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="980" y="2190" width="70" height="390" as="geometry" />
+          <mxGeometry x="981.75" y="2230" width="70" height="390" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-536" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-620">
           <mxGeometry x="25" width="20" height="20" as="geometry" />
@@ -1899,7 +1899,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-621" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1187.25" y="2190" width="70" height="390" as="geometry" />
+          <mxGeometry x="1189" y="2230" width="70" height="390" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-575" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-621">
           <mxGeometry x="25" width="20" height="20" as="geometry" />
@@ -1952,11 +1952,11 @@
             <mxPoint x="34.92000000000007" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-624" value="&lt;div&gt;m &lt;b&gt;=&lt;/b&gt; max(rowMax, smRowMax)&lt;/div&gt;&lt;div&gt;smRowSum &lt;b&gt;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x0 - smRowMax) + exp(x1-smRowMax) + ...&amp;nbsp; + exp(xi - smRowMax)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;rowSum &lt;b&gt;=&lt;/b&gt; exp(xi+1 - rowMax) + exp(xi+2 - rowMax) + ... + exp(xi+j - rowMax)&lt;/div&gt;d &lt;b&gt;= &lt;/b&gt;smRowSum&amp;nbsp;* exp(smMax - m) + rowSum * exp(rowMax - m)&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;b&gt;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x0 - m) + exp(x1-m) + ...&amp;nbsp; + exp(xi - m) +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(xi+1 - m) + exp(xi+2 - m) + ... + exp(xi+j - m)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smRowSum &lt;b&gt;=&lt;/b&gt; d&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smRowMax &lt;b&gt;= &lt;/b&gt;m&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smFactor &lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(smMax - m)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-624" value="&lt;div&gt;m &lt;b&gt;=&lt;/b&gt; max(rowMax, smRowMax)&lt;/div&gt;&lt;div&gt;smRowSum &lt;b&gt;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x0 - smRowMax) + exp(x1-smRowMax) + ...&amp;nbsp; + exp(xi - smRowMax)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;rowSum &lt;b&gt;=&lt;/b&gt; exp(xi+1 - rowMax) + exp(xi+2 - rowMax) + ... + exp(xi+j - rowMax)&lt;/div&gt;d &lt;b&gt;= &lt;/b&gt;smRowSum&amp;nbsp;* exp(smMax - m) + rowSum * exp(rowMax - m)&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;b&gt;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x0 - m) + exp(x1-m) + ...&amp;nbsp; + exp(xi - m) +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(xi+1 - m) + exp(xi+2 - m) + ... + exp(xi+j - m)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smRowSum &lt;b&gt;=&lt;/b&gt; d&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smRowMax &lt;b&gt;= &lt;/b&gt;m&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smFactor &lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(smMax - m)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="971" y="2050" width="540" height="130" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-625" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1383.5" y="2190" width="75" height="390" as="geometry" />
+          <mxGeometry x="1385.25" y="2230" width="75" height="390" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-626" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-625">
           <mxGeometry x="20" width="20" height="20" as="geometry" />
