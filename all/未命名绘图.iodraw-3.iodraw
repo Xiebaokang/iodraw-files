@@ -1580,8 +1580,8 @@
             <mxPoint x="1150" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-493" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="1798" width="50" height="30" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-493" value="&lt;b&gt;__shfl_down_sync&lt;/b&gt;(0xffffffff, rowMax[br], i, sameBcThr)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1798" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
