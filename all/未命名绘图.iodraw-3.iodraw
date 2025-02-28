@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="qZqkXakZP7cPQXiCxv3s">
-    <mxGraphModel dx="1167" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1953,7 +1953,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-624" value="&lt;div&gt;m &lt;b&gt;=&lt;/b&gt; max(rowMax, smRowMax)&lt;/div&gt;&lt;div&gt;smRowSum &lt;b&gt;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x0 - smRowMax) + exp(x1-smRowMax) + ...&amp;nbsp; + exp(xi - smRowMax)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;rowSum &lt;b&gt;=&lt;/b&gt; exp(xi+1 - rowMax) + exp(xi+2 - rowMax) + ... + exp(xi+j - rowMax)&lt;/div&gt;d &lt;b&gt;= &lt;/b&gt;smRowSum&amp;nbsp;* exp(smMax - m) + rowSum * exp(rowMax - m)&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;b&gt;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x0 - m) + exp(x1-m) + ...&amp;nbsp; + exp(xi - m) +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(xi+1 - m) + exp(xi+2 - m) + ... + exp(xi+j - m)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="971" y="2070" width="540" height="90" as="geometry" />
+          <mxGeometry x="971" y="2060" width="540" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-625" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1385.25" y="2230" width="75" height="390" as="geometry" />
