@@ -740,9 +740,6 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-48" value="For K" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="320" y="1665" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-49" value="Br" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="1805" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-50" value="Bc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="1570" width="40" height="30" as="geometry" />
         </mxCell>
@@ -762,7 +759,7 @@
           <mxGeometry x="220" y="1930" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-60" value="Bc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1580" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="1900" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
