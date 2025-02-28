@@ -1184,7 +1184,7 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-257" value="&lt;b&gt;smP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1185" y="1390" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-259" value="Q乘K后，block的每个线程都会有一个分块结果&lt;div&gt;需要对此结果进行online softmax操作&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-259" value="Q乘K后，block的每个线程都会有一个分块结果&lt;div&gt;需要对此结果进行online softmax操作&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="745" y="1383" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
