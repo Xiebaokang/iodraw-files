@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-273" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1740" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="koKNnahoAx2qQS0RDwpo-1" value="MLIR(LLVM dialect + NVVM/ROCDL dialect)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="60" width="260" height="30" as="geometry" />
         </mxCell>
@@ -1315,9 +1318,6 @@
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-305" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1015" y="1800" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-273" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-306" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1035" y="1800" width="20" height="20" as="geometry" />
