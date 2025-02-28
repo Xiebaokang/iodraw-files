@@ -1212,7 +1212,10 @@
           <mxGeometry x="841" y="1597.5" width="10" height="25" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-269" value="①" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="811" y="1465" width="40" height="30" as="geometry" />
+          <mxGeometry x="811" y="1462.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-270" value="②" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1458" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
