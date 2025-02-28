@@ -1637,7 +1637,7 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-506" value="若当前线程为 laneId&lt;div&gt;则该函数获取线程 laneId + i 的rowMax数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1185" y="1865" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-507" value="这里的作用是使用 warp 的特性&lt;div&gt;计算出 block 一行的 max 和 sum(d) 值&lt;/div&gt;&lt;div&gt;最后将最终的 max 和 sum(d) 存储在每行的第一个线程中&lt;/div&gt;&lt;div&gt;下面是迭代过程：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-507" value="这里的作用是使用 warp 的特性&lt;div&gt;计算出 block 一行的 max 和 sum(d) 值&lt;/div&gt;&lt;div&gt;最后将最终的 max 和 sum(d) 存储在每行的第一个线程中&lt;/div&gt;&lt;div&gt;下面展示第一步的迭代过程：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1466.5" y="1530.5" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-508" value="m &lt;b&gt;=&lt;/b&gt; m3&lt;div&gt;d &lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m3) + exp(x2 - m3) + exp(x3 - m3)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
