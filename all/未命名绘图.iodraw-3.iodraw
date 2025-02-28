@@ -1127,45 +1127,6 @@
             <mxPoint x="640" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-523" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1489.5" y="1590.5" width="683.5" height="244.5" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-507" value="这里的作用是使用 warp 的特性&lt;div&gt;计算出 block 一行的 max 和 sum(d) 值&lt;/div&gt;&lt;div&gt;&lt;b&gt;最后将最终的 max 和 sum(d) 存储在每行的第一个线程中&lt;/b&gt;&lt;/div&gt;&lt;div&gt;下面展示第一步的迭代过程：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-523">
-          <mxGeometry width="330" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-516" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-523">
-          <mxGeometry x="3.5" y="79.5" width="680" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-508" value="m &lt;b&gt;=&lt;/b&gt; m3&lt;div&gt;d &lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m3) + exp(x2 - m3) + exp(x3 - m3)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
-          <mxGeometry x="1" y="25.5" width="270" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-509" value="m &lt;b&gt;=&lt;/b&gt; m6&lt;div&gt;d &lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m6) + exp(x4 - m6) + exp(x5 - m6)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
-          <mxGeometry x="281.5" y="26" width="270" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-510" value="m &lt;b&gt;=&lt;/b&gt; max(m3, m6)&lt;div&gt;d &lt;b&gt;=&lt;/b&gt; [&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m3) + exp(x2 - m3) + exp(x3 - m3)] * exp(m3 - m) + [&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m6) + exp(x4 - m6) + exp(x5 - m6)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;] * exp(m6 - m)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m) + exp(x2 - m) + exp(x3 - m) + &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m) + exp(x4 - m) + exp(x5 - m)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
-          <mxGeometry y="105" width="680" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-511" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.191;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vwsM5nAZA5b_mvNWWmDU-516" source="vwsM5nAZA5b_mvNWWmDU-510">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="145.5" as="sourcePoint" />
-            <mxPoint x="130" y="69.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-512" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.53;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.196;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vwsM5nAZA5b_mvNWWmDU-516" source="vwsM5nAZA5b_mvNWWmDU-509" target="vwsM5nAZA5b_mvNWWmDU-510">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="95.5" as="sourcePoint" />
-            <mxPoint x="220" y="105.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-514" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
-          <mxGeometry x="111.5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-515" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
-          <mxGeometry x="394.5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-524" value="当这一个步骤过完&lt;div&gt;则可以得出一个Br*Bc块的每一行的Max和Sum(d)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1638" y="1865" width="280" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-525" value="由于" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="865" y="1998" width="50" height="30" as="geometry" />
         </mxCell>
@@ -1553,6 +1514,9 @@
             <mxPoint x="83" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-530" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vwsM5nAZA5b_mvNWWmDU-527" source="vwsM5nAZA5b_mvNWWmDU-454" target="vwsM5nAZA5b_mvNWWmDU-506">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-528" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="860.75" y="1539.5" width="290" height="365.5" as="geometry" />
         </mxCell>
@@ -1705,6 +1669,48 @@
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-402" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-518">
           <mxGeometry x="25.5" y="175" width="19" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-529" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1460" y="1590.5" width="683.5" height="314.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-523" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-529">
+          <mxGeometry width="683.5" height="244.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-507" value="这里的作用是使用 warp 的特性&lt;div&gt;计算出 block 一行的 max 和 sum(d) 值&lt;/div&gt;&lt;div&gt;&lt;b&gt;最后将最终的 max 和 sum(d) 存储在每行的第一个线程中&lt;/b&gt;&lt;/div&gt;&lt;div&gt;下面展示第一步的迭代过程：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-523">
+          <mxGeometry width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-516" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-523">
+          <mxGeometry x="3.5" y="79.5" width="680" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-508" value="m &lt;b&gt;=&lt;/b&gt; m3&lt;div&gt;d &lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m3) + exp(x2 - m3) + exp(x3 - m3)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
+          <mxGeometry x="1" y="25.5" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-509" value="m &lt;b&gt;=&lt;/b&gt; m6&lt;div&gt;d &lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m6) + exp(x4 - m6) + exp(x5 - m6)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
+          <mxGeometry x="281.5" y="26" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-510" value="m &lt;b&gt;=&lt;/b&gt; max(m3, m6)&lt;div&gt;d &lt;b&gt;=&lt;/b&gt; [&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m3) + exp(x2 - m3) + exp(x3 - m3)] * exp(m3 - m) + [&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m6) + exp(x4 - m6) + exp(x5 - m6)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;] * exp(m6 - m)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m) + exp(x2 - m) + exp(x3 - m) + &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m) + exp(x4 - m) + exp(x5 - m)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
+          <mxGeometry y="105" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-511" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.191;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vwsM5nAZA5b_mvNWWmDU-516" source="vwsM5nAZA5b_mvNWWmDU-510">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="145.5" as="sourcePoint" />
+            <mxPoint x="130" y="69.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-512" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.53;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.196;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vwsM5nAZA5b_mvNWWmDU-516" source="vwsM5nAZA5b_mvNWWmDU-509" target="vwsM5nAZA5b_mvNWWmDU-510">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="95.5" as="sourcePoint" />
+            <mxPoint x="220" y="105.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-514" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
+          <mxGeometry x="111.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-515" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-516">
+          <mxGeometry x="394.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-524" value="当这一个步骤过完&lt;div&gt;则可以得出一个Br*Bc块的每一行的Max和Sum(d)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-529">
+          <mxGeometry x="180.5" y="274.5" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
