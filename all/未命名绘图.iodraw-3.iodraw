@@ -1737,7 +1737,7 @@
           <mxGeometry x="1161" y="2480" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-617" value="rowFactor = exp(oldMax - newRowMax)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1136" y="2370" width="240" height="30" as="geometry" />
+          <mxGeometry x="1161" y="2520" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-618" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1420" y="2520" width="60" height="390" as="geometry" />
@@ -1966,6 +1966,9 @@
             <mxPoint x="34.92000000000007" y="262.4000000000001" as="sourcePoint" />
             <mxPoint x="34.92000000000007" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-624" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="2578" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
