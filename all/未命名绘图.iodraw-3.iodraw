@@ -1289,8 +1289,11 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-272" value="④" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-522">
           <mxGeometry x="1" y="217.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-527" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1170" y="1570" width="250" height="335" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-531" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="860.75" y="1539.5" width="1268.75" height="365.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-527" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-531">
+          <mxGeometry x="309.25" y="30.5" width="250" height="335" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-493" value="&lt;b&gt;__shfl_down_sync&lt;/b&gt;(0xffffffff, rowMax, i, 8)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-527">
           <mxGeometry y="265" width="250" height="30" as="geometry" />
@@ -1514,8 +1517,8 @@
             <mxPoint x="83" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-528" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="860.75" y="1539.5" width="290" height="365.5" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-528" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-531">
+          <mxGeometry width="290" height="365.5" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-427" value="这个block的行线程的个数必须要小于32（1warp）&lt;div&gt;使用warp的shf_down_sync函数求tile分块的m和d&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#fd0808;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-528">
           <mxGeometry y="325.5" width="290" height="40" as="geometry" />
@@ -1667,8 +1670,8 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-402" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff0000;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-518">
           <mxGeometry x="25.5" y="175" width="19" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-529" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1446" y="1590.5" width="683.5" height="314.5" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-529" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-531">
+          <mxGeometry x="585.25" y="51" width="683.5" height="314.5" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-523" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-529">
           <mxGeometry width="683.5" height="244.5" as="geometry" />
