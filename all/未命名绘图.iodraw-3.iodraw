@@ -1766,8 +1766,8 @@
             <mxPoint x="1310" y="2531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-617" value="rowFactor = exp(oldMax, newRowMax)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="2370" width="230" height="30" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-617" value="rowFactor = exp(oldMax - newRowMax)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="2370" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-618" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1420" y="2520" width="60" height="390" as="geometry" />
