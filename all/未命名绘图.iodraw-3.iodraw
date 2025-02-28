@@ -1961,6 +1961,15 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-611" value="max(oldMax, rowMax)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1085" y="2330" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-613" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-575">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="2570" as="sourcePoint" />
+            <mxPoint x="1250" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-614" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="2548" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
