@@ -1658,8 +1658,8 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-523" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1464.5" y="1590.5" width="683.5" height="244.5" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-507" value="这里的作用是使用 warp 的特性&lt;div&gt;计算出 block 一行的 max 和 sum(d) 值&lt;/div&gt;&lt;div&gt;最后将最终的 max 和 sum(d) 存储在每行的第一个线程中&lt;/div&gt;&lt;div&gt;下面展示第一步的迭代过程：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-523">
-          <mxGeometry width="320" height="70" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-507" value="这里的作用是使用 warp 的特性&lt;div&gt;计算出 block 一行的 max 和 sum(d) 值&lt;/div&gt;&lt;div&gt;&lt;b&gt;最后将最终的 max 和 sum(d) 存储在每行的第一个线程中&lt;/b&gt;&lt;/div&gt;&lt;div&gt;下面展示第一步的迭代过程：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-523">
+          <mxGeometry width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-516" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-523">
           <mxGeometry x="3.5" y="79.5" width="680" height="165" as="geometry" />
