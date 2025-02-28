@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="qZqkXakZP7cPQXiCxv3s">
-    <mxGraphModel dx="2625" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1125,7 +1125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-525" value="由于 P 矩阵的 x 方向是由 Main For 循环所进行的切分&lt;div&gt;所以 block 在 x 方向上具有一个迭代&lt;/div&gt;&lt;div&gt;也就是需要存储每次迭代的 Max 和 Sum(d) 到 shared memory 中&lt;/div&gt;&lt;div&gt;&lt;b&gt;注：只有block的第一列的线程执行此项操作&lt;/b&gt;&lt;/div&gt;&lt;div&gt;下面展示递推公式：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="976" y="2090" width="370" height="90" as="geometry" />
+          <mxGeometry x="953" y="2060" width="370" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-533" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="930" y="1210" width="1052" height="285" as="geometry" />
@@ -1725,7 +1725,7 @@
           <mxGeometry x="930" y="2020" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-673" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="991" y="2180" width="580" height="560" as="geometry" />
+          <mxGeometry x="968" y="2150" width="580" height="560" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-618" value="" style="group" vertex="1" connectable="0" parent="vwsM5nAZA5b_mvNWWmDU-673">
           <mxGeometry x="300.5" y="170" width="75" height="390" as="geometry" />
