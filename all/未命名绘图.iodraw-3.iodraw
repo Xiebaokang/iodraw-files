@@ -1290,7 +1290,7 @@
           <mxGeometry x="1" y="217.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-527" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1185" y="1570" width="250" height="335" as="geometry" />
+          <mxGeometry x="1170" y="1570" width="250" height="335" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-493" value="&lt;b&gt;__shfl_down_sync&lt;/b&gt;(0xffffffff, rowMax, i, 8)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-527">
           <mxGeometry y="265" width="250" height="30" as="geometry" />
@@ -1513,9 +1513,6 @@
             <mxPoint x="33" y="110" as="sourcePoint" />
             <mxPoint x="83" y="60" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-530" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vwsM5nAZA5b_mvNWWmDU-527" source="vwsM5nAZA5b_mvNWWmDU-454" target="vwsM5nAZA5b_mvNWWmDU-506">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-528" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="860.75" y="1539.5" width="290" height="365.5" as="geometry" />
