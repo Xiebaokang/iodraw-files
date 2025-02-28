@@ -2015,11 +2015,11 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-641" value="&lt;b&gt;smFactor&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-625">
           <mxGeometry x="-10" y="360" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-659" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smRowSum&amp;nbsp;&lt;b&gt;=&lt;/b&gt;&amp;nbsp;d&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smRowMax&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;=&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;m&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="2170" width="250" height="30" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-659" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;smRowSum&amp;nbsp;&lt;b&gt;=&lt;/b&gt;&amp;nbsp;d&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="2170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-660" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="2208" width="50" height="30" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-660" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;smFactor&amp;nbsp;&lt;b&gt;=&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;exp(smMax - m)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="2208" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
