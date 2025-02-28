@@ -1193,6 +1193,12 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-261" value="m1 = max(m0, x1)&lt;div&gt;d1 = 0 * exp(m0 - m1) + exp(x1 - m1) = exp(x1 - m1)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1001" y="1460" width="300" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-262" value="m2 = max(m1, x2)&lt;div&gt;d2 = exp(x1 - m1) * exp(m1 - m2) + exp(x2 - m2) = exp(x1 - m2) + exp(x2 - m2)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="851" y="1520" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-263" value="m2 = max(m1, x2)&lt;div&gt;d2 = exp(x1 - m1) * exp(m1 - m2) + exp(x2 - m2) = exp(x1 - m2) + exp(x2 - m2)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="861" y="1530" width="440" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
