@@ -1385,6 +1385,12 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-329" value="BrTile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="841" y="1764.5" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-330" value="BcTile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-331" value="BcTile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1710" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
