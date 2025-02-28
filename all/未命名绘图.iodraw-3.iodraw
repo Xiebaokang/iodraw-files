@@ -1646,6 +1646,9 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-509" value="m = m6&lt;div&gt;d =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x3 - m6) + exp(x4 - m6) + exp(x5 - m6)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1761.5" y="1599.5" width="270" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-510" value="m = m3&lt;div&gt;d =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;exp(x1 - m3) + exp(x2 - m3) + exp(x3 - m3)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1481" y="1680.5" width="270" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
