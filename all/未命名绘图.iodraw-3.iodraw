@@ -1392,7 +1392,10 @@
           <mxGeometry x="1050" y="1710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-332" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="1285" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="1270" width="19" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-333" value="TileS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="935" y="1360" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
