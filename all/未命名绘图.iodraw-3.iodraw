@@ -1188,7 +1188,7 @@
           <mxGeometry x="845" y="1385" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-260" value="m0 = -FLT_MAX&lt;div&gt;d0 = 0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1455" width="110" height="40" as="geometry" />
+          <mxGeometry x="851" y="1460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-261" value="m1 = max(m0, x1)&lt;div&gt;d1 = 0 * exp(m0 - m1) + exp(x1 - m1) = exp(x1 - m1)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1001" y="1460" width="300" height="40" as="geometry" />
