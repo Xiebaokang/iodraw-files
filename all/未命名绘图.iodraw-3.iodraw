@@ -1740,10 +1740,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-610" value="oldMax" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="2615" width="60" height="30" as="geometry" />
+          <mxGeometry x="1326" y="2585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-611" value="newRowMax = max(rowMax, oldMax)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="2500" width="220" height="30" as="geometry" />
+          <mxGeometry x="1111" y="2500" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-613" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-575" target="vwsM5nAZA5b_mvNWWmDU-614">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
