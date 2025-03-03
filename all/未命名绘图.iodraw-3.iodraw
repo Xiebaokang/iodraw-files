@@ -2340,7 +2340,7 @@
           <mxGeometry x="3240" y="1800" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-772" value="blockLayout=(1, 2)&lt;div&gt;warpLayout=(8, 4)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="1880" width="120" height="40" as="geometry" />
+          <mxGeometry x="2651" y="1920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-773" value="blockThreadWidth=(2, 2)&lt;div&gt;warpThreadWidth=(1, 1)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2651" y="1880" width="160" height="40" as="geometry" />
@@ -2352,7 +2352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-775" value="blockThreadRepeat=(2, 2)&lt;div&gt;warpThreadRepeat=(2, 2)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="1883" width="160" height="40" as="geometry" />
+          <mxGeometry x="2840" y="1880" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
