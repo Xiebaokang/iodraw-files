@@ -2217,7 +2217,7 @@
           <mxGeometry x="1" y="217.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-344" value="&lt;div&gt;rowMax存储TileS的行的最大值&lt;/div&gt;rowSum存储TileS行的d值（每个元素exp的和）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="1180" width="280" height="40" as="geometry" />
+          <mxGeometry x="845" y="1240" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1312.5" width="80" height="80" as="geometry" />
@@ -2310,7 +2310,7 @@
           <mxGeometry x="908.5" y="1372.5" width="19" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-783" value="&lt;div&gt;oldMax = rowMax&lt;/div&gt;nowMax = max(xi, oldMax)&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;nowSum = rowSum&amp;nbsp;* exp(oldMax - nowMax) + exp(xi - nowMax)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;rowMax = nowMax&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;rowSum = nowSum&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="831" y="1430" width="370" height="90" as="geometry" />
+          <mxGeometry x="841" y="1430" width="370" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
