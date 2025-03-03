@@ -2315,11 +2315,11 @@
             <mxPoint x="820" y="1322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-782" value="d&#39; * exp(m&#39;-m) + exp(x-m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="835" y="1255" width="160" height="30" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-782" value="rowSum = rowSum&amp;nbsp;* exp(m&#39;-m) + exp(x-m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1255" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-783" value="rowMax = max(xi, rowMax)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1255" width="170" height="30" as="geometry" />
+          <mxGeometry x="1050" y="1235" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
