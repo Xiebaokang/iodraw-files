@@ -2298,10 +2298,10 @@
           <mxGeometry x="440" y="3430" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-884" value="compile&lt;div&gt;（ptxas）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="3390" width="90" height="50" as="geometry" />
+          <mxGeometry x="440" y="3320" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-885" value="compile&lt;br&gt;&lt;div&gt;（LLVM）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="897" y="3452" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="3390" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
