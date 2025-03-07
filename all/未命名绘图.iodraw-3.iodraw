@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="4fAMWbI4UmuzoUyW3H-u">
-    <mxGraphModel dx="1050" dy="-1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="-125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-2" value="ONNX" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="285" y="2360" width="70" height="40" as="geometry" />
+          <mxGeometry x="350" y="2330" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-6" target="Ib0IWlJlYEP8s4aQNzNB-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="2500" />
-              <mxPoint x="120" y="2500" />
+              <mxPoint x="385" y="2470" />
+              <mxPoint x="185" y="2470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -24,28 +24,28 @@
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-6" target="Ib0IWlJlYEP8s4aQNzNB-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="2500" />
-              <mxPoint x="552" y="2500" />
+              <mxPoint x="385" y="2470" />
+              <mxPoint x="617" y="2470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-6" value="ONNX模型解析器（python）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="265" y="2430" width="110" height="40" as="geometry" />
+          <mxGeometry x="330" y="2400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-7" value="Kernel List (data strcut)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2590" width="160" height="100" as="geometry" />
+          <mxGeometry x="105" y="2560" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-8" value="表示具体的算子，且需要知道input tensor的shape" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ib0IWlJlYEP8s4aQNzNB-7">
           <mxGeometry y="30" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-9" value="Graph (data strcut)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248.75" y="2530" width="140" height="100" as="geometry" />
+          <mxGeometry x="313.75" y="2500" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-10" value="能够表示各个算子之间的调用关系（有向无环图）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ib0IWlJlYEP8s4aQNzNB-9">
           <mxGeometry y="30" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-11" value="Weight" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="2530" width="100" height="100" as="geometry" />
+          <mxGeometry x="567" y="2500" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-12" value="存储权重的指针" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ib0IWlJlYEP8s4aQNzNB-11">
           <mxGeometry y="30" width="100" height="70" as="geometry" />
@@ -54,10 +54,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-14" value="MLIR 构建器&lt;div&gt;（C++）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="57.5" y="2720" width="125" height="50" as="geometry" />
+          <mxGeometry x="122.5" y="2690" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-15" value="kernel naive（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="2810" width="180" height="140" as="geometry" />
+          <mxGeometry x="95" y="2780" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-16" value="根据kernel list中的kernel名字以及shape构建出MLIR的朴素表达。&lt;div&gt;且每一个kernel使用FuncOp表示，且生成在同一个moduleOp中&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ib0IWlJlYEP8s4aQNzNB-15">
           <mxGeometry y="30" width="180" height="110" as="geometry" />
@@ -66,10 +66,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-18" value="Fuse 算子融合器&lt;div&gt;（C++)&lt;/div&gt;&lt;div&gt;（passes set）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2993" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="2963" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-19" value="fused kernel naive（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="3090" width="180" height="140" as="geometry" />
+          <mxGeometry x="95" y="3060" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-20" value="根据图层算子间关系调整算子之间的顺序&lt;div&gt;将算子在naive层面进行融合&lt;/div&gt;&lt;div&gt;（具有一定的经验总结）&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ib0IWlJlYEP8s4aQNzNB-19">
           <mxGeometry y="30" width="180" height="110" as="geometry" />
@@ -78,10 +78,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-22" value="cpu to gpu mapping&lt;div&gt;(C++)&lt;/div&gt;&lt;div&gt;(passes set)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="60" y="3260" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="3230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-23" value="fused gpu naive kernel（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="3360" width="210" height="140" as="geometry" />
+          <mxGeometry x="80" y="3330" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-24" value="将CPU代码映射到GPU的硬件上进行运行，也就是对于循环进行切分，对于buffer进行设置&lt;div&gt;根据上面的循环切分设生成 tile 的 config 方案&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ib0IWlJlYEP8s4aQNzNB-23">
           <mxGeometry y="30" width="210" height="110" as="geometry" />
@@ -90,39 +90,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-26" value="gpu naive add optimizer&lt;div&gt;（C++）&lt;/div&gt;&lt;div&gt;passes set&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="3415" width="147.5" height="60" as="geometry" />
+          <mxGeometry x="342.5" y="3385" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-28" target="Ib0IWlJlYEP8s4aQNzNB-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-28" value="optimal&amp;nbsp;gpu kernel（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481.25" y="3360" width="210" height="140" as="geometry" />
+          <mxGeometry x="546.25" y="3330" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-29" value="将已经映射到GPU上的kernel添加一些优化，比如pipline，L2 Cache hit，splitU等" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ib0IWlJlYEP8s4aQNzNB-28">
           <mxGeometry y="30" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-30" value="lowering&lt;div&gt;(C++)&lt;/div&gt;&lt;div&gt;lowering pases set&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="526.25" y="3270" width="120" height="60" as="geometry" />
+          <mxGeometry x="591.25" y="3240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-33" target="Ib0IWlJlYEP8s4aQNzNB-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="586.75" y="3070" />
-              <mxPoint x="536.75" y="3070" />
-              <mxPoint x="536.75" y="3040" />
+              <mxPoint x="651.75" y="3040" />
+              <mxPoint x="601.75" y="3040" />
+              <mxPoint x="601.75" y="3010" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-33" target="Ib0IWlJlYEP8s4aQNzNB-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="586.75" y="3070" />
-              <mxPoint x="653.75" y="3070" />
+              <mxPoint x="651.75" y="3040" />
+              <mxPoint x="718.75" y="3040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-33" value="optimal&amp;nbsp;gpu kernel（LLVM IR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486.25" y="3090" width="200" height="140" as="geometry" />
+          <mxGeometry x="551.25" y="3060" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-34" value="对于不同的后端进行lowering&lt;div&gt;例如：amd为llvm+rocdl / nv为llvm+nvvm&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ib0IWlJlYEP8s4aQNzNB-33">
           <mxGeometry y="30" width="200" height="110" as="geometry" />
@@ -134,53 +134,53 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-37" value="translate&lt;div&gt;（C++）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="478.75" y="3003" width="120" height="50" as="geometry" />
+          <mxGeometry x="543.75" y="2973" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-38" value="amdgcn" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="526.25" y="2910" width="90" height="50" as="geometry" />
+          <mxGeometry x="591.25" y="2880" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-40" target="Ib0IWlJlYEP8s4aQNzNB-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-40" value="ptx" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="391.25" y="2910" width="90" height="50" as="geometry" />
+          <mxGeometry x="456.25" y="2880" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-42" target="Ib0IWlJlYEP8s4aQNzNB-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-42" value="compile&lt;div&gt;（ptxas）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="391.25" y="2840" width="90" height="50" as="geometry" />
+          <mxGeometry x="456.25" y="2810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-44" target="Ib0IWlJlYEP8s4aQNzNB-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-44" value="compile&lt;br&gt;&lt;div&gt;（LLVM）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="608.75" y="2850" width="90" height="50" as="geometry" />
+          <mxGeometry x="673.75" y="2820" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-46" target="Ib0IWlJlYEP8s4aQNzNB-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="436" y="2760" />
-              <mxPoint x="552" y="2760" />
+              <mxPoint x="501" y="2730" />
+              <mxPoint x="617" y="2730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-46" value="HSACO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="388.75" y="2770" width="95" height="50" as="geometry" />
+          <mxGeometry x="453.75" y="2740" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-48" target="Ib0IWlJlYEP8s4aQNzNB-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="654" y="2760" />
-              <mxPoint x="552" y="2760" />
+              <mxPoint x="719" y="2730" />
+              <mxPoint x="617" y="2730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-48" value="CUBIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="606.25" y="2770" width="95" height="50" as="geometry" />
+          <mxGeometry x="671.25" y="2740" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-49" value="runtime&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;根据生成的二进制文件进行生成对应的llauncher和loader&lt;/div&gt;&lt;div&gt;因为二进制文件里面只包含了需要调用的小kernel所以launcher需要动态变换&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2660" width="304" height="80" as="geometry" />
+          <mxGeometry x="465" y="2630" width="304" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;dashed=1;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-53" target="Ib0IWlJlYEP8s4aQNzNB-26">
           <mxGeometry relative="1" as="geometry" />
@@ -192,12 +192,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-53" value="passes&amp;nbsp; set&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有关于mlir转换pass的集合&lt;/div&gt;&lt;div&gt;例如：split、reorder、bufferize、pipeline、splitU等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="246.25" y="3235" width="210" height="110" as="geometry" />
+          <mxGeometry x="311.25" y="3205" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.492;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-12" target="Ib0IWlJlYEP8s4aQNzNB-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="2830" as="sourcePoint" />
-            <mxPoint x="600" y="2780" as="targetPoint" />
+            <mxPoint x="615" y="2800" as="sourcePoint" />
+            <mxPoint x="665" y="2750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-24" target="Ib0IWlJlYEP8s4aQNzNB-26">
@@ -205,20 +205,20 @@
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="2690" as="sourcePoint" />
-            <mxPoint x="120" y="2720" as="targetPoint" />
+            <mxPoint x="185" y="2660" as="sourcePoint" />
+            <mxPoint x="185" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ib0IWlJlYEP8s4aQNzNB-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="2950" as="sourcePoint" />
-            <mxPoint x="430" y="2910" as="targetPoint" />
+            <mxPoint x="185" y="2920" as="sourcePoint" />
+            <mxPoint x="495" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.498;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-20" target="Ib0IWlJlYEP8s4aQNzNB-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="3240" as="sourcePoint" />
-            <mxPoint x="430" y="3190" as="targetPoint" />
+            <mxPoint x="445" y="3210" as="sourcePoint" />
+            <mxPoint x="495" y="3160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.495;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ib0IWlJlYEP8s4aQNzNB-30" target="Ib0IWlJlYEP8s4aQNzNB-34">
