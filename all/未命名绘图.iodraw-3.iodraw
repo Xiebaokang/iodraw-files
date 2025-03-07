@@ -2256,13 +2256,13 @@
           <mxGeometry x="67.5" y="3230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-870" value="fused gpu naive kernel（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="3340" width="210" height="140" as="geometry" />
+          <mxGeometry x="15" y="3360" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-871" value="将CPU代码映射到GPU的硬件上进行运行，也就是对于循环进行切分，对于buffer进行设置&lt;div&gt;根据上面的循环切分设生成 tile 的 config 方案&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-870">
           <mxGeometry y="30" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-872" value="gpu naive add optimizer&lt;div&gt;（C++）&lt;/div&gt;&lt;div&gt;passes set&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="278.75" y="3380" width="147.5" height="60" as="geometry" />
+          <mxGeometry x="260" y="3400" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-873" value="optimal&amp;nbsp;gpu kernel（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="3360" width="210" height="140" as="geometry" />
