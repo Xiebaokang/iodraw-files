@@ -2348,7 +2348,12 @@
           <mxGeometry x="388.75" y="2770" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-907" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-895" target="vwsM5nAZA5b_mvNWWmDU-904">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="654" y="2760" />
+              <mxPoint x="552" y="2760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-895" value="CUBIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="606.25" y="2770" width="95" height="50" as="geometry" />
@@ -2358,6 +2363,12 @@
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-905" value="passes&amp;nbsp; set&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="3080" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-908" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="2830" as="sourcePoint" />
+            <mxPoint x="600" y="2780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
