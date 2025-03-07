@@ -2292,13 +2292,18 @@
           <mxGeometry x="550" y="3480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-881" value="amdgcn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="3380" width="90" height="50" as="geometry" />
+          <mxGeometry x="610" y="3380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-883" value="ptx" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="3390" width="90" height="50" as="geometry" />
+          <mxGeometry x="460" y="3380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-884" value="compile&lt;div&gt;（ptxas）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="3320" width="90" height="50" as="geometry" />
+          <mxGeometry x="460" y="3280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-887" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-885">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="3320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-885" value="compile&lt;br&gt;&lt;div&gt;（LLVM）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="3380" width="90" height="50" as="geometry" />
