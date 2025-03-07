@@ -2292,10 +2292,10 @@
           <mxGeometry x="570" y="3507" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-881" value="amdgcn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="3512" width="90" height="50" as="geometry" />
+          <mxGeometry x="380" y="3490" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-883" value="ptx" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="3430" width="90" height="50" as="geometry" />
+          <mxGeometry x="350" y="3390" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-884" value="compile&lt;div&gt;（ptxas）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="3320" width="90" height="50" as="geometry" />
