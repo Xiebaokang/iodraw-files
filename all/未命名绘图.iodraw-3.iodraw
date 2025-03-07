@@ -2292,7 +2292,7 @@
           <mxGeometry x="520" y="3480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-881" value="amdgcn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="3380" width="90" height="50" as="geometry" />
+          <mxGeometry x="570" y="3380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-883" value="ptx" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="3380" width="90" height="50" as="geometry" />
@@ -2301,7 +2301,7 @@
           <mxGeometry x="435" y="3290" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-885" value="compile&lt;br&gt;&lt;div&gt;（LLVM）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="3280" width="90" height="50" as="geometry" />
+          <mxGeometry x="670" y="3290" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
