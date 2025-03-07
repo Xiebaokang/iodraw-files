@@ -2238,7 +2238,7 @@
           <mxGeometry x="65" y="2660" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-858" value="kernel naive（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="37.5" y="2740" width="180" height="140" as="geometry" />
+          <mxGeometry x="37.5" y="2750" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-859" value="根据kernel list中的kernel名字以及shape构建出MLIR的朴素表达。&lt;div&gt;且每一个kernel使用FuncOp表示，且生成在同一个moduleOp中&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-858">
           <mxGeometry y="30" width="180" height="110" as="geometry" />
@@ -2253,10 +2253,10 @@
           <mxGeometry y="30" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-867" value="cpu to gpu mapping&lt;div&gt;(C++)&lt;/div&gt;&lt;div&gt;(passes set)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="3210" width="120" height="60" as="geometry" />
+          <mxGeometry x="67.5" y="3230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-870" value="fused gpu naive kernel（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="3320" width="210" height="140" as="geometry" />
+          <mxGeometry x="22.5" y="3340" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-871" value="将CPU代码映射到GPU的硬件上进行运行，也就是对于循环进行切分，对于buffer进行设置&lt;div&gt;根据上面的循环切分设生成 tile 的 config 方案&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-870">
           <mxGeometry y="30" width="210" height="110" as="geometry" />
