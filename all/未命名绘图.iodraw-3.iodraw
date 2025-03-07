@@ -2249,7 +2249,7 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-859" value="根据kernel list中的kernel名字以及shape构建出MLIR的朴素表达。&lt;div&gt;且每一个kernel使用FuncOp表示，且生成在同一个moduleOp中&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-858">
           <mxGeometry y="30" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-860" value="Fuse 算子融合器&lt;div&gt;（C++）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-860" value="Fuse 算子融合器&lt;div&gt;（C++)&lt;/div&gt;&lt;div&gt;（passes set）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="2937" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
