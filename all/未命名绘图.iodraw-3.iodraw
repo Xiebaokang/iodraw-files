@@ -2235,7 +2235,7 @@
           <mxGeometry y="30" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-853" value="MLIR 构建器&lt;div&gt;（C++）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="65" y="2650" width="125" height="50" as="geometry" />
+          <mxGeometry x="65" y="2660" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-858" value="kernel naive（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="2740" width="180" height="140" as="geometry" />
@@ -2244,7 +2244,7 @@
           <mxGeometry y="30" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-860" value="Fuse 算子融合器&lt;div&gt;（C++)&lt;/div&gt;&lt;div&gt;（passes set）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2910" width="120" height="60" as="geometry" />
+          <mxGeometry x="67.5" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-864" value="fused kernel naive（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="3000" width="180" height="140" as="geometry" />
