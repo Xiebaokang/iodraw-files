@@ -2264,8 +2264,11 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-867" value="cpu to gpu mapping&lt;div&gt;(C++)&lt;/div&gt;&lt;div&gt;(passes set)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="3220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-868" value="具有一些特定的变换方式：for循环变" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3010" width="220" height="67" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-870" value="fused kernel naive（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="3040" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-871" value="根据图层算子间关系调整算子之间的顺序&lt;div&gt;将算子在naive层面进行融合&lt;/div&gt;&lt;div&gt;（具有一定的经验总结）&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-870">
+          <mxGeometry y="30" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
