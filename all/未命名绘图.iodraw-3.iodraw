@@ -2279,8 +2279,11 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-874" value="将已经映射到GPU上的kernel添加一些优化，比如pipline，L2 Cache hit，splitU等" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-873">
           <mxGeometry y="30" width="210" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-899" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-877" target="vwsM5nAZA5b_mvNWWmDU-879">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-877" value="lowering&lt;div&gt;(C++)&lt;/div&gt;&lt;div&gt;lowering pases set&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3650" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="3665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-889" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-878" target="vwsM5nAZA5b_mvNWWmDU-880">
           <mxGeometry relative="1" as="geometry">
