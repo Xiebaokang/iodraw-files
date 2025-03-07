@@ -2283,7 +2283,20 @@
           <mxGeometry x="340" y="3650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-889" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-878" target="vwsM5nAZA5b_mvNWWmDU-880">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="3570" />
+              <mxPoint x="580" y="3570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-890" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-878" target="vwsM5nAZA5b_mvNWWmDU-885">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="3570" />
+              <mxPoint x="715" y="3570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-878" value="optimal&amp;nbsp;gpu kernel（LLVM IR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="3610" width="200" height="140" as="geometry" />
