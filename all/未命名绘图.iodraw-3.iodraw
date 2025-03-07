@@ -2211,7 +2211,9 @@
           <mxGeometry x="230" y="2520" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-838" value="Graph （data struct）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2410" width="200" height="200" as="geometry" />
+          <mxGeometry x="480" y="2550" width="150" height="120" as="geometry">
+            <mxRectangle x="480" y="2550" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
