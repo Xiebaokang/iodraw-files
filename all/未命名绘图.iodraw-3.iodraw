@@ -2235,7 +2235,13 @@
           <mxGeometry y="30" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-853" value="MLIR 构建器&lt;div&gt;（C++）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="2700" width="125" height="50" as="geometry" />
+          <mxGeometry x="67.5" y="2680" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-854" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="2620" as="sourcePoint" />
+            <mxPoint x="380" y="2570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
