@@ -2276,21 +2276,21 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-889" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-878" target="vwsM5nAZA5b_mvNWWmDU-880">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1002.5" y="3440" />
-              <mxPoint x="952.5" y="3440" />
+              <mxPoint x="657.5" y="2970" />
+              <mxPoint x="607.5" y="2970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-890" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-878" target="vwsM5nAZA5b_mvNWWmDU-885">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1002.5" y="3440" />
-              <mxPoint x="1087.5" y="3440" />
+              <mxPoint x="657.5" y="2970" />
+              <mxPoint x="742.5" y="2970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-878" value="optimal&amp;nbsp;gpu kernel（LLVM IR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="902.5" y="3480" width="200" height="140" as="geometry" />
+          <mxGeometry x="557.5" y="3010" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-879" value="对于不同的后端进行lowering&lt;div&gt;例如：amd为llvm+rocdl / nv为llvm+nvvm&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vwsM5nAZA5b_mvNWWmDU-878">
           <mxGeometry y="30" width="200" height="110" as="geometry" />
@@ -2302,34 +2302,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-880" value="translate&lt;div&gt;（C++）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="897" y="3380" width="120" height="50" as="geometry" />
+          <mxGeometry x="552" y="2910" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-881" value="amdgcn" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="940" y="3280" width="90" height="50" as="geometry" />
+          <mxGeometry x="595" y="2810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-893" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-883" target="vwsM5nAZA5b_mvNWWmDU-884">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-883" value="ptx" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="807.5" y="3280" width="90" height="50" as="geometry" />
+          <mxGeometry x="462.5" y="2810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-896" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-884" target="vwsM5nAZA5b_mvNWWmDU-894">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-884" value="compile&lt;div&gt;（ptxas）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="807.5" y="3200" width="90" height="50" as="geometry" />
+          <mxGeometry x="462.5" y="2730" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-897" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-885" target="vwsM5nAZA5b_mvNWWmDU-895">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-885" value="compile&lt;br&gt;&lt;div&gt;（LLVM）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1042.5" y="3210" width="90" height="50" as="geometry" />
+          <mxGeometry x="697.5" y="2740" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-894" value="HSACO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="805" y="3110" width="95" height="50" as="geometry" />
+          <mxGeometry x="460" y="2640" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-895" value="CUBIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="3110" width="95" height="50" as="geometry" />
+          <mxGeometry x="695" y="2640" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-904" value="runtime&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;根据生成的二进制文件进行生成对应的llauncher和loader&lt;/div&gt;&lt;div&gt;因为二进制文件里面只包含了需要调用的小kernel所以launcher需要动态变换&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="2690" width="160" height="110" as="geometry" />
