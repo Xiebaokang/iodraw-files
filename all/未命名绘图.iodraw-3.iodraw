@@ -2289,7 +2289,7 @@
           <mxGeometry y="30" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-880" value="translate&lt;div&gt;（C++）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="3507" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="3480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-881" value="amdgcn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="3490" width="90" height="50" as="geometry" />
@@ -2301,7 +2301,7 @@
           <mxGeometry x="440" y="3320" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-885" value="compile&lt;br&gt;&lt;div&gt;（LLVM）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="3390" width="90" height="50" as="geometry" />
+          <mxGeometry x="897" y="3380" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
