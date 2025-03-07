@@ -2373,8 +2373,14 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-904" value="runtime&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;根据生成的二进制文件进行生成对应的llauncher和loader&lt;/div&gt;&lt;div&gt;因为二进制文件里面只包含了需要调用的小kernel所以launcher需要动态变换&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="2660" width="304" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-914" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-905" target="vwsM5nAZA5b_mvNWWmDU-872">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-915" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-905" target="vwsM5nAZA5b_mvNWWmDU-867">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-905" value="passes&amp;nbsp; set&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有关于mlir转换pass的集合&lt;/div&gt;&lt;div&gt;例如：split、reorder、bufferize、pipeline、splitU等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246.25" y="3120" width="210" height="110" as="geometry" />
+          <mxGeometry x="246.25" y="3235" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-908" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.492;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-847" target="vwsM5nAZA5b_mvNWWmDU-904">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
