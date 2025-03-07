@@ -2252,8 +2252,8 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-860" value="Fuse 算子融合器&lt;div&gt;（C++)&lt;/div&gt;&lt;div&gt;（passes set）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67.5" y="2937" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-862" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=7.22;dx=37.83;notch=0;arrowHead=69.04;rounded=0;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="340" y="2800" width="135" height="182" as="geometry" />
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-862" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=7.22;dx=37.83;notch=0;arrowHead=32.17;rounded=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2800" width="100" height="182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
