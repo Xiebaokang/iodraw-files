@@ -2262,7 +2262,7 @@
           <mxGeometry y="30" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-872" value="gpu naive add optimizer&lt;div&gt;（C++）&lt;/div&gt;&lt;div&gt;passes set&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="3370" width="147.5" height="60" as="geometry" />
+          <mxGeometry x="316.25" y="3360" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-873" value="optimal&amp;nbsp;gpu kernel（MLIR）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="3320" width="210" height="140" as="geometry" />
@@ -2271,7 +2271,7 @@
           <mxGeometry y="30" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-877" value="lowering&lt;div&gt;(C++)&lt;/div&gt;&lt;div&gt;lowering pases set&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="630" y="3490" width="120" height="60" as="geometry" />
+          <mxGeometry x="595" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-889" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwsM5nAZA5b_mvNWWmDU-878" target="vwsM5nAZA5b_mvNWWmDU-880">
           <mxGeometry relative="1" as="geometry">
