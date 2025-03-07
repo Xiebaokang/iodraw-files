@@ -2201,7 +2201,7 @@
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-825" value="ONNX" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
           <mxGeometry x="285" y="2360" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vwsM5nAZA5b_mvNWWmDU-827" value="ONNX解析器（python）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwsM5nAZA5b_mvNWWmDU-827" value="ONNX模型解析器（python）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="2430" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vwsM5nAZA5b_mvNWWmDU-840" value="Kernel List (data strcut)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
