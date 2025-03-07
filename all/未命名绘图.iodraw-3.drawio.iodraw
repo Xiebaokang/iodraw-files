@@ -39,7 +39,7 @@
           <mxGeometry y="30" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-9" value="Graph (data strcut)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="302.75" y="2523" width="140" height="100" as="geometry" />
+          <mxGeometry x="304" y="2523" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ib0IWlJlYEP8s4aQNzNB-10" value="能够表示各个算子之间的调用关系（有向无环图）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Ib0IWlJlYEP8s4aQNzNB-9" vertex="1">
           <mxGeometry y="30" width="140" height="70" as="geometry" />
@@ -229,7 +229,7 @@
             <mxPoint x="390" y="2740" as="sourcePoint" />
             <mxPoint x="440" y="2690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="2890" />
+              <mxPoint x="370" y="3016" />
             </Array>
           </mxGeometry>
         </mxCell>
