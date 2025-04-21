@@ -5,28 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hP7XV2d0W5KNtRyKytXP-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="120" height="110" as="geometry" />
+          <mxGeometry x="110" y="110" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hP7XV2d0W5KNtRyKytXP-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hP7XV2d0W5KNtRyKytXP-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.99;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hP7XV2d0W5KNtRyKytXP-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="150" as="sourcePoint" />
-            <mxPoint x="230" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hP7XV2d0W5KNtRyKytXP-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.99;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="141" y="160" as="sourcePoint" />
-            <mxPoint x="240" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hP7XV2d0W5KNtRyKytXP-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.99;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="170" as="sourcePoint" />
-            <mxPoint x="239" y="170" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="hP7XV2d0W5KNtRyKytXP-12" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="420" y="310" width="120" height="30" as="geometry" />
