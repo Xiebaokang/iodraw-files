@@ -33,9 +33,12 @@
         </mxCell>
         <mxCell id="hP7XV2d0W5KNtRyKytXP-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.99;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="170" as="sourcePoint" />
-            <mxPoint x="259" y="170" as="targetPoint" />
+            <mxPoint x="140" y="170" as="sourcePoint" />
+            <mxPoint x="239" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hP7XV2d0W5KNtRyKytXP-12" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
