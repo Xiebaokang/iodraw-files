@@ -238,8 +238,8 @@
         <mxCell id="oV9iECC9mV3qR_9E5OLF-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;block level&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="555" y="760" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oV9iECC9mV3qR_9E5OLF-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;block level&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;" vertex="1" parent="1">
-          <mxGeometry x="755" y="680" width="90" height="30" as="geometry" />
+        <mxCell id="oV9iECC9mV3qR_9E5OLF-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;thread level&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="750" y="680" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
