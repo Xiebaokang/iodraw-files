@@ -262,8 +262,8 @@
             <mxPoint x="760" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oV9iECC9mV3qR_9E5OLF-74" value="newmax = max(oldmax, elem)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="758" width="180" height="30" as="geometry" />
+        <mxCell id="oV9iECC9mV3qR_9E5OLF-74" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;newmax = max(oldmax, elem)&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;newsum = oldsum * exp(oldmax - newmax) + exp(elem - newmax)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="748" width="490" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
