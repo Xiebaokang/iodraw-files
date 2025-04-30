@@ -220,8 +220,8 @@
         <mxCell id="oV9iECC9mV3qR_9E5OLF-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="600" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oV9iECC9mV3qR_9E5OLF-63" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="848" width="50" height="30" as="geometry" />
+        <mxCell id="oV9iECC9mV3qR_9E5OLF-63" value="grid level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="848" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
