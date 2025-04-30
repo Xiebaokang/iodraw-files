@@ -148,7 +148,7 @@
             <mxPoint x="355" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oV9iECC9mV3qR_9E5OLF-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oV9iECC9mV3qR_9E5OLF-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="279.47" y="540" as="sourcePoint" />
             <mxPoint x="279.47" y="580" as="targetPoint" />
@@ -250,16 +250,16 @@
         <mxCell id="oV9iECC9mV3qR_9E5OLF-70" value="BrTile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="625" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oV9iECC9mV3qR_9E5OLF-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oV9iECC9mV3qR_9E5OLF-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="640" as="sourcePoint" />
             <mxPoint x="480" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oV9iECC9mV3qR_9E5OLF-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oV9iECC9mV3qR_9E5OLF-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="650" as="sourcePoint" />
-            <mxPoint x="490" y="650" as="targetPoint" />
+            <mxPoint x="720" y="625" as="sourcePoint" />
+            <mxPoint x="760" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
