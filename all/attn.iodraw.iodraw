@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="XiSnQoUzoh0zi3ATCUS0">
-    <mxGraphModel dx="1105" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3500" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oV9iECC9mV3qR_9E5OLF-74" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;newmax = max(oldmax, elem)&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;newsum = oldsum * exp(oldmax - newmax) + exp(elem - newmax)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1040" width="490" height="50" as="geometry" />
+          <mxGeometry x="800" y="750" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oV9iECC9mV3qR_9E5OLF-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;newmax = max(max0, max1)&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;newsum = sum0 * exp(max0 - newmax) + sum1 * exp(max1 - newmax)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="1040" width="530" height="50" as="geometry" />
@@ -273,9 +273,6 @@
         </mxCell>
         <mxCell id="oV9iECC9mV3qR_9E5OLF-79" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;max0 = regmax&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;max1 = __shlf_down_sync(regmax, i, block_x)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;sum0 = regsum&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;sum1 =&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;__shlf_down_sync(regmax, i, block_x)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="880" width="330" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="oV9iECC9mV3qR_9E5OLF-80" value="oldmax = ti" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="798" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
