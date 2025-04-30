@@ -268,8 +268,8 @@
         <mxCell id="oV9iECC9mV3qR_9E5OLF-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;newmax = max(max1, max2)&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;newsum = sum1 * exp(max1 - newmax) + sum2 * exp(max2 - newmax)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="1040" width="530" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oV9iECC9mV3qR_9E5OLF-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="868" width="50" height="30" as="geometry" />
+        <mxCell id="oV9iECC9mV3qR_9E5OLF-78" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;max1 = regmax&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;max2 = smmax&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;sum1 = regsum&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;sum2 = smsum&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="850" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
