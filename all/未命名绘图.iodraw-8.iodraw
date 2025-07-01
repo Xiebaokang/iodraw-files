@@ -2424,13 +2424,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-2" value="producer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1560" width="70" height="30" as="geometry" />
+          <mxGeometry x="130" y="1560" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-3" value="consumer_0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="1640" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-4" value="consumer_1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1720" width="90" height="30" as="geometry" />
+          <mxGeometry x="110" y="1720" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-6" value="&lt;div&gt;tma&lt;/div&gt;issue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="1560" width="60" height="40" as="geometry" />
