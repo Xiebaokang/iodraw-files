@@ -2448,7 +2448,7 @@
           <mxGeometry x="400" y="1540" width="98.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-12" value="load&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;scale_b&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1650" width="80" height="30" as="geometry" />
+          <mxGeometry x="220" y="1640" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-13" value="gemm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="382" y="1640" width="98" height="40" as="geometry" />
@@ -2457,10 +2457,10 @@
           <mxGeometry x="480" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-15" value="gemm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="392" y="1650" width="98" height="40" as="geometry" />
+          <mxGeometry x="481.25" y="1720" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-16" value="promotion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1650" width="80" height="40" as="geometry" />
+          <mxGeometry x="579.25" y="1720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
