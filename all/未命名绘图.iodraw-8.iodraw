@@ -2456,6 +2456,12 @@
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-14" value="promotion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BqjUEd6lUSE-s-NRpB8f-15" value="gemm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="392" y="1650" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BqjUEd6lUSE-s-NRpB8f-16" value="promotion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1650" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
