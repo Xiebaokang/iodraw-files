@@ -2468,8 +2468,11 @@
         <mxCell id="BqjUEd6lUSE-s-NRpB8f-18" value="promotion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="677.25" y="1640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BqjUEd6lUSE-s-NRpB8f-19" value="consumer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1890" width="80" height="30" as="geometry" />
+        <mxCell id="BqjUEd6lUSE-s-NRpB8f-19" value="consumer（0-31）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1890" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BqjUEd6lUSE-s-NRpB8f-20" value="consumer（0-31）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1900" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
