@@ -310,7 +310,7 @@
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-105" value="②" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1443.75" y="568" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-106" value="计算完block-level的shlf_down后，整个q*k在block层结果的每一行max和sum的值都会store在第一列线程的regMax和regSum中" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-106" value="计算完block-level的shlf_down后，整个q*k在block层结果的每一行max和sum的值都会store在第一列线程的regMax和regSum中" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="910" y="920" width="690" height="30" as="geometry" />
         </mxCell>
       </root>
