@@ -79,6 +79,12 @@
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="-130" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-28" value="(Bc)64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-29" value="(HD)128" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="485" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
