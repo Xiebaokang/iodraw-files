@@ -313,6 +313,9 @@
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-106" value="计算完block-level的shlf_down后，整个q*k在block层结果的每一行max值都会store在第一列线程的regMax中&lt;div&gt;因为后续需要使用&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="910" y="915" width="590" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="970" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
