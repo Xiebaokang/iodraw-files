@@ -211,8 +211,8 @@
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-72" value="thread level:&amp;nbsp;&lt;div&gt;get row Max -&amp;gt; regMax[i]&lt;/div&gt;&lt;div&gt;get row Sum -&amp;gt; regSum[i]&lt;/div&gt;&lt;div&gt;i ∈[0, 4)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1150" y="803" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-73" value="block-level:&lt;div&gt;get row max&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="935" y="803" width="90" height="40" as="geometry" />
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-73" value="block-level:&lt;div&gt;get row Max -&amp;gt; shlf_down(idx, regMax[i], 16)&lt;/div&gt;&lt;div&gt;get row Sum -&amp;gt; shlf_down(&lt;span style=&quot;background-color: initial;&quot;&gt;idx, regMax[i], 16&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="803" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1295" y="720" width="10" height="10" as="geometry" />
