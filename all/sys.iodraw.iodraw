@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="FomrAsKNyxjdWEGFceIk" name="第 1 页">
-    <mxGraphModel dx="525" dy="1430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,8 +310,8 @@
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-105" value="②" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1443.75" y="568" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-106" value="计算完block-level的shlf_down后，整个q*k在block层结果的每一行max值都会store在第一列线程的regMax中&lt;div&gt;因为后续需要使用&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="910" y="915" width="590" height="40" as="geometry" />
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-106" value="计算完block-level的shlf_down后，整个q*k在block层结果的每一行max值都会store在第一列线程的regMax中&lt;div&gt;后续需要将block中每一行的第一个线程的regMax值广播到每一行的每一个线程的regMax&lt;/div&gt;&lt;div&gt;regMax[i] = shlf_idx(0, regMax[i], 16)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="910" y="905" width="590" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1030" width="160" height="80" as="geometry" />
@@ -356,7 +356,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-121" value="thread00的regMax[i]广播给thread0j&lt;div&gt;i∈[0, 4)&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;j∈[0, 16)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="885" y="973" width="210" height="40" as="geometry" />
+          <mxGeometry x="910" y="973" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
