@@ -196,8 +196,14 @@
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-67" value="(Ptr)4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1130" y="725" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="720" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1189.5" y="720" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1199.5" y="730" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
