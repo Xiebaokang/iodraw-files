@@ -351,9 +351,12 @@
         </mxCell>
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="FA-PRXE8Gw8ZhzytQSbA-111">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="1030" as="sourcePoint" />
+            <mxPoint x="1020" y="1010" as="sourcePoint" />
             <mxPoint x="1010" y="980" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-121" value="thread00的regMax[i]广播给thread0j&lt;div&gt;i∈[0, 4)&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;j∈[0, 16)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="973" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
