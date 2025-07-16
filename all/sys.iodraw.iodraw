@@ -187,8 +187,11 @@
         <mxCell id="FA-PRXE8Gw8ZhzytQSbA-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1180" y="720" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-65" value="block level - (q*k)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1139.5" y="760" width="120" height="30" as="geometry" />
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-65" value="thread level - (q*k)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="770" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FA-PRXE8Gw8ZhzytQSbA-66" value="(Ptc)4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="945" y="660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
