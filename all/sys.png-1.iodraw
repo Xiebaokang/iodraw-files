@@ -1914,9 +1914,12 @@
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1353.75" y="-2540" as="sourcePoint" />
-            <mxPoint x="1354" y="-2490" as="targetPoint" />
+            <mxPoint x="1409.38" y="-2771" as="sourcePoint" />
+            <mxPoint x="1409.63" y="-2721" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zPgCPXOyUz5p5zrIH87f-37" value="shape(n, m)&amp;nbsp;&lt;div&gt;row-major&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1416.25" y="-2716" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
