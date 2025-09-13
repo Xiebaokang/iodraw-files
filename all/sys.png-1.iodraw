@@ -1963,19 +1963,19 @@
         <mxCell id="zPgCPXOyUz5p5zrIH87f-47" value="&lt;b&gt;Thread Tile&lt;/b&gt;&lt;div&gt;①half&lt;/div&gt;&lt;div&gt;②square&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="-3198" width="51" height="128.5" as="geometry" />
         </mxCell>
-        <mxCell id="zPgCPXOyUz5p5zrIH87f-48" value="&lt;b&gt;Max Thread Num&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="zPgCPXOyUz5p5zrIH87f-48" value="&lt;b&gt;Max Thread Num&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="334" y="-3188.5" width="45" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-49" value="&lt;b&gt;Block Tile&lt;/b&gt;&lt;div&gt;①half&lt;/div&gt;&lt;div&gt;②square&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="237" y="-3198" width="51" height="128.5" as="geometry" />
         </mxCell>
-        <mxCell id="zPgCPXOyUz5p5zrIH87f-51" value="&lt;b&gt;Max Smem Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="zPgCPXOyUz5p5zrIH87f-51" value="&lt;b&gt;Max Smem Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="426" y="-3188.5" width="41" height="109.5" as="geometry" />
         </mxCell>
-        <mxCell id="zPgCPXOyUz5p5zrIH87f-52" value="&lt;b&gt;Max Registers Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="zPgCPXOyUz5p5zrIH87f-52" value="&lt;b&gt;Max Registers Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="517" y="-3188.5" width="58" height="109.5" as="geometry" />
         </mxCell>
-        <mxCell id="zPgCPXOyUz5p5zrIH87f-53" value="&lt;b&gt;Bank Conflict Check&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="zPgCPXOyUz5p5zrIH87f-53" value="&lt;b&gt;Bank Conflict Check&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="-3188.5" width="50" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=25.714285714285715;endSize=6.94;width=20.4;" edge="1" parent="1">
