@@ -1964,13 +1964,13 @@
           <mxGeometry x="141.5" y="-3201" width="53.5" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-48" value="&lt;b&gt;Max Thread Num&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="291" y="-3188.5" width="48" height="109.5" as="geometry" />
+          <mxGeometry x="340" y="-3190" width="48" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-49" value="&lt;b&gt;Block Tile&lt;/b&gt;&lt;div&gt;①half&lt;/div&gt;&lt;div&gt;②square&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="218.25" y="-3198" width="53.5" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-51" value="&lt;b&gt;Max Smem Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="362" y="-3185" width="48" height="109.5" as="geometry" />
+          <mxGeometry x="417" y="-3185" width="48" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-52" value="&lt;b&gt;Max Registers Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="522" y="-3190" width="58" height="109.5" as="geometry" />
