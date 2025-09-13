@@ -1978,7 +1978,7 @@
         <mxCell id="zPgCPXOyUz5p5zrIH87f-53" value="&lt;b&gt;Bank Conflict Check&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="619" y="-3188.5" width="58" height="109.5" as="geometry" />
         </mxCell>
-        <mxCell id="zPgCPXOyUz5p5zrIH87f-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=25.714285714285715;endSize=12.026190476190475;width=30.952380952380953;" edge="1" parent="1">
+        <mxCell id="zPgCPXOyUz5p5zrIH87f-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=25.714285714285715;endSize=6.959999999999999;width=27.6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="345" y="-2989" as="sourcePoint" />
             <mxPoint x="402" y="-2988" as="targetPoint" />
@@ -1986,7 +1986,7 @@
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-57" value="102552" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zPgCPXOyUz5p5zrIH87f-54">
           <mxGeometry x="-0.2757" y="2" relative="1" as="geometry">
-            <mxPoint x="3" as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
