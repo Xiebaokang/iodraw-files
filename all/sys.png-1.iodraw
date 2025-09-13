@@ -1973,10 +1973,10 @@
           <mxGeometry x="380" y="-3025.75" width="40" height="91" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-52" value="&lt;b&gt;Max Registers Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="456.5" y="-3025" width="60" height="89.5" as="geometry" />
+          <mxGeometry x="460" y="-3025" width="60" height="89.5" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-53" value="&lt;b&gt;Bank Conflict Check&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="556" y="-3025.75" width="50" height="91" as="geometry" />
+          <mxGeometry x="560" y="-3025" width="50" height="91" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=25.714285714285715;endSize=6.94;width=20.4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
