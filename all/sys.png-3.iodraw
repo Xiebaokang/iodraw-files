@@ -1979,7 +1979,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-51" value="&lt;b&gt;Max Smem Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="447" y="-3024.75" width="40" height="91" as="geometry" />
+          <mxGeometry x="451.5" y="-3024.75" width="40" height="91" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zPgCPXOyUz5p5zrIH87f-52" target="zPgCPXOyUz5p5zrIH87f-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2010,6 +2010,11 @@
         </mxCell>
         <mxCell id="BrNn4m_ONhvZ0651f0Gq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nx4atWbmWHagUntbKPk-9" target="zPgCPXOyUz5p5zrIH87f-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrNn4m_ONhvZ0651f0Gq-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrNn4m_ONhvZ0651f0Gq-1">
+          <mxGeometry x="-0.4394" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1nx4atWbmWHagUntbKPk-9" value="&lt;b&gt;Basic&lt;/b&gt;&lt;div&gt;&lt;b&gt;Generate&lt;/b&gt;&lt;/div&gt;&lt;div&gt;all config&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="-3022.25" width="58" height="86" as="geometry" />
