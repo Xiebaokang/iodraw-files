@@ -1961,7 +1961,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-47" value="&lt;b&gt;Thread Tile&lt;/b&gt;&lt;div&gt;①half&lt;/div&gt;&lt;div&gt;②square&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="186" y="-3024" width="51" height="89" as="geometry" />
+          <mxGeometry x="184" y="-3024" width="51" height="89" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zPgCPXOyUz5p5zrIH87f-48" target="zPgCPXOyUz5p5zrIH87f-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2001,13 +2001,8 @@
             <mxPoint x="117" y="-3254.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1nx4atWbmWHagUntbKPk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1nx4atWbmWHagUntbKPk-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="211.5" y="-3092" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1nx4atWbmWHagUntbKPk-2" value="&lt;b&gt;shape&lt;/b&gt;&lt;div&gt;mnk=4096&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="154" y="-3160" width="120" height="41" as="geometry" />
+          <mxGeometry x="68.5" y="-3127" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="1nx4atWbmWHagUntbKPk-8" value="&lt;b&gt;surplus configs&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="411" y="-2825" width="125.5" height="33" as="geometry" />
