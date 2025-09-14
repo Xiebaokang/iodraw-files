@@ -2139,10 +2139,16 @@
         <mxCell id="WZKLbMwk7_w2mX22Hk09-38" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="560" y="-4080" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WZKLbMwk7_w2mX22Hk09-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WZKLbMwk7_w2mX22Hk09-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WZKLbMwk7_w2mX22Hk09-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="589.47" y="-3860" as="sourcePoint" />
             <mxPoint x="590.47" y="-4050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZKLbMwk7_w2mX22Hk09-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549.53" y="-3851" as="sourcePoint" />
+            <mxPoint x="549" y="-4050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
