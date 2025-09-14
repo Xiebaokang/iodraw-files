@@ -1990,9 +1990,9 @@
         <mxCell id="BrNn4m_ONhvZ0651f0Gq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPgCPXOyUz5p5zrIH87f-53" target="1nx4atWbmWHagUntbKPk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BrNn4m_ONhvZ0651f0Gq-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrNn4m_ONhvZ0651f0Gq-3">
+        <mxCell id="BrNn4m_ONhvZ0651f0Gq-21" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;2256&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BrNn4m_ONhvZ0651f0Gq-3">
           <mxGeometry x="-0.4323" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-53" value="&lt;b&gt;Bank Conflict Check&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -2029,7 +2029,7 @@
           <mxGeometry x="245.5" y="-2932" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BrNn4m_ONhvZ0651f0Gq-16" value="400320" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-2902" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="-2932" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BrNn4m_ONhvZ0651f0Gq-18" value="320448" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="-2872" width="60" height="30" as="geometry" />
