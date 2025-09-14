@@ -1957,6 +1957,9 @@
         <mxCell id="zPgCPXOyUz5p5zrIH87f-45" value="shape(m, n)&amp;nbsp;&lt;div&gt;col-major&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1193" y="-2599" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1nx4atWbmWHagUntbKPk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zPgCPXOyUz5p5zrIH87f-46" target="zPgCPXOyUz5p5zrIH87f-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-46" value="&lt;b&gt;All configs&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165.5" y="-3123" width="82" height="33" as="geometry" />
         </mxCell>
@@ -2010,12 +2013,6 @@
         </mxCell>
         <mxCell id="1nx4atWbmWHagUntbKPk-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="611" y="-2846" width="110" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="1nx4atWbmWHagUntbKPk-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="401" y="-2910" as="sourcePoint" />
-            <mxPoint x="451" y="-2960" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
