@@ -2026,8 +2026,14 @@
         <mxCell id="BrNn4m_ONhvZ0651f0Gq-16" value="400320" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="-2902" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BrNn4m_ONhvZ0651f0Gq-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="-2872" width="50" height="30" as="geometry" />
+        <mxCell id="BrNn4m_ONhvZ0651f0Gq-18" value="320448" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-2872" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BrNn4m_ONhvZ0651f0Gq-19" value="65760" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-2832" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BrNn4m_ONhvZ0651f0Gq-20" value="2256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-2802" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
