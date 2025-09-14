@@ -1992,8 +1992,10 @@
         <mxCell id="zPgCPXOyUz5p5zrIH87f-52" value="&lt;b&gt;Max Registers Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="527" y="-3024" width="60" height="89.5" as="geometry" />
         </mxCell>
-        <mxCell id="1nx4atWbmWHagUntbKPk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPgCPXOyUz5p5zrIH87f-53" target="zPgCPXOyUz5p5zrIH87f-68">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1nx4atWbmWHagUntbKPk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPgCPXOyUz5p5zrIH87f-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="652" y="-2899" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-53" value="&lt;b&gt;Bank Conflict Check&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="627" y="-3024.75" width="50" height="91" as="geometry" />
@@ -2004,9 +2006,6 @@
             <mxPoint x="117" y="-3254.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zPgCPXOyUz5p5zrIH87f-68" value="&lt;b&gt;surplus configs&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="599" y="-2899" width="106" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="1nx4atWbmWHagUntbKPk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nx4atWbmWHagUntbKPk-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="211.5" y="-3092" as="targetPoint" />
@@ -2015,8 +2014,8 @@
         <mxCell id="1nx4atWbmWHagUntbKPk-2" value="&lt;b&gt;shape&lt;/b&gt;&lt;div&gt;mnk=4096&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="-3160" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="1nx4atWbmWHagUntbKPk-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="-2847" width="120" height="60" as="geometry" />
+        <mxCell id="1nx4atWbmWHagUntbKPk-8" value="&lt;b&gt;surplus configs&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="-2825" width="125.5" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
