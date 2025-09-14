@@ -1961,7 +1961,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-47" value="&lt;b&gt;Thread Tile&lt;/b&gt;&lt;div&gt;①half&lt;/div&gt;&lt;div&gt;②square&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="184" y="-3024" width="51" height="89" as="geometry" />
+          <mxGeometry x="156.5" y="-3023" width="51" height="89" as="geometry" />
         </mxCell>
         <mxCell id="zPgCPXOyUz5p5zrIH87f-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zPgCPXOyUz5p5zrIH87f-48" target="zPgCPXOyUz5p5zrIH87f-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2012,7 +2012,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1nx4atWbmWHagUntbKPk-9" value="&lt;b&gt;Basic&lt;/b&gt;&lt;div&gt;&lt;b&gt;Generate&lt;/b&gt;&lt;/div&gt;&lt;div&gt;all config&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="37" y="-3022.5" width="58" height="86" as="geometry" />
+          <mxGeometry x="35" y="-3022.25" width="58" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
