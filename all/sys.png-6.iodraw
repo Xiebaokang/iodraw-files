@@ -2215,7 +2215,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wqNnfKSCdMX-ffujk1g0-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-3900" width="80" height="80" as="geometry" />
+          <mxGeometry x="465" y="-3911" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wqNnfKSCdMX-ffujk1g0-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="-3841" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wqNnfKSCdMX-ffujk1g0-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="485" y="-3891" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
