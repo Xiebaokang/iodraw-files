@@ -2535,11 +2535,17 @@
         <mxCell id="kwOYW93pwqUeetFP5TU5-17" value="Fusing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="646.25" y="-4480" width="106.5" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="kwOYW93pwqUeetFP5TU5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kwOYW93pwqUeetFP5TU5-23" target="kwOYW93pwqUeetFP5TU5-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kwOYW93pwqUeetFP5TU5-23" value="Optimizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="646.25" y="-4420" width="106.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="kwOYW93pwqUeetFP5TU5-25" value="Lowering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="646.25" y="-4390" width="106.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="kwOYW93pwqUeetFP5TU5-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-4450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
