@@ -2577,11 +2577,12 @@
         <mxCell id="kwOYW93pwqUeetFP5TU5-39" value="launch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368" y="-4390" width="52" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="kwOYW93pwqUeetFP5TU5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="kwOYW93pwqUeetFP5TU5-42" target="kwOYW93pwqUeetFP5TU5-15">
+        <mxCell id="kwOYW93pwqUeetFP5TU5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="kwOYW93pwqUeetFP5TU5-42" target="kwOYW93pwqUeetFP5TU5-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="-4416" />
-              <mxPoint x="590" y="-4502" />
+              <mxPoint x="590" y="-4499" />
+              <mxPoint x="646" y="-4499" />
             </Array>
           </mxGeometry>
         </mxCell>
