@@ -2484,13 +2484,13 @@
             <mxPoint x="320" y="-5081" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqNnfKSCdMX-ffujk1g0-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wqNnfKSCdMX-ffujk1g0-155" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="356.5" y="-4522.5" width="130" height="160" as="geometry" />
         </mxCell>
         <mxCell id="kwOYW93pwqUeetFP5TU5-1" value="Runtime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="391.5" y="-4360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kwOYW93pwqUeetFP5TU5-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kwOYW93pwqUeetFP5TU5-2" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="-4560" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kwOYW93pwqUeetFP5TU5-3" value="MLIR Backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
