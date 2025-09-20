@@ -2499,6 +2499,12 @@
         <mxCell id="kwOYW93pwqUeetFP5TU5-5" value="torch API" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="141.5" y="-4480" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kwOYW93pwqUeetFP5TU5-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="531" y="-4490" as="sourcePoint" />
+            <mxPoint x="581" y="-4540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
