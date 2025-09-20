@@ -2623,7 +2623,7 @@
         <mxCell id="kwOYW93pwqUeetFP5TU5-46" value="perf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="-4390" width="37" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="kwOYW93pwqUeetFP5TU5-60" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="kwOYW93pwqUeetFP5TU5-60" value="output tensor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-4410" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
