@@ -2517,8 +2517,8 @@
         <mxCell id="kwOYW93pwqUeetFP5TU5-10" value="解析输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366.75" y="-4510" width="106.5" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="kwOYW93pwqUeetFP5TU5-13" value="构建空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376.75" y="-4470" width="106.5" height="15" as="geometry" />
+        <mxCell id="kwOYW93pwqUeetFP5TU5-13" value="空间剪枝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="-4450" width="106.5" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
