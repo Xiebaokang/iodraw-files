@@ -2496,7 +2496,7 @@
         <mxCell id="kwOYW93pwqUeetFP5TU5-3" value="MLIR Backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="649.5" y="-4360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kwOYW93pwqUeetFP5TU5-5" value="torch API" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="kwOYW93pwqUeetFP5TU5-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="136.5" y="-4510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kwOYW93pwqUeetFP5TU5-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
