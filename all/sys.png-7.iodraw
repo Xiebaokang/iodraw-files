@@ -2678,6 +2678,15 @@
             <mxPoint x="640" y="-5830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pnxiiEyEBcs4S51ng04--12" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-5630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pnxiiEyEBcs4S51ng04--13" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-5630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pnxiiEyEBcs4S51ng04--14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="-5802" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
