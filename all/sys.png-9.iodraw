@@ -2753,8 +2753,8 @@
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-6" value="Gmem(FP16)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1224.26" y="-5565" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6QxhZc1mwsGf3yA6jdr_-7" value="256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1200.3600000000001" y="-5720" width="40" height="30" as="geometry" />
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-7" value="d2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1205.3600000000001" y="-5718" width="31" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-8" value="d1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1228.73" y="-5748" width="31" height="26" as="geometry" />
@@ -2774,8 +2774,8 @@
             <mxPoint x="1234.79" y="-5685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6QxhZc1mwsGf3yA6jdr_-13" value="128(256B)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1034.73" y="-5750" width="80" height="30" as="geometry" />
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-13" value="d1(d1*elem_widthB)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1011.73" y="-5748" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-14" value="256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="958.73" y="-5660" width="40" height="30" as="geometry" />
