@@ -2777,8 +2777,8 @@
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-13" value="d1(d1*elem_width)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1015.73" y="-5748" width="118" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="6QxhZc1mwsGf3yA6jdr_-14" value="256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="958.73" y="-5660" width="40" height="30" as="geometry" />
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-14" value="d2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="963.73" y="-5658" width="31" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-21" value="Gmem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1045.23" y="-5565" width="60" height="30" as="geometry" />
