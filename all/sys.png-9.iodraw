@@ -2814,7 +2814,10 @@
           <mxGeometry x="800" y="-5560" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-41" value="Smem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-5402" width="60" height="30" as="geometry" />
+          <mxGeometry x="808" y="-5409" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="-5752" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
