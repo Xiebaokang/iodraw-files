@@ -2759,7 +2759,7 @@
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-8" value="128" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-5745" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6QxhZc1mwsGf3yA6jdr_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="920" y="-5720" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6QxhZc1mwsGf3yA6jdr_-10">
@@ -2792,8 +2792,8 @@
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="955" y="-5755" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6QxhZc1mwsGf3yA6jdr_-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="965" y="-5562" width="50" height="30" as="geometry" />
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-21" value="Gmem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="971.5" y="-5560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
