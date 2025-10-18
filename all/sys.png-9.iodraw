@@ -2753,8 +2753,11 @@
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-6" value="Gmem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1170.53" y="-5560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6QxhZc1mwsGf3yA6jdr_-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="-5722" width="50" height="30" as="geometry" />
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-7" value="256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1126.63" y="-5715" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="-5752" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
