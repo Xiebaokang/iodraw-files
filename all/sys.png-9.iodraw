@@ -2774,8 +2774,8 @@
             <mxPoint x="1234.79" y="-5685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6QxhZc1mwsGf3yA6jdr_-13" value="d1(d1*elem_widthB)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1011.73" y="-5748" width="126" height="26" as="geometry" />
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-13" value="d1(d1*elem_width)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1015.73" y="-5748" width="118" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-14" value="256" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="958.73" y="-5660" width="40" height="30" as="geometry" />
@@ -2798,8 +2798,8 @@
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="993.73" y="-5725" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="6QxhZc1mwsGf3yA6jdr_-19" value="128B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1007.23" y="-5725" width="50" height="30" as="geometry" />
+        <mxCell id="6QxhZc1mwsGf3yA6jdr_-19" value="swizzle_widthB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="983.23" y="-5723" width="99" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6QxhZc1mwsGf3yA6jdr_-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1028.73" y="-5760" width="10" height="80" as="geometry" />
