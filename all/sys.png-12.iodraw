@@ -3448,6 +3448,9 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-167" value="&lt;b&gt;&lt;font color=&quot;#ebebeb&quot;&gt;surplus&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ebebeb&quot;&gt;configs&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=none;fillColor=#647687;" vertex="1" parent="1">
           <mxGeometry x="-743.19" y="-4997.5" width="99.13" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BzixGO1rvK3SVDx-N8Me-168" target="BzixGO1rvK3SVDx-N8Me-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-168" value="compile_task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-591.56" y="-5055" width="88" height="26" as="geometry" />
         </mxCell>
