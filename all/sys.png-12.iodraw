@@ -3409,7 +3409,10 @@
           <mxGeometry x="394.44" y="-2742" width="99.13" height="33" as="geometry" />
         </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-168" value="compile_task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-2571" width="88" height="26" as="geometry" />
+          <mxGeometry x="554" y="-2792" width="88" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-169" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-2579" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
