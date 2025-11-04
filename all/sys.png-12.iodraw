@@ -3357,7 +3357,7 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-108" value="output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="-637" y="-5455" width="73" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-109" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-109" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-773" y="-5604.5" width="39" height="80" as="geometry" />
         </mxCell>
       </root>
