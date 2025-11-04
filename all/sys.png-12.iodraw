@@ -3357,8 +3357,8 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-108" value="output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="-637" y="-5455" width="73" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-109" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cache&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-762" y="-5636.5" width="31" height="80" as="geometry" />
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-109" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Config&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Cache&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-762" y="-5631" width="31" height="74.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
