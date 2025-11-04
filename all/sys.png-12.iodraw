@@ -3239,7 +3239,7 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-51" value="Kernel&lt;div&gt;(Python)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="-500" y="-5639" width="60" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-52" value="Async IR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-52" value="IR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-246.5" y="-5635" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
