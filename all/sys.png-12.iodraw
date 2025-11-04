@@ -3408,6 +3408,9 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-167" value="&lt;b&gt;surplus&lt;/b&gt;&lt;div&gt;&lt;b&gt;configs&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="394.44" y="-2742" width="99.13" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-168" value="compile_task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-2571" width="88" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
