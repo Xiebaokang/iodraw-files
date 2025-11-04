@@ -3066,9 +3066,6 @@
             <mxPoint x="1140" y="-5230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-2" value="Kernel&lt;div&gt;(Python)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-620.5" y="-5560" width="61" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-5680" width="120" height="160" as="geometry" />
         </mxCell>
@@ -3238,6 +3235,9 @@
         </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-50" value="获取Target Info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-5630" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-51" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-5550" width="80" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
