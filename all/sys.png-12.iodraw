@@ -2683,7 +2683,7 @@
           <mxGeometry x="860.63" y="-5830" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HWPXuN4zrXsuAJFYXat4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-2640" width="120" height="60" as="geometry" />
+          <mxGeometry x="565" y="-2617" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCe_7Bm24Kp8kJb4fFPC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E3E3;" parent="1" vertex="1">
           <mxGeometry x="1121" y="-5160" width="79" height="160" as="geometry" />
@@ -3382,10 +3382,10 @@
           <mxGeometry x="158.5" y="-2696" width="98.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-157" value="&lt;b&gt;Max Registers Size&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="462.5" y="-2790.5" width="60" height="89.5" as="geometry" />
+          <mxGeometry x="303.5" y="-2756" width="115.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-158" value="&lt;b&gt;Bank Conflict Check&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="578.5" y="-2791.25" width="50" height="91" as="geometry" />
+          <mxGeometry x="348.5" y="-2684" width="50" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
