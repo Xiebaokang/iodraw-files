@@ -3295,8 +3295,11 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-74" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;perf&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-645" y="-5515" width="32" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzixGO1rvK3SVDx-N8Me-76" target="BzixGO1rvK3SVDx-N8Me-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-76" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;scheduler&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="-5697" width="85" height="20" as="geometry" />
+          <mxGeometry x="-640" y="-5691" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-77" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kernel&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Python)&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="-495" y="-5610" width="50" height="30" as="geometry" />
