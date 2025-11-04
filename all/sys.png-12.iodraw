@@ -3460,6 +3460,15 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-183" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="-2792" width="83" height="158" as="geometry" />
         </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-184" value="hsaco/cubin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="714" y="-2773" width="103" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-185" value="dp 进程1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="714" y="-2742" width="103" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-186" value="dp 进程n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="717" y="-2683" width="103" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
