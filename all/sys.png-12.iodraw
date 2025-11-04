@@ -3490,13 +3490,13 @@
             <Array as="points">
               <mxPoint x="691" y="-2703" />
               <mxPoint x="693" y="-2703" />
-              <mxPoint x="693" y="-2437" />
-              <mxPoint x="724" y="-2437" />
+              <mxPoint x="693" y="-2568" />
+              <mxPoint x="779" y="-2568" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-192" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="-2468" width="120" height="60" as="geometry" />
+          <mxGeometry x="704.5" y="-2599" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
