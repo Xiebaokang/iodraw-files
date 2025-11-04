@@ -3215,8 +3215,8 @@
             <mxPoint x="1140" y="-5230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-5600" width="120" height="55" as="geometry" />
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-2" value="Kernel&lt;div&gt;(Python)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-5600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
