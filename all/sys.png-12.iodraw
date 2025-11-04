@@ -3483,8 +3483,14 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-191" value="binry files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="749" y="-2791.5" width="69" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483.500048828125" y="-2436.5999755859375" as="targetPoint" />
+            <mxPoint x="631.2" y="-2531" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-192" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="-2723" width="120" height="60" as="geometry" />
+          <mxGeometry x="723.5" y="-2573" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
