@@ -3354,8 +3354,8 @@
             <mxPoint x="-629" y="-5530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-108" value="output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-768" y="-5650" width="73" height="25" as="geometry" />
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-108" value="output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-637" y="-5455" width="73" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
