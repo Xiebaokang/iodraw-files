@@ -3215,8 +3215,8 @@
             <mxPoint x="1140" y="-5230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-1" value="Attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-5602" width="160" height="52" as="geometry" />
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-1" value="Attention" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-5602" width="120" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
