@@ -2700,8 +2700,8 @@
         <mxCell id="VCe_7Bm24Kp8kJb4fFPC-5" value="SmemB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="1510" y="-5225" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VCe_7Bm24Kp8kJb4fFPC-6" value="128" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1083" y="-5015" width="40" height="30" as="geometry" />
+        <mxCell id="VCe_7Bm24Kp8kJb4fFPC-6" value="64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1085.13" y="-5095" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCe_7Bm24Kp8kJb4fFPC-7" value="128" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1349.75" y="-5280" width="40" height="30" as="geometry" />
