@@ -3359,16 +3359,13 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-57" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;async&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;unit?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-432" y="-5682" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-126" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;NVIDIA&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="-246" y="-5482" width="49" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-129" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;AMD&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;size=6;" vertex="1" parent="1">
           <mxGeometry x="-264" y="-5536" width="29" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-130" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;HYGON&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=6;" vertex="1" parent="1">
-          <mxGeometry x="-226" y="-5523" width="40" height="20" as="geometry" />
+          <mxGeometry x="-439" y="-5530" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-131" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;HYGON&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=6;" vertex="1" parent="1">
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-131" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;NVIDIA&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=6;" vertex="1" parent="1">
           <mxGeometry x="-216" y="-5574" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
