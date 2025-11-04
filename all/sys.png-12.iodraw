@@ -3424,6 +3424,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-180" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BzixGO1rvK3SVDx-N8Me-175">
+          <mxGeometry x="-0.084" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-167" value="&lt;b&gt;surplus&lt;/b&gt;&lt;div&gt;&lt;b&gt;configs&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="402.37" y="-2734.5" width="99.13" height="33" as="geometry" />
         </mxCell>
@@ -3448,7 +3453,7 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-177" value="config1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="439" y="-2602" width="57" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-178" value="config0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-178" value="confign" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="451.5" y="-2578" width="57" height="26" as="geometry" />
         </mxCell>
       </root>
