@@ -3254,8 +3254,8 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;流水线调优&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-304" y="-5680" width="60" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="BzixGO1rvK3SVDx-N8Me-57" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;async&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;unit?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-181" y="-5705" width="40" height="40" as="geometry" />
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-57" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;async&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;unit?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-5714" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
