@@ -3242,6 +3242,9 @@
         <mxCell id="BzixGO1rvK3SVDx-N8Me-47" value="output tensor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-520" y="-5190" width="100" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BzixGO1rvK3SVDx-N8Me-50" target="BzixGO1rvK3SVDx-N8Me-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-50" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;获取Target Info&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-639.5" y="-5619.5" width="90" height="20" as="geometry" />
         </mxCell>
