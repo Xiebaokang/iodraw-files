@@ -3376,7 +3376,10 @@
           <mxGeometry x="156.5" y="-2752" width="100.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="BzixGO1rvK3SVDx-N8Me-153" value="Config.json&lt;div&gt;Tensor Infos&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-2824" width="103.5" height="32" as="geometry" />
+          <mxGeometry x="160" y="-2805" width="103.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="BzixGO1rvK3SVDx-N8Me-155" value="&lt;b&gt;Max Thread Num&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="355" y="-2834.5" width="40" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
