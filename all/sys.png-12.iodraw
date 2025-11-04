@@ -2692,10 +2692,10 @@
           <mxGeometry x="1209.5" y="-5250" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VCe_7Bm24Kp8kJb4fFPC-3" value="C" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1209.5" y="-5160" width="320.5" height="320" as="geometry" />
+          <mxGeometry x="1209.5" y="-5160" width="320.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="VCe_7Bm24Kp8kJb4fFPC-4" value="SmemA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1123" y="-4840" width="70" height="30" as="geometry" />
+          <mxGeometry x="1123" y="-5004.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCe_7Bm24Kp8kJb4fFPC-5" value="SmemB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="1510" y="-5225" width="70" height="30" as="geometry" />
