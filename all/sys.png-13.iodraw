@@ -3582,7 +3582,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-4" value="fragmentC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-279" y="-5666" width="63.5" height="26" as="geometry" />
+          <mxGeometry x="-133.5" y="-5706" width="63.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-10" target="NvUL2CdZj1xo9L-xTfxZ-21">
           <mxGeometry relative="1" as="geometry" />
@@ -3638,14 +3638,12 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-29" target="NvUL2CdZj1xo9L-xTfxZ-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-30" y="-5560" />
-              <mxPoint x="-90" y="-5560" />
-              <mxPoint x="-90" y="-5653" />
+              <mxPoint x="-30" y="-5653" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-29" value="GEMM" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-5525" width="80" height="40" as="geometry" />
+          <mxGeometry x="-70" y="-5511" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-35" target="NvUL2CdZj1xo9L-xTfxZ-19">
           <mxGeometry relative="1" as="geometry" />
