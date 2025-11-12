@@ -3684,7 +3684,10 @@
           <mxGeometry x="-301.63" y="-5678.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-91" value="Copy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1348" y="-5377" width="80" height="46" as="geometry" />
+          <mxGeometry x="-1348" y="-5368" width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-92" value="Copy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1374" y="-5197" width="80" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
