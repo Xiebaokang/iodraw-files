@@ -3587,8 +3587,11 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-13" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-232" y="-5560" width="28" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-15" value="AllocBuffer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
-          <mxGeometry x="-161" y="-5531" width="84.5" height="32" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-15" value="Copy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
+          <mxGeometry x="-145.5" y="-5566" width="84.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-16" value="Copy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
+          <mxGeometry x="-161" y="-5477" width="84.5" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
