@@ -3582,10 +3582,13 @@
           <mxGeometry x="-4.5" y="-5524.5" width="84.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-10" value="SmemA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-49" y="-5711" width="51" height="26" as="geometry" />
+          <mxGeometry x="42" y="-5616" width="51" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-11" value="SmemA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-39" y="-5701" width="51" height="26" as="geometry" />
+          <mxGeometry x="108.5" y="-5666" width="51" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-13" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="-5653" width="28" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
