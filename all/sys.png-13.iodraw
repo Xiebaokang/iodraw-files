@@ -3570,7 +3570,7 @@
           <mxGeometry x="-170" y="-5610" width="84.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-4" value="SmemA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-59" y="-5721" width="28" height="26" as="geometry" />
+          <mxGeometry x="-59" y="-5721" width="51" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-5" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-59" y="-5663" width="28" height="26" as="geometry" />
@@ -3580,6 +3580,12 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-9" value="AllocBuffer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
           <mxGeometry x="-4.5" y="-5524.5" width="84.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-10" value="SmemA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="-5711" width="51" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-11" value="SmemA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="-5701" width="51" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
