@@ -3707,7 +3707,7 @@
           <mxGeometry x="-1371" y="-5508" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-95" value="Reduce(Add)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1135" y="-5353" width="80" height="37" as="geometry" />
+          <mxGeometry x="-903" y="-5330" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-96" value="Reduce(Max)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1042" y="-5251" width="80" height="37" as="geometry" />
@@ -3758,7 +3758,7 @@
           <mxGeometry x="-1345" y="-5283" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-105" value="smemV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1337.5" y="-5227.5" width="50" height="26" as="geometry" />
+          <mxGeometry x="-1345" y="-5214" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-107" value="max" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1333.5" y="-5150" width="50" height="26" as="geometry" />
