@@ -3564,7 +3564,7 @@
           <mxGeometry x="-41" y="-5720" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-2" value="AllocBuffer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-5720" width="80" height="40" as="geometry" />
+          <mxGeometry x="-201" y="-5486" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-3" value="AllocBuffer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-5720" width="80" height="40" as="geometry" />
@@ -3594,10 +3594,10 @@
           <mxGeometry x="-201" y="-5600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-29" value="GEMM" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-5544" width="80" height="40" as="geometry" />
+          <mxGeometry x="-95" y="-5544" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-35" value="Copy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="1">
-          <mxGeometry x="35" y="-5546" width="80" height="40" as="geometry" />
+          <mxGeometry x="13" y="-5546" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
