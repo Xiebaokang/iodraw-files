@@ -3713,7 +3713,7 @@
           <mxGeometry x="-1042" y="-5251" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-97" value="Block" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1158" y="-5368" width="80" height="37" as="geometry" />
+          <mxGeometry x="-1193" y="-5479" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-98" target="NvUL2CdZj1xo9L-xTfxZ-91">
           <mxGeometry relative="1" as="geometry">
@@ -3740,7 +3740,7 @@
           <mxGeometry x="-1345" y="-5347.5" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-103" value="smemK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1335.5" y="-5284" width="50" height="26" as="geometry" />
+          <mxGeometry x="-1345" y="-5285" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-105" value="smemV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1337.5" y="-5227.5" width="50" height="26" as="geometry" />
@@ -3776,7 +3776,7 @@
           <mxGeometry x="-1574" y="-4962.75" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-123" value="GEMM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1361" y="-5498" width="80" height="37" as="geometry" />
+          <mxGeometry x="-1257" y="-5353" width="80" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
