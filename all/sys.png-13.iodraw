@@ -3707,7 +3707,7 @@
           <mxGeometry x="-1371" y="-5508" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-95" value="Reduce(Add)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1199" y="-5242" width="80" height="37" as="geometry" />
+          <mxGeometry x="-1135" y="-5353" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-96" value="Reduce(Max)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1042" y="-5251" width="80" height="37" as="geometry" />
@@ -3799,7 +3799,7 @@
           <mxGeometry x="-1574" y="-4962.75" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-123" value="GEMM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1261" y="-5354.5" width="80" height="37" as="geometry" />
+          <mxGeometry x="-1255" y="-5353" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-125" target="NvUL2CdZj1xo9L-xTfxZ-103">
           <mxGeometry relative="1" as="geometry" />
