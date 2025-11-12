@@ -3687,10 +3687,10 @@
           <mxGeometry x="-1348" y="-5368" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-92" value="AllocBuffer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1212" y="-5360" width="80" height="37" as="geometry" />
+          <mxGeometry x="-1515" y="-5438" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-94" value="GEMM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1475" y="-5362" width="80" height="37" as="geometry" />
+          <mxGeometry x="-1371" y="-5508" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-95" value="Reduce(Add)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1199" y="-5242" width="80" height="37" as="geometry" />
@@ -3702,7 +3702,7 @@
           <mxGeometry x="-1333" y="-5246" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-98" value="Q" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1654" y="-5355" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1643" y="-5373" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-99" value="K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1643" y="-5307.5" width="30" height="30" as="geometry" />
