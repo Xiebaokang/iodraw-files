@@ -3696,7 +3696,10 @@
           <mxGeometry x="-1199" y="-5242" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-96" value="Reduce(Max)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1437" y="-5250" width="80" height="37" as="geometry" />
+          <mxGeometry x="-1042" y="-5251" width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-97" value="Block" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1333" y="-5246" width="80" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
