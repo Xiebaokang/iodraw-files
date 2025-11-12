@@ -3692,8 +3692,11 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-94" value="GEMM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1475" y="-5362" width="80" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-95" value="AllocBuffer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1313" y="-5242" width="80" height="37" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-95" value="Reduce(Add)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1199" y="-5242" width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-96" value="Reduce(Add)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1189" y="-5232" width="80" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
