@@ -3870,11 +3870,17 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-152" value="Copy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1031" y="-5354.5" width="80" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-156" target="NvUL2CdZj1xo9L-xTfxZ-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-156" value="Affine.Load" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-519" y="-5517" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-157" value="Affine.Store" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-390.63" y="-5517" width="94.63" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-158" target="NvUL2CdZj1xo9L-xTfxZ-156">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-158" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-578" y="-5507" width="30" height="30" as="geometry" />
