@@ -3912,14 +3912,6 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-172" value="outer dot" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-213.56" y="-5295.5" width="94.63" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-173" target="NvUL2CdZj1xo9L-xTfxZ-174">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-287" y="-5201" />
-              <mxPoint x="-287" y="-5341" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-173" value="MemRef.Alloca" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-384.31000000000006" y="-5429" width="94.63" height="50" as="geometry" />
         </mxCell>
@@ -3938,7 +3930,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-176" value="MemRef.Alloca" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-514.6300000000001" y="-5223.5" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-510.3100000000001" y="-5430" width="94.63" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
