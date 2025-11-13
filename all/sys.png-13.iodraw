@@ -3913,7 +3913,7 @@
           <mxGeometry x="-115" y="-5285.5" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-173" value="MemRef.Alloca" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-384.31000000000006" y="-5225" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-134.00000000000006" y="-5190" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-174" value="regA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-272" y="-5354.5" width="36.81" height="26" as="geometry" />
@@ -3924,7 +3924,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-176" target="NvUL2CdZj1xo9L-xTfxZ-175">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-256" y="-5199" />
+              <mxPoint x="-354" y="-5199" />
+              <mxPoint x="-354" y="-5257" />
             </Array>
           </mxGeometry>
         </mxCell>
