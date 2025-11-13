@@ -3873,8 +3873,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-156" value="Affine.Load" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-488.13" y="-5517" width="94.63" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-157" value="Affine.Load" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-478.13" y="-5507" width="94.63" height="50" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-157" value="Affine.Store" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-359.31" y="-5517" width="94.63" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
