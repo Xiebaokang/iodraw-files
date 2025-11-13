@@ -3898,13 +3898,13 @@
           <mxGeometry x="-388.63" y="-5363.5" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-168" value="Affine.Load" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-513.26" y="-5282.5" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-513.63" y="-5292.5" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-169" value="Affine.Store" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-388.63" y="-5284.5" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-389" y="-5294.5" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-170" value="SmemB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-593.63" y="-5272.5" width="50" height="26" as="geometry" />
+          <mxGeometry x="-594" y="-5282.5" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-171" value="SmemA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-593.63" y="-5352.5" width="50" height="26" as="geometry" />
@@ -3914,6 +3914,9 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-173" value="MemRef.Alloca" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-513.6300000000001" y="-5437" width="94.63" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-174" value="fragmentC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-255.38" y="-5688" width="63.5" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
