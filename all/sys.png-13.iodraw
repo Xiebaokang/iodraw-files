@@ -3892,25 +3892,25 @@
           <mxGeometry x="-301.06" y="-5505" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-166" value="Affine.Load" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-65.63" y="-5665" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-514.26" y="-5410" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-167" value="Affine.Store" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-5666" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-388.63" y="-5411" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-168" value="Affine.Load" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-64.63" y="-5585" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-513.26" y="-5330" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-169" value="Affine.Store" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-5587" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-388.63" y="-5332" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-170" value="SmemB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-145" y="-5575" width="50" height="26" as="geometry" />
+          <mxGeometry x="-593.63" y="-5320" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-171" value="SmemA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-145" y="-5655" width="50" height="26" as="geometry" />
+          <mxGeometry x="-593.63" y="-5400" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-172" value="outer dot" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="197" y="-5625" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-251.63" y="-5370" width="94.63" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
