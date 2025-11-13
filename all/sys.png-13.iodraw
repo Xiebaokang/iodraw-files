@@ -3874,10 +3874,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-156" value="Affine.Load" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-519" y="-5517" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-526" y="-5517" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-157" value="Affine.Store" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-390.63" y="-5517" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="-413" y="-5517" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-158" target="NvUL2CdZj1xo9L-xTfxZ-156">
           <mxGeometry relative="1" as="geometry" />
