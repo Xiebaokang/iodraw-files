@@ -3901,13 +3901,13 @@
           <mxGeometry x="-64.63" y="-5558" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-169" value="Affine.Store" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-5560" width="94.63" height="50" as="geometry" />
+          <mxGeometry x="60" y="-5560" width="94.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-170" value="SmemB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-145" y="-5548" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-171" value="SmemA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-350.63" y="-5688" width="50" height="26" as="geometry" />
+          <mxGeometry x="-145" y="-5655" width="50" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
