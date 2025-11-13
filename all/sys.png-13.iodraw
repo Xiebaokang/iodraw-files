@@ -3959,6 +3959,9 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-176" value="MemRef.Alloca" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-519.0000000000001" y="-5255.5" width="94.63" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-193" value="regA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-274.19" y="-5295.5" width="36.81" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
