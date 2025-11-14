@@ -4219,11 +4219,14 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-287" value="affine.LoadOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1001" y="-5804" width="102.63" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-290" target="NvUL2CdZj1xo9L-xTfxZ-293">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-290" value="arith.MulfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-876" y="-5852" width="102.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-293" value="arith.AddfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-395.56" y="-6149" width="102.63" height="30" as="geometry" />
+          <mxGeometry x="-876" y="-5803.5" width="102.63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
