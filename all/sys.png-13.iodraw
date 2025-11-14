@@ -4145,6 +4145,12 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-265" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1168" y="-5930" width="26" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-266" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1168" y="-5968" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-267" value="affine.LoadOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1098" y="-5968" width="102.63" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
