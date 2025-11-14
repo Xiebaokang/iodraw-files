@@ -4315,16 +4315,16 @@
           <mxGeometry x="-1212.6200000000003" y="-5596" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-384" value="ReduceOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1018.9999999999999" y="-5315" width="75" height="30" as="geometry" />
+          <mxGeometry x="-1172.5" y="-5321" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-385" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1499.01" y="-5185.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-386" value="GEMMOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1128" y="-5250" width="75" height="30" as="geometry" />
+          <mxGeometry x="-1281.5" y="-5256" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-387" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1233" y="-5317" width="75" height="30" as="geometry" />
+          <mxGeometry x="-1386.5" y="-5323" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-578" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1ba1e2;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-390" target="NvUL2CdZj1xo9L-xTfxZ-505">
           <mxGeometry relative="1" as="geometry">
@@ -4480,16 +4480,16 @@
           <mxGeometry x="-1088" y="-5672" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-588" value="Q" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1281.5" y="-5313" width="26" height="26" as="geometry" />
+          <mxGeometry x="-1435" y="-5319" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-589" value="K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1281.5" y="-5252" width="26" height="26" as="geometry" />
+          <mxGeometry x="-1435" y="-5258" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-590" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1233" y="-5252" width="75" height="30" as="geometry" />
+          <mxGeometry x="-1386.5" y="-5258" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-591" value="BlockOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1021" y="-5250.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="-1174.5" y="-5256.5" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
