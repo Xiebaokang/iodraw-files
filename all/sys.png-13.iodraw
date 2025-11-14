@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-580" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#e4f2fb;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1541" y="-5723" width="561" height="266" as="geometry" />
+          <mxGeometry x="-1452" y="-5516" width="546" height="266" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-338" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdf1ce;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1227" y="-6379" width="113" height="51" as="geometry" />
@@ -4303,8 +4303,8 @@
             <Array as="points">
               <mxPoint x="-1230" y="-5535" />
               <mxPoint x="-1230" y="-5514" />
-              <mxPoint x="-1079" y="-5514" />
-              <mxPoint x="-1079" y="-5581" />
+              <mxPoint x="-1089" y="-5514" />
+              <mxPoint x="-1089" y="-5581" />
             </Array>
           </mxGeometry>
         </mxCell>
