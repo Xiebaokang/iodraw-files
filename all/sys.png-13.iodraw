@@ -4410,6 +4410,11 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-518" value="prev_max" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1384.41" y="-5698" width="59.38" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-551" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-542">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-989.6086956521738" y="-5583.478250254755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-542" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1027.5" y="-5550" width="75" height="30" as="geometry" />
         </mxCell>
@@ -4418,6 +4423,9 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-547" value="Q" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c6a92;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-929" y="-5548" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-552" value="GEMMOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1346.4" y="-5324" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
