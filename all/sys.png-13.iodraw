@@ -4154,14 +4154,6 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1d6d03;fontColor=#ffffff;fontSize=12;fontStyle=1" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-259" target="NvUL2CdZj1xo9L-xTfxZ-261">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;dashed=1;strokeColor=#ffc000;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-259" target="NvUL2CdZj1xo9L-xTfxZ-313">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1184" y="-6138" />
-              <mxPoint x="-970" y="-6138" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-259" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1222" y="-6132" width="75" height="30" as="geometry" />
         </mxCell>
