@@ -4240,11 +4240,17 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-371" value="AllocBufferOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1533.5" y="-5512" width="88" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-413" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-372" target="NvUL2CdZj1xo9L-xTfxZ-363">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-372" value="Q" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c6a92;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1502.5" y="-5698" width="26" height="26" as="geometry" />
+          <mxGeometry x="-1502.5" y="-5694" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-375" value="K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c6a92;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1502.5" y="-5552" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-376" target="NvUL2CdZj1xo9L-xTfxZ-372">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-376" value="AllocBufferOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1533.5" y="-5736" width="88" height="30" as="geometry" />
