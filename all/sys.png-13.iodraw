@@ -4348,10 +4348,10 @@
           <mxGeometry x="-1056" y="-6490" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-344" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1056" y="-6453" width="19" height="19" as="geometry" />
+          <mxGeometry x="-964.5" y="-6517.5" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-345" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1056" y="-6425.5" width="19" height="19" as="geometry" />
+          <mxGeometry x="-964.5" y="-6490" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-346" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1197" y="-6498" width="30" height="20" as="geometry" />
@@ -4369,13 +4369,13 @@
           <mxGeometry x="-1037" y="-6526" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-351" value="常量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1036.3700000000001" y="-6429" width="42" height="26" as="geometry" />
+          <mxGeometry x="-944.8700000000001" y="-6493.5" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-352" value="共享内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1037" y="-6493.5" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-353" value="全局内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1037" y="-6456.5" width="66" height="26" as="geometry" />
+          <mxGeometry x="-945.5" y="-6521" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
