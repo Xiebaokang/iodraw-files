@@ -4150,7 +4150,8 @@
             <Array as="points">
               <mxPoint x="-1170" y="-6165" />
               <mxPoint x="-1170" y="-6138" />
-              <mxPoint x="-973" y="-6138" />
+              <mxPoint x="-1029" y="-6138" />
+              <mxPoint x="-1029" y="-6163" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4306,7 +4307,7 @@
           <mxGeometry x="-838" y="-6055.5" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-324" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdf1ce;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1095" y="-6275" width="131" height="112" as="geometry" />
+          <mxGeometry x="-1095" y="-6275" width="131" height="103" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-326" value="affine.StoreOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1079" y="-6256.5" width="102.63" height="30" as="geometry" />
@@ -4324,7 +4325,7 @@
           <mxGeometry x="-1126" y="-6204" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-336" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-841" y="-6213" width="26" height="26" as="geometry" />
+          <mxGeometry x="-951" y="-6254.5" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
