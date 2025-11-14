@@ -4315,7 +4315,7 @@
           <mxGeometry x="-1212.6200000000003" y="-5596" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-384" value="ReduceOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-980.9999999999999" y="-5200" width="75" height="30" as="geometry" />
+          <mxGeometry x="-1018.9999999999999" y="-5315" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-385" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1499.01" y="-5185.5" width="75" height="30" as="geometry" />
@@ -4488,8 +4488,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-590" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1233" y="-5252" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-591" value="GEMMOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1019" y="-5256" width="75" height="30" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-591" value="BlockOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1021" y="-5250.5" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
