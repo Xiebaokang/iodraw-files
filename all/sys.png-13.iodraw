@@ -4143,28 +4143,34 @@
           <mxGeometry x="-1012" y="-6116" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-265" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1086.5" y="-5911" width="26" height="26" as="geometry" />
+          <mxGeometry x="-1309" y="-5812" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-266" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1086.5" y="-5949" width="26" height="26" as="geometry" />
+          <mxGeometry x="-1309" y="-5850" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-267" value="affine.LoadOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-995.37" y="-5827" width="102.63" height="30" as="geometry" />
+          <mxGeometry x="-1217.87" y="-5728" width="102.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-268" value="affine.LoadOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1111" y="-5827" width="102.63" height="30" as="geometry" />
+          <mxGeometry x="-1333.5" y="-5728" width="102.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-269" value="memref.AllocaOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-954" y="-6030" width="102.63" height="30" as="geometry" />
+          <mxGeometry x="-1176.5" y="-5931" width="102.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-270" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-915.69" y="-5981" width="26" height="26" as="geometry" />
+          <mxGeometry x="-1138.19" y="-5882" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-271" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-799.69" y="-5981" width="26" height="26" as="geometry" />
+          <mxGeometry x="-1022.19" y="-5882" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-273" value="memref.AllocaOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-838" y="-6030" width="102.63" height="30" as="geometry" />
+          <mxGeometry x="-1060.5" y="-5931" width="102.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-274" value="affine.StoreOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1144.5" y="-5807" width="102.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-275" value="affine.StoreOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1144.5" y="-5761" width="102.63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
