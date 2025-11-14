@@ -4023,8 +4023,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-220" value="GEMMOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="-285.68" y="-6229" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-221" value="FillOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="-388.56" y="-6219" width="75" height="30" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-221" value="ReduceOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-189" y="-6229" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
