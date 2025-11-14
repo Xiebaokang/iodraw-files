@@ -4408,13 +4408,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1097.0869883661683" y="-5595.304315981657" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1129" y="-5685" />
-              <mxPoint x="-1129" y="-5581" />
+              <mxPoint x="-1125" y="-5685" />
+              <mxPoint x="-1125" y="-5581" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-510" value="log_sum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1161" y="-5711.5" width="52.45" height="26" as="geometry" />
+          <mxGeometry x="-1166.45" y="-5711.5" width="52.45" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-512" value="BlockOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1212.6200000000003" y="-5657" width="75" height="30" as="geometry" />
