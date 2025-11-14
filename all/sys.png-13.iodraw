@@ -4048,9 +4048,9 @@
           <mxGeometry x="-568.37" y="-6093" width="102.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-229" value="math.ExpfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-345.06" y="-6093" width="102.63" height="30" as="geometry" />
+          <mxGeometry x="-374.63" y="-6093" width="102.63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-230" value="arith.AddfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-230" value="arith.SubfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-194" y="-6096" width="102.63" height="30" as="geometry" />
         </mxCell>
       </root>
