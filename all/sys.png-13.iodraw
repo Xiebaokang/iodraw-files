@@ -4359,8 +4359,11 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-347" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1197" y="-6529" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-348" value="Block Op" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1187" y="-6539" width="67" height="26" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-348" value="&lt;b&gt;Block Op&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1167" y="-6532" width="71" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-349" value="&lt;b&gt;Block Op&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1161" y="-6509" width="71" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
