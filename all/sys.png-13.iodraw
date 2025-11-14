@@ -4342,10 +4342,10 @@
           <mxGeometry x="-1221.82" y="-6368.5" width="102.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-342" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f36a62;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1113.5" y="-6445.5" width="19" height="19" as="geometry" />
+          <mxGeometry x="-1107" y="-6445.5" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-343" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c6a92;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1113.5" y="-6419" width="19" height="19" as="geometry" />
+          <mxGeometry x="-1107" y="-6419" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-344" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1022" y="-6445" width="19" height="19" as="geometry" />
@@ -4366,13 +4366,13 @@
           <mxGeometry x="-1190" y="-6448.5" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-350" value="寄存器" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1094.5" y="-6448.5" width="54" height="26" as="geometry" />
+          <mxGeometry x="-1088" y="-6448.5" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-351" value="常量" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1002.3700000000001" y="-6421" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-352" value="共享内存" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1094.5" y="-6422.5" width="66" height="26" as="geometry" />
+          <mxGeometry x="-1088" y="-6422.5" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-353" value="全局内存" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1003" y="-6448.5" width="66" height="26" as="geometry" />
