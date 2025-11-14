@@ -4666,10 +4666,10 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-675" value="acc_o" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2014.4200000000003" y="-5711.5" width="38.75" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-676" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1ba1e2;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-677" target="NvUL2CdZj1xo9L-xTfxZ-654">
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-676" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1ba1e2;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-677" target="NvUL2CdZj1xo9L-xTfxZ-654">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2153" y="-5675" />
+              <mxPoint x="-2153" y="-5644" />
               <mxPoint x="-2153" y="-5642" />
             </Array>
             <mxPoint x="-2174.55" y="-5657" as="targetPoint" />
