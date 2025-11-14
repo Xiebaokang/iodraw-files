@@ -4637,7 +4637,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-670" value="ReduceSumOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2014.42" y="-5550" width="75" height="30" as="geometry" />
+          <mxGeometry x="-2014.42" y="-5550" width="88.42" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-671" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1ba1e2;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-672" target="NvUL2CdZj1xo9L-xTfxZ-658">
           <mxGeometry relative="1" as="geometry">
@@ -4701,6 +4701,9 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-687" value="acc_s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2203" y="-5594" width="38.75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-692" value="GEMMOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2322" y="-5598" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
