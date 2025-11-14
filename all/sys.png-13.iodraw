@@ -4401,6 +4401,11 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-510" value="log_sum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1111.38" y="-5699" width="59.38" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-517" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-512">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-986.4782290251358" y="-5534.95652173913" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-512" value="BlockOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1119.1900000000003" y="-5550" width="75" height="30" as="geometry" />
         </mxCell>
@@ -4409,6 +4414,9 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-513" value="scale" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1128.75" y="-5498" width="38.75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-516" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-514" target="NvUL2CdZj1xo9L-xTfxZ-512">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-514" value="acc_o" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1075.7500000000005" y="-5498" width="38.75" height="26" as="geometry" />
