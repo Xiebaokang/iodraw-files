@@ -4273,7 +4273,7 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-387" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-940" y="-5655" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-388" value="acc_s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-388" value="max" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1307.38" y="-5694" width="38.75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-389" value="AllocBufferOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
