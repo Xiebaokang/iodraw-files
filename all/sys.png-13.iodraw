@@ -4229,7 +4229,10 @@
           <mxGeometry x="-1527" y="-5596" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-370" value="GEMMOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1404.5" y="-6305" width="75" height="30" as="geometry" />
+          <mxGeometry x="-1424" y="-5596" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-371" value="AllocBufferOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1511.5" y="-6439" width="88" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
