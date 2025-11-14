@@ -4651,11 +4651,6 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-672" value="log_sum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1968.25" y="-5711.5" width="52.45" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-701" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-673">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1814.8695121433423" y="-5641.913043478261" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-673" value="BlockOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2014.4200000000003" y="-5657" width="75" height="30" as="geometry" />
         </mxCell>
@@ -4724,6 +4719,9 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-694" value="K" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c6a92;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2378" y="-5595" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-702" value="acc_o" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1810.0000000000002" y="-5672" width="38.75" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
