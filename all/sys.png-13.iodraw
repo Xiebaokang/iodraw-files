@@ -4703,7 +4703,7 @@
           <mxGeometry x="-2203" y="-5594" width="38.75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-692" value="GEMMOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2322" y="-5598" width="75" height="30" as="geometry" />
+          <mxGeometry x="-2319" y="-5597" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-696" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-693" target="NvUL2CdZj1xo9L-xTfxZ-692">
           <mxGeometry relative="1" as="geometry" />
