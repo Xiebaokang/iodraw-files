@@ -4084,10 +4084,10 @@
           <mxGeometry x="-1183" y="-6164" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-243" value="CopyOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="-6156" width="75" height="30" as="geometry" />
+          <mxGeometry x="-1310" y="-6096" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-244" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1173" y="-6154" width="26" height="26" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-244" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1183" y="-6094" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
