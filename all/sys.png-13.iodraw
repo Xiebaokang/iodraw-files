@@ -4388,8 +4388,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-360" value="块级图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1410.5" y="-6218" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-361" value="块级图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1400.5" y="-6208" width="54" height="26" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-361" value="线程级图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="-5935" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
