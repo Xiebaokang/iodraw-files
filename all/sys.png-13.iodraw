@@ -4631,10 +4631,10 @@
           <mxGeometry x="-2098.01" y="-5467.5" width="52.45" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-712" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;acc_s = exp(acc_s - max)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2329.9" y="-5500" width="98" height="26" as="geometry" />
+          <mxGeometry x="-2329.9" y="-5503" width="98" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-713" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;scale = exp(prev_max - max)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2338" y="-5560" width="108" height="26" as="geometry" />
+          <mxGeometry x="-2337.9" y="-5562" width="108" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-723" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;log_sum = log_sum * sacle + sum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2138.5" y="-5498.5" width="138" height="26" as="geometry" />
