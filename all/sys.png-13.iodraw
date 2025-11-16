@@ -4856,10 +4856,10 @@
           <mxGeometry x="-2927.62" y="-5543" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-869" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#01c622;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2787.25" y="-5407.75" width="238" height="138.5" as="geometry" />
+          <mxGeometry x="-2791" y="-5570" width="238" height="138.5" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-870" value="线程束内部规约循环体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2685.25" y="-5406.25" width="138" height="26" as="geometry" />
+          <mxGeometry x="-2709" y="-5556" width="138" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
