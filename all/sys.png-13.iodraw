@@ -4482,7 +4482,7 @@
           <mxGeometry x="-1413.3700000000001" y="-5498" width="38.75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-585" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#01c622;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1532.2" y="-5672" width="546.38" height="166" as="geometry" />
+          <mxGeometry x="-2001" y="-5444" width="347.8" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-587" value="内层循环体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1088" y="-5672" width="78" height="26" as="geometry" />
@@ -4595,9 +4595,6 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-658" value="BlockOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1912.2800000000002" y="-5547" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-660" value="sum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1727.0000000000007" y="-5622" width="38.75" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-673" value="BlockOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2002.2900000000002" y="-5594" width="75" height="30" as="geometry" />
         </mxCell>
@@ -4633,9 +4630,6 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-708" value="log_sum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1901.01" y="-5498" width="52.45" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-709" value="acc_o" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1727.0000000000002" y="-5580" width="38.75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-712" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;acc_s = exp(acc_s - max)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2141" y="-5533" width="121" height="26" as="geometry" />
