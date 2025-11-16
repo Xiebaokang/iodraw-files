@@ -4837,6 +4837,9 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-824" value="affine.StoreOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2565" y="-5307" width="102.63" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-827" value="max" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2435" y="-5305" width="36" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
