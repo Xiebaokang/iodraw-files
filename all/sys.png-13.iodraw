@@ -4823,9 +4823,6 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-820" value="arith.AddfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2684" y="-5307" width="102.63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-823" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-822" target="NvUL2CdZj1xo9L-xTfxZ-816">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-822" value="arith.ConstantOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2565" y="-5399" width="102.63" height="30" as="geometry" />
         </mxCell>
@@ -4850,7 +4847,7 @@
           <mxGeometry x="-3048.19" y="-5361" width="348.19" height="91" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-832" value="线程内部规约循环体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2831" y="-5361" width="126" height="26" as="geometry" />
+          <mxGeometry x="-2830.37" y="-5361" width="126" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
