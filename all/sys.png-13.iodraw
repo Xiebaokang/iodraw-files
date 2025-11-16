@@ -4618,8 +4618,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-712" value="scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2116" y="-5685" width="46" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-713" value="max" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2104.4" y="-5517" width="41" height="26" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-713" value="scale = exp(prev_max - max)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2170.4" y="-5517" width="173" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
