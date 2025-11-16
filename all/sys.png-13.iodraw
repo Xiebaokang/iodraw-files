@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="FomrAsKNyxjdWEGFceIk" name="第 1 页">
-    <mxGraphModel dx="3394" dy="7468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2785" dy="7165" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4605,16 +4605,12 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-654" value="BlockOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2197.5" y="-5568" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-734" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-657">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2084" y="-5494.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-758" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-657">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2111.1" y="-5472" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2111.1" y="-5495" />
+              <mxPoint x="-2106" y="-5495" />
+              <mxPoint x="-2106" y="-5472" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4670,7 +4666,7 @@
           <mxGeometry x="-1978.0100000000002" y="-5464.5" width="52.45" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-712" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;acc_s = exp(acc_s - max)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-2220.5" y="-5496.5" width="121" height="23" as="geometry" />
+          <mxGeometry x="-2269.79" y="-5472" width="121" height="23" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-713" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;scale = exp(prev_max - max)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-2259.9" y="-5555" width="134" height="23" as="geometry" />
