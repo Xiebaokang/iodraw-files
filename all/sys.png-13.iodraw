@@ -4797,7 +4797,12 @@
           <mxGeometry x="-3137" y="-5305.25" width="102.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-850" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-851" target="NvUL2CdZj1xo9L-xTfxZ-853">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3024" y="-5336" />
+              <mxPoint x="-3024" y="-5382" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-851" value="arith.addfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3137" y="-5351" width="102.63" height="30" as="geometry" />
@@ -4811,7 +4816,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-853" value="affine.StoreOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2992" y="-5397.25" width="102.63" height="30" as="geometry" />
+          <mxGeometry x="-3009" y="-5397.25" width="102.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-854" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-855" target="NvUL2CdZj1xo9L-xTfxZ-857">
           <mxGeometry relative="1" as="geometry" />
