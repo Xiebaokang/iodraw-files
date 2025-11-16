@@ -4892,7 +4892,7 @@
           <mxGeometry x="-2453.62" y="-5700" width="36" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-882" value="scale" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1892" y="-5725" width="36" height="26" as="geometry" />
+          <mxGeometry x="-2018.28" y="-5702" width="36" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-883" value="affine.LoadOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2399" y="-5758" width="102.63" height="30" as="geometry" />
@@ -4920,6 +4920,9 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-888" value="arith.SubfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2272" y="-5758" width="102.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-895" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-891" target="NvUL2CdZj1xo9L-xTfxZ-894">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-891" value="math.ExpfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2272" y="-5704" width="102.63" height="30" as="geometry" />
