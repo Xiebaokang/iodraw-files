@@ -4636,8 +4636,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-713" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;scale = exp(prev_max - max)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2337.9" y="-5562" width="108" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-723" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;log_sum = log_sum * sacle + sum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2138.5" y="-5498.5" width="138" height="26" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-723" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;log_sum = log_sum * sacle + sum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2133.28" y="-5503" width="123" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-725" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;acc_o = acc_o * scale&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2120.5" y="-5557" width="96" height="26" as="geometry" />
@@ -4666,7 +4666,7 @@
           <mxGeometry x="-2211" y="-5512.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-735" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;reduce_sum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2207" y="-5467.5" width="57" height="26" as="geometry" />
+          <mxGeometry x="-2202" y="-5503" width="57" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
