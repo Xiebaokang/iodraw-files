@@ -4946,8 +4946,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-933" value="cst" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1017.69" y="-6339" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-936" value="&lt;b&gt;块级图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2376.04" y="-5271" width="54" height="26" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-936" value="&lt;b&gt;线程级图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2378.47" y="-5270" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
