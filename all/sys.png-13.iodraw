@@ -4702,7 +4702,7 @@
           <mxGeometry x="-2120" y="-5509.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-735" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;reduce_sum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2124" y="-5629" width="57" height="26" as="geometry" />
+          <mxGeometry x="-2111" y="-5500" width="57" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-756" value="内循环体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2399" y="-5576" width="66" height="26" as="geometry" />
@@ -4769,6 +4769,9 @@
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-800" value="sum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2100.5" y="-5464.5" width="36" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-804" value="max" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2291.5" y="-5598" width="36" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
