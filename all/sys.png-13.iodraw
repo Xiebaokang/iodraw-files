@@ -4755,9 +4755,6 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-792" value="acc_s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2458" y="-5375.5" width="38.75" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-794" value="clear" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2369.93" y="-5364.5" width="44" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-798" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-796" target="NvUL2CdZj1xo9L-xTfxZ-769">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
