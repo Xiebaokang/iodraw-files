@@ -4924,8 +4924,8 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-891" value="math.ExpfOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2272" y="-5704" width="102.63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-894" value="affine.LoadOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2389" y="-5748" width="102.63" height="30" as="geometry" />
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-894" value="affine.StoreOp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffc000;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2143" y="-5704" width="102.63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
