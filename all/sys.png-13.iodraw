@@ -4675,11 +4675,11 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-713" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;scale = exp(prev_max - max)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-2232.43" y="-5544" width="147" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-723" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;log_sum = log_sum * sacle + sum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="NvUL2CdZj1xo9L-xTfxZ-723" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;log_sum = log_sum * sacle + sum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1994" y="-5487" width="168" height="24" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-725" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;acc_o = acc_o * scale&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-1974" y="-5554" width="116" height="24" as="geometry" />
+          <mxGeometry x="-1974" y="-5544" width="116" height="24" as="geometry" />
         </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-764" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;strokeColor=#ffc000;strokeWidth=2;" edge="1" parent="1" source="NvUL2CdZj1xo9L-xTfxZ-728" target="NvUL2CdZj1xo9L-xTfxZ-763">
           <mxGeometry relative="1" as="geometry">
