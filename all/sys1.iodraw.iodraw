@@ -5129,8 +5129,8 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-165" value="acc_o = acc_o * scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-888.7999999999994" y="-2914.5" width="115" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-166" value="acc_o = acc_o * scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-877.7999999999994" y="-2672" width="115" height="24" as="geometry" />
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-166" value="log_sum = log_sum * scale + sum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-905.7999999999994" y="-2672" width="171" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
