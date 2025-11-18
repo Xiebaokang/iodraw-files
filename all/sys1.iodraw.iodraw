@@ -4961,7 +4961,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-66" value="R(m)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-1403.6599999999999" y="-2940" width="75.44" height="25.5" as="geometry" />
+          <mxGeometry x="-1403.66" y="-2940" width="25.66" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontFamily=YaHei UI;fontStyle=1" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-67" target="X20IVqAr2n3TT4Jz0UVQ-72">
           <mxGeometry relative="1" as="geometry">
@@ -4971,7 +4971,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-67" value="R(prve_m)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-67" value="R(prev_m)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1231.41" y="-2940" width="54.41" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-70" target="X20IVqAr2n3TT4Jz0UVQ-72">
