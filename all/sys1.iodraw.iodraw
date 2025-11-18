@@ -5008,6 +5008,9 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-78" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;sum&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-815.6399999999996" y="-2880" width="38" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-80" target="X20IVqAr2n3TT4Jz0UVQ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-80" value="R(scalse_sum)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-743.38" y="-2858.5" width="75.44" height="25.5" as="geometry" />
         </mxCell>
