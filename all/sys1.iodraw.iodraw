@@ -5140,7 +5140,7 @@
           <mxGeometry x="-931.0099999999993" y="-2956" width="115" height="24" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-166" value="log_d = log_d * scale + d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-933.4499999999994" y="-2863" width="130" height="24" as="geometry" />
+          <mxGeometry x="-939.4599999999994" y="-2856" width="130" height="24" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-167" value="acc_o = acc_o&amp;nbsp; / log_d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-688.1099999999992" y="-2908.25" width="119" height="24" as="geometry" />
@@ -5212,7 +5212,7 @@
           <mxGeometry x="-887.4499999999998" y="-2940" width="32" height="22" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-215" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;[32, 128]&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=YaHei UI;fontSize=8;fontColor=#1c6a92;" vertex="1" parent="1">
-          <mxGeometry x="-836" y="-2738" width="50" height="22" as="geometry" />
+          <mxGeometry x="-833.55" y="-2734" width="50" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
