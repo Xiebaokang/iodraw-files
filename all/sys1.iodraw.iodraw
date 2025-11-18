@@ -4907,7 +4907,10 @@
           <mxGeometry x="-1190.3199999999997" y="-2795" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-65" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-family: &amp;quot;YaHei UI&amp;quot;; background-color: initial; font-size: 10px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;CopyOp&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1516.8899999999999" y="-2874" width="60.73" height="25.5" as="geometry" />
+          <mxGeometry x="-1253.25" y="-2672" width="60.73" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-66" value="R(scalsemax)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-1345.94" y="-2676" width="44.99" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
