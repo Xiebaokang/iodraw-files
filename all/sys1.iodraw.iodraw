@@ -4897,7 +4897,7 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-61" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;YaHei UI&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;MatmulOp&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1367.8700000000003" y="-2812" width="60.73" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-62" value="R(S)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-62" value="R(acc_s)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1284.9899999999998" y="-2812" width="27.9" height="25.5" as="geometry" />
         </mxCell>
       </root>
