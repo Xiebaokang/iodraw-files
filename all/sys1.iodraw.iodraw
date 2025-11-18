@@ -4988,29 +4988,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-74" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;YaHei UI&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;BlockOp&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1016.6100000000002" y="-2858.5" width="60.73" height="25.5" as="geometry" />
+          <mxGeometry x="-1005.9400000000003" y="-2663" width="60.73" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-76" target="X20IVqAr2n3TT4Jz0UVQ-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-76" target="X20IVqAr2n3TT4Jz0UVQ-129">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-502.09087579900597" y="-2757.8181873668327" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-882" y="-2846" />
-              <mxPoint x="-882" y="-2876" />
-              <mxPoint x="-501" y="-2876" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-76" value="R(acc_s)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-936.14" y="-2858.5" width="44.99" height="25.5" as="geometry" />
+          <mxGeometry x="-925.47" y="-2663" width="44.99" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-77" target="X20IVqAr2n3TT4Jz0UVQ-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-77" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;YaHei UI&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;ReduceOp&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-867.0000000000002" y="-2858.5" width="60.73" height="25.5" as="geometry" />
+          <mxGeometry x="-856.3300000000003" y="-2663" width="60.73" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-78" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;sum&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-855.6399999999996" y="-2879" width="38" height="26" as="geometry" />
@@ -5024,7 +5014,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-80" value="R(scalse_sum)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="-2858.5" width="75.44" height="25.5" as="geometry" />
+          <mxGeometry x="-779.33" y="-2663" width="75.44" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-81" target="X20IVqAr2n3TT4Jz0UVQ-113">
           <mxGeometry relative="1" as="geometry" />
@@ -5036,7 +5026,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-82" value="R(log_sum)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-694" y="-2858.5" width="63" height="25.5" as="geometry" />
+          <mxGeometry x="-683.33" y="-2663" width="63" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-113" value="R(log_sum)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-601.33" y="-2812" width="63" height="25.5" as="geometry" />
@@ -5060,16 +5050,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-123" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-family: &amp;quot;YaHei UI&amp;quot;; background-color: initial; font-size: 10px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;CopyOp&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-692.8599999999999" y="-2759.75" width="60.73" height="25.5" as="geometry" />
+          <mxGeometry x="-700.9999999999999" y="-2591.75" width="60.73" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-125" target="X20IVqAr2n3TT4Jz0UVQ-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-125" value="S(V)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1c6a92;fontSize=10;fontFamily=YaHei UI;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-600.3499999999998" y="-2759.75" width="27.9" height="25.5" as="geometry" />
+          <mxGeometry x="-608.4899999999998" y="-2591.75" width="27.9" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-129" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;YaHei UI&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;MatmulOp&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-531.74" y="-2759.75" width="60.73" height="25.5" as="geometry" />
+          <mxGeometry x="-539.88" y="-2591.75" width="60.73" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
