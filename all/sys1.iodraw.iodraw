@@ -5067,9 +5067,6 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-123" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-family: &amp;quot;YaHei UI&amp;quot;; background-color: initial; font-size: 10px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;CopyOp&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;" vertex="1" parent="1">
           <mxGeometry x="-686.1399999999999" y="-2752" width="60.73" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-125" target="X20IVqAr2n3TT4Jz0UVQ-129">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-125" value="S(V)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1c6a92;fontSize=10;fontFamily=YaHei UI;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-593.6299999999998" y="-2752" width="27.9" height="25.5" as="geometry" />
         </mxCell>
