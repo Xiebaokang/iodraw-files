@@ -5132,8 +5132,8 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-166" value="log_sum = log_sum * scale + sum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-751.9399999999994" y="-2858.5" width="171" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-167" value="acc_o = acc_o * scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-506.7499999999994" y="-2836" width="115" height="24" as="geometry" />
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-167" value="acc_o = acc_o&amp;nbsp; / log_sum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-515.7499999999993" y="-2836" width="133" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
