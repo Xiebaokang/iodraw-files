@@ -5227,7 +5227,10 @@
           <mxGeometry x="-901.4499999999994" y="-2734" width="60" height="22" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-230" value="grid: {1, 32, 128}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1519.8700000000001" y="-3008" width="106" height="26" as="geometry" />
+          <mxGeometry x="-1433.8000000000002" y="-3032" width="106" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-231" value="[bz, by, i, 0]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1296.9399999999994" y="-2773" width="60" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
