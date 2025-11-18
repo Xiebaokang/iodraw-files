@@ -5134,8 +5134,8 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-167" value="acc_o = acc_o&amp;nbsp; / log_sum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-561.9999999999993" y="-2858.5" width="133" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-170" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1161" y="-2766" width="120" height="60" as="geometry" />
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-170" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1182.8" y="-2585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
