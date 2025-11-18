@@ -5013,9 +5013,7 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-80" target="X20IVqAr2n3TT4Jz0UVQ-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-742" y="-2833" />
-              <mxPoint x="-753" y="-2833" />
-              <mxPoint x="-753" y="-2871" />
+              <mxPoint x="-742" y="-2871" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5032,7 +5030,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-82" value="R(log_sum)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-683.33" y="-2663" width="63" height="25.5" as="geometry" />
+          <mxGeometry x="-686.14" y="-2935" width="63" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-113" value="R(log_sum)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-594.61" y="-2884" width="63" height="25.5" as="geometry" />
