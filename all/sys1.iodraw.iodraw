@@ -5115,10 +5115,10 @@
           <mxGeometry x="-381.66999999999985" y="-2884" width="60.73" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-163" value="scale = exp(prev_m - m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-1079.1299999999994" y="-2863" width="128" height="24" as="geometry" />
+          <mxGeometry x="-1087.4399999999994" y="-2863" width="128" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-164" value="acc_s = exp(acc_s - max)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-1040.4199999999994" y="-2789" width="131" height="24" as="geometry" />
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-164" value="acc_s = exp(acc_s - m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-1034.4199999999994" y="-2789" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-165" value="acc_o = acc_o * scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-961.4599999999994" y="-2920" width="115" height="24" as="geometry" />
