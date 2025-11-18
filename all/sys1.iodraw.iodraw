@@ -5123,8 +5123,11 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-165" value="acc_o = acc_o * scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-946.9999999999993" y="-2921" width="115" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-166" value="log_d = log_d * scale + sum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-770.4499999999994" y="-2858.5" width="144" height="24" as="geometry" />
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-166" target="X20IVqAr2n3TT4Jz0UVQ-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-166" value="log_d = log_d * scale + d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-818.3699999999993" y="-2865" width="130" height="24" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-167" value="acc_o = acc_o&amp;nbsp; / log_sum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-561.9999999999993" y="-2858.5" width="133" height="24" as="geometry" />
