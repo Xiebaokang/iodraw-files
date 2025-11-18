@@ -4885,7 +4885,7 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span&gt;accum&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-1234.6299999999999" y="-3137" width="49" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontFamily=YaHei UI;fontStyle=1;endArrow=block;endFill=1;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-49" target="X20IVqAr2n3TT4Jz0UVQ-3">
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontFamily=YaHei UI;fontStyle=1;endArrow=openThin;endFill=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-49" target="X20IVqAr2n3TT4Jz0UVQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-49" value="G(Q)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#008a00;fontSize=10;fontFamily=YaHei UI;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
