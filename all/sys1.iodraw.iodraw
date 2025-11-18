@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="FomrAsKNyxjdWEGFceIk" name="第 1 页">
-    <mxGraphModel dx="1710" dy="5868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1751" dy="5885" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4908,13 +4908,8 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-52" value="G(O)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#008a00;fontSize=10;fontFamily=YaHei UI;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-470.0199999999996" y="-2884.25" width="27.9" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontFamily=YaHei UI;fontStyle=1" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-55" target="X20IVqAr2n3TT4Jz0UVQ-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1335.0399999999997" y="-2871" />
-              <mxPoint x="-1308.0399999999997" y="-2872" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-55" target="X20IVqAr2n3TT4Jz0UVQ-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-55" value="S(Q)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1c6a92;fontSize=10;fontFamily=YaHei UI;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1350.2599999999995" y="-2884" width="27.9" height="25.5" as="geometry" />
