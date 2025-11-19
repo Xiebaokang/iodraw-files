@@ -5411,6 +5411,9 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-354" value="[bk, map2(tid)]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1546.6899999999996" y="-2006" width="74" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-355" value="&lt;b&gt;blockIdx：(by, bx) = (16, 16)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=9;fontFamily=YaHei UI;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1196" y="-1937.75" width="140" height="23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
