@@ -5408,8 +5408,8 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-352" value="[bk, bx]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1531.9999999999995" y="-2006" width="46" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-353" value="&lt;b&gt;Grid：(by, bx) = (0, 0) to (16, 16)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#e4f2fb;fontSize=9;fontFamily=YaHei UI;fontColor=#9c802b;" vertex="1" parent="1">
-          <mxGeometry x="-1127.26" y="-2247.75" width="157" height="23" as="geometry" />
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-353" value="&lt;b&gt;Grid：(by, bx) = (0, 0) to (16, 16)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=9;fontFamily=YaHei UI;fontColor=#9c802b;" vertex="1" parent="1">
+          <mxGeometry x="-1379.87" y="-2146.5" width="157" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
