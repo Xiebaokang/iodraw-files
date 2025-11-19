@@ -5882,6 +5882,9 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-519" value="{bz, by, i, 0}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1047.75" y="-1425" width="60" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-520" value="{bz, by, bx, 0}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1550.6799999999998" y="-1555.5" width="66" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
