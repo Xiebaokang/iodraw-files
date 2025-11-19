@@ -5346,14 +5346,6 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-285" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;affine.LoadOp&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#ff6e66;fontSize=10;fontFamily=YaHei UI;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1357.7299999999998" y="-1936" width="76" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-288" target="X20IVqAr2n3TT4Jz0UVQ-290">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1288" y="-2024" />
-              <mxPoint x="-1288" y="-1971" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-288" value="R(A[i][j])" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1344.12" y="-2036.25" width="47.84" height="25.5" as="geometry" />
         </mxCell>
@@ -5391,9 +5383,6 @@
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-293" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;memref.AllocaOp&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#ff6e66;fontSize=10;fontFamily=YaHei UI;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1280.9399999999998" y="-1906" width="92.99" height="25.5" as="geometry" />
-        </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-295" target="X20IVqAr2n3TT4Jz0UVQ-292">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-295" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;affine.LoadOp&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#ff6e66;fontSize=10;fontFamily=YaHei UI;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1271.2699999999995" y="-2036.25" width="76" height="25.5" as="geometry" />
