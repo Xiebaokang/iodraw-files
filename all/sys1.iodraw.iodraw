@@ -5505,6 +5505,9 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-384" value="&lt;b&gt;threadIdx：tid = 128&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=9;fontFamily=YaHei UI;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1131.35" y="-2136.5" width="108" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-385" value="&lt;b&gt;blockIdx：(by, bx) = (16, 16)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=9;fontFamily=YaHei UI;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1362.76" y="-2141.75" width="140" height="23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
