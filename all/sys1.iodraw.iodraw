@@ -40,9 +40,6 @@
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-313" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdf1ce;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1196.94" y="-5051.25" width="243" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-525" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9c802b;strokeWidth=2;labelBackgroundColor=#e4f2fb;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-1208.51" y="-1412.5" width="133.05" height="86" as="geometry" />
-        </mxCell>
         <mxCell id="NvUL2CdZj1xo9L-xTfxZ-303" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fdf1ce;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1544.94" y="-4985.25" width="594" height="269" as="geometry" />
         </mxCell>
@@ -5901,6 +5898,9 @@
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-522" value="sum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1094.94" y="-1469" width="34" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-525" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9c802b;strokeWidth=2;labelBackgroundColor=#e4f2fb;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-1208.51" y="-1412.5" width="133.05" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
