@@ -5536,7 +5536,10 @@
           <mxGeometry x="-1079.8" y="-2266.25" width="83" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-402" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;AllocBufferOp&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-1489.27" y="-2137" width="77.37" height="25.5" as="geometry" />
+          <mxGeometry x="-1466.51" y="-1804" width="77.37" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-403" value="S(A)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1c6a92;fontSize=10;fontFamily=YaHei UI;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1591.1499999999999" y="-2026.87" width="27.9" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
