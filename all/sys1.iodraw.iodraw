@@ -5607,6 +5607,9 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-422" value="S(Q)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1c6a92;fontSize=10;fontFamily=YaHei UI;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1453.3399999999997" y="-1621" width="27.9" height="25.5" as="geometry" />
         </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-434" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X20IVqAr2n3TT4Jz0UVQ-425" target="X20IVqAr2n3TT4Jz0UVQ-433">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-425" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;MatmulOp&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#1ba1e2;align=center;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1406.5800000000002" y="-1621" width="62.64" height="25.5" as="geometry" />
         </mxCell>
@@ -5625,7 +5628,7 @@
           <mxGeometry x="-1454.22" y="-1578" width="53.28" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-433" value="R(acc_s)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#93433e;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-1327.8000000000002" y="-1621" width="27.9" height="25.5" as="geometry" />
+          <mxGeometry x="-1326.95" y="-1621" width="42.8" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
