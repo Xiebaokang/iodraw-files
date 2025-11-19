@@ -5333,7 +5333,7 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-288" value="R(A[i][j])" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1249.84" y="-2034" width="47.84" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-289" value="R(B)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-289" value="R(B[][])" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1249.84" y="-1981.75" width="27.9" height="25.5" as="geometry" />
         </mxCell>
       </root>
