@@ -4789,7 +4789,7 @@
           <mxGeometry x="-1124.33" y="-3456.5" width="76" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cecc;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1459.1499999999999" y="-1853" width="156.3" height="145" as="geometry" />
+          <mxGeometry x="-1559.2399999999998" y="-1378" width="156.3" height="145" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#008a00;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1026.8999999999999" y="-3456.5" width="27.9" height="25.5" as="geometry" />
@@ -5906,7 +5906,7 @@
           <mxGeometry x="-1491.83" y="-1614" width="156" height="23" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-527" value="&lt;span&gt;blockIdx：(bz, by, bx) = (1, 32, 128)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=9;fontFamily=YaHei UI;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1431.68" y="-1336" width="162" height="23" as="geometry" />
+          <mxGeometry x="-785.0500000000001" y="-1616" width="162" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
