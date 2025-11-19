@@ -5726,8 +5726,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1123" y="-1483" />
-              <mxPoint x="-1123" y="-1458" />
-              <mxPoint x="-908" y="-1458" />
+              <mxPoint x="-1123" y="-1455" />
+              <mxPoint x="-908" y="-1455" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5888,7 +5888,7 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-521" value="max" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1291.94" y="-1526" width="34" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-522" value="max" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-522" value="sum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1094.94" y="-1475" width="34" height="22" as="geometry" />
         </mxCell>
       </root>
