@@ -5318,6 +5318,12 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-278" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;memref.AllocaOp&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#ff6e66;fontSize=10;fontFamily=YaHei UI;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1473.0499999999997" y="-2100" width="92.99" height="25.5" as="geometry" />
         </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-284" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;affine.loadOp&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#ff6e66;fontSize=10;fontFamily=YaHei UI;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1322.4399999999998" y="-2032.5" width="76" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-285" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;affine.loadOp&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#ff6e66;fontSize=10;fontFamily=YaHei UI;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1379.87" y="-1983.5" width="76" height="25.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
