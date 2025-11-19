@@ -5252,13 +5252,13 @@
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-230" value="grid: {1, 32, 128}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1433.8000000000002" y="-3032" width="106" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-241" value="[by, k]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-241" value="{by, k}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1542.0399999999993" y="-2230.25" width="41" height="22" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-242" value="{k, bx}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1542.0399999999993" y="-2177.5" width="41" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-243" value="[by, bx]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="X20IVqAr2n3TT4Jz0UVQ-243" value="{by, bx}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1280.1199999999994" y="-2177.5" width="45" height="22" as="geometry" />
         </mxCell>
         <mxCell id="X20IVqAr2n3TT4Jz0UVQ-245" value="G(C)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#008a00;fontSize=10;fontFamily=YaHei UI;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
