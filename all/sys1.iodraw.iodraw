@@ -6089,9 +6089,6 @@
         <mxCell id="f6AqoOT4kz-4bdoDKdna-59" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;[2, 16]&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=YaHei UI;fontSize=8;fontColor=#a84600;" vertex="1" parent="1">
           <mxGeometry x="-858.0000000000001" y="-1598" width="41" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="f6AqoOT4kz-4bdoDKdna-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f6AqoOT4kz-4bdoDKdna-60" target="f6AqoOT4kz-4bdoDKdna-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="f6AqoOT4kz-4bdoDKdna-60" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;affine.LoadOp&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#fa6800;fontSize=10;fontFamily=YaHei UI;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-786.6599999999996" y="-1619" width="76" height="25.5" as="geometry" />
         </mxCell>
@@ -6108,7 +6105,7 @@
           <mxGeometry x="-786.6599999999994" y="-1575" width="76" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="f6AqoOT4kz-4bdoDKdna-67" value="R(log_d)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#a84600;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-940.45" y="-1795" width="45.4" height="25.5" as="geometry" />
+          <mxGeometry x="-571.4000000000001" y="-1601.5" width="45.4" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
