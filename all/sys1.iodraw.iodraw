@@ -6538,8 +6538,8 @@
         <mxCell id="f6AqoOT4kz-4bdoDKdna-191" value="acc_o = acc_o&amp;nbsp; / log_d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;labelBackgroundColor=#e4f2fb;" vertex="1" parent="1">
           <mxGeometry x="-761.1499999999992" y="-1032" width="99" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="f6AqoOT4kz-4bdoDKdna-192" value="{bz, by, i, 0}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-1435.85" y="-992" width="60" height="22" as="geometry" />
+        <mxCell id="f6AqoOT4kz-4bdoDKdna-192" value="{bz, by, i, j}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1433.85" y="-992" width="57" height="22" as="geometry" />
         </mxCell>
         <mxCell id="f6AqoOT4kz-4bdoDKdna-193" value="{bz, by, i, 0}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-990.77" y="-940" width="60" height="22" as="geometry" />
