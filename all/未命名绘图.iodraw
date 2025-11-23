@@ -7457,7 +7457,7 @@
         <mxCell id="bkyDRes2qAHfjIbgkW7G-23" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;寄存器数据流&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-891.28" y="-1322" width="78" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-24" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;寄存器数据流&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-24" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;操作次序依赖&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-676.03" y="-1325.25" width="78" height="26" as="geometry" />
         </mxCell>
       </root>
