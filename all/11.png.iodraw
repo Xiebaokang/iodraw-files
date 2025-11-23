@@ -7457,9 +7457,6 @@
             <mxPoint x="-870.2" y="-1361.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;全局数据流&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-952.1199999999999" y="-1372.5" width="68" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;共享数据流&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-952.1299999999999" y="-1350.25" width="68" height="26" as="geometry" />
         </mxCell>
