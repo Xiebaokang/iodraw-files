@@ -7435,8 +7435,8 @@
         </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=YaHei UI;endArrow=blockThin;endFill=1;strokeWidth=2;strokeColor=#1ba1e2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-983.5699999999999" y="-1337.54" as="sourcePoint" />
-            <mxPoint x="-959.0999999999999" y="-1337.54" as="targetPoint" />
+            <mxPoint x="-893.41" y="-1337.12" as="sourcePoint" />
+            <mxPoint x="-868.9399999999999" y="-1337.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=YaHei UI;endArrow=blockThin;endFill=1;strokeWidth=2;strokeColor=#fa6800;" edge="1" parent="1">
@@ -7456,12 +7456,6 @@
             <mxPoint x="-894.2" y="-1361.12" as="sourcePoint" />
             <mxPoint x="-870.2" y="-1361.12" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;共享数据流&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-952.1299999999999" y="-1350.25" width="68" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-23" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;寄存器数据流&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-952.2099999999999" y="-1327" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-24" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;操作次序依赖&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-740.4899999999999" y="-1327" width="78" height="26" as="geometry" />
