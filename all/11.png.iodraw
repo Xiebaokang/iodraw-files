@@ -7453,8 +7453,11 @@
         </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=YaHei UI;endArrow=blockThin;endFill=1;strokeWidth=2;strokeColor=#008a00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bkyDRes2qAHfjIbgkW7G-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-902" y="-1360" as="sourcePoint" />
+            <mxPoint x="-897" y="-1360" as="sourcePoint" />
             <mxPoint x="-882.57" y="-1360.62" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-890" y="-1360" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-24" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;操作次序依赖&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
