@@ -7752,6 +7752,9 @@
         <mxCell id="bkyDRes2qAHfjIbgkW7G-474" value="&lt;font face=&quot;YaHei UI&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;线程束布局&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-951.63" y="368" width="68" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-475" value="&lt;font face=&quot;YaHei UI&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;线程块布局&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-977.09" y="470" width="68" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
