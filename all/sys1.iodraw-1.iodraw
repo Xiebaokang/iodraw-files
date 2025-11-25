@@ -7557,10 +7557,10 @@
             <mxPoint x="-1222" y="358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-403" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1.004;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bkyDRes2qAHfjIbgkW7G-387" target="bkyDRes2qAHfjIbgkW7G-387">
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-403" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1386.5700000000002" y="469" as="sourcePoint" />
-            <mxPoint x="-1401.13" y="410" as="targetPoint" />
+            <mxPoint x="-1337" y="409" as="sourcePoint" />
+            <mxPoint x="-1402" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
