@@ -7509,8 +7509,8 @@
         <mxCell id="bkyDRes2qAHfjIbgkW7G-45" value="(b) MatmulOp（左）与 CopyOp（右）在Thread层级的建模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1435.3700000000001" y="-1158" width="338" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-46" value="(b) ReduceOp（左）与 BlockOp（右）在Thread层级的建模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-1429.1600000000003" y="-653" width="340" height="26" as="geometry" />
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-46" value="(c) ReduceOp（左）与 BlockOp（右）在Thread层级的建模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-1428.1600000000003" y="-653" width="338" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
