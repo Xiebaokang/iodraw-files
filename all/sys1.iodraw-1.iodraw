@@ -7512,8 +7512,8 @@
         <mxCell id="bkyDRes2qAHfjIbgkW7G-46" value="(c) ReduceOp（左）与 BlockOp（右）在Thread层级的建模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-1428.1600000000003" y="-653" width="338" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-386" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1318.88" y="395" width="111.88" height="19" as="geometry" />
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-387" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1257" y="403" width="12" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
