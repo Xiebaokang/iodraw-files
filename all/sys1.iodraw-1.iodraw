@@ -7507,7 +7507,7 @@
           <mxGeometry x="-1433.99" y="-879" width="258" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-45" value="(b) MatmulOp（左）与ReduceOp（右）在Thread层级的建模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-1482.4" y="-1164" width="348" height="26" as="geometry" />
+          <mxGeometry x="-1450.3300000000002" y="-1164" width="348" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
