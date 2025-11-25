@@ -8841,6 +8841,12 @@
         <mxCell id="bkyDRes2qAHfjIbgkW7G-1051" value="&lt;font face=&quot;YaHei UI&quot; style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;T31&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1738.21" y="244.5" width="29" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-1052" value="" style="endArrow=openThin;html=1;rounded=0;dashed=1;endFill=0;entryX=0.201;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1870" y="235" as="sourcePoint" />
+            <mxPoint x="-1767" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
