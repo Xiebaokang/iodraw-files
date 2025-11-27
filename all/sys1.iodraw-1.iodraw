@@ -10,6 +10,14 @@
         <mxCell id="eIVutCmV-JZflU8LdVkV-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#33017e;strokeWidth=2;labelBackgroundColor=#e4f2fb;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2399.68" y="-1119" width="199.68" height="169" as="geometry" />
         </mxCell>
+        <mxCell id="eIVutCmV-JZflU8LdVkV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIVutCmV-JZflU8LdVkV-4" target="eIVutCmV-JZflU8LdVkV-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2163" y="-1023" />
+              <mxPoint x="-2163" y="-765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eIVutCmV-JZflU8LdVkV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4C0099;strokeWidth=2;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="-2394.89" y="-1081" width="186.89" height="115" as="geometry" />
         </mxCell>
@@ -9922,7 +9930,7 @@
         <mxCell id="eIVutCmV-JZflU8LdVkV-35" value="&lt;span&gt;blockIdx：(bz, by, bx) = (1, 32, 128)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=9;fontFamily=YaHei UI;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2466" y="-1152" width="162" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="eIVutCmV-JZflU8LdVkV-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eIVutCmV-JZflU8LdVkV-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#e1d5e7;fontSize=12;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2466" y="-869" width="275" height="207" as="geometry" />
         </mxCell>
       </root>
