@@ -9922,8 +9922,8 @@
         <mxCell id="eIVutCmV-JZflU8LdVkV-35" value="&lt;span&gt;blockIdx：(bz, by, bx) = (1, 32, 128)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontSize=9;fontFamily=YaHei UI;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2466" y="-1152" width="162" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="eIVutCmV-JZflU8LdVkV-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#e4f2fb;fontColor=#ffffff;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2456" y="-1139" width="275" height="207" as="geometry" />
+        <mxCell id="eIVutCmV-JZflU8LdVkV-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2466" y="-869" width="275" height="207" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
