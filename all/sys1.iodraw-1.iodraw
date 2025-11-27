@@ -9615,9 +9615,6 @@
         <mxCell id="bkyDRes2qAHfjIbgkW7G-1552" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-3556.19" y="3488.93" width="20" height="7.5" as="geometry" />
         </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-1553" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-3443.33" y="3488.93" width="17.33" height="8.5" as="geometry" />
-        </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-1554" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;YaHei UI&quot;&gt;128&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-3266.9699999999993" y="3329.43" width="41" height="30" as="geometry" />
         </mxCell>
@@ -10076,6 +10073,9 @@
             <mxPoint x="-3148.26" y="3583.43" as="sourcePoint" />
             <mxPoint x="-3148.26" y="3490.43" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-1736" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-3439.7400000000002" y="3505.1099999999997" width="20" height="7.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
