@@ -9774,11 +9774,11 @@
         <mxCell id="bkyDRes2qAHfjIbgkW7G-1759" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;YaHei UI&quot;&gt;T0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-2962.16" y="3223.93" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bkyDRes2qAHfjIbgkW7G-1760" value="访存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-1760" value="数据加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3976" y="3945" width="84.22" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-1761" value="计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3866.38" y="3945" width="84.22" height="30" as="geometry" />
+          <mxGeometry x="-3886.78" y="3945" width="84.22" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
