@@ -9781,7 +9781,13 @@
           <mxGeometry x="-3886.78" y="3945" width="84.22" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bkyDRes2qAHfjIbgkW7G-1763" value="访存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3966" y="3955" width="84.22" height="30" as="geometry" />
+          <mxGeometry x="-3796.61" y="3945" width="84.22" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-1764" value="访存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3807.38" y="4054" width="84.22" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bkyDRes2qAHfjIbgkW7G-1765" value="计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3876.78" y="3955" width="84.22" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
