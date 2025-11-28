@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="FomrAsKNyxjdWEGFceIk" name="第 1 页">
-    <mxGraphModel dx="5350" dy="6870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4475" dy="6435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8932,6 +8932,12 @@
         </mxCell>
         <mxCell id="eIVutCmV-JZflU8LdVkV-415" value="(b) QK 矩阵乘法中MatmulOp操作在 Thread 级软件流水线变换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2394.3900000000003" y="-4483.05" width="351" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eIVutCmV-JZflU8LdVkV-418" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2693.08" y="-3640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIVutCmV-JZflU8LdVkV-419" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2598" y="-3574" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
