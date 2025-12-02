@@ -1142,6 +1142,23 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-412" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3905.000000000001" y="-5235" width="22.140000000000327" height="110.36000000000058" as="geometry" />
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-413" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Registers&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;container=0;rotation=90;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-412">
+          <mxGeometry x="-20.219999999999345" y="68.00000000000091" width="62.58" height="22.14" as="geometry" />
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-414" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-412" target="QnYma3ORGgAPOMFe7XWd-413">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="11.140000000000782" as="sourcePoint" />
+            <mxPoint x="27.640000000000782" y="-13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-415" value="&lt;font face=&quot;YaHei UI&quot;&gt;Thread&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;container=0;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-414">
+          <mxGeometry x="-0.0314" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
