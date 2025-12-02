@@ -1331,8 +1331,11 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-491" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3934" y="-4826" width="404" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-492" value="Optimizers" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#d5e9d4;" vertex="1" parent="1">
-          <mxGeometry x="-3918.65" y="-4851.25" width="66.65" height="23.5" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-492" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#d5e9d4;" vertex="1" parent="1">
+          <mxGeometry x="-3922.52" y="-4806" width="66.65" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-493" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#d5e9d4;" vertex="1" parent="1">
+          <mxGeometry x="-3912.52" y="-4796" width="66.65" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
