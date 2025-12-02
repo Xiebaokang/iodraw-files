@@ -1019,6 +1019,12 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-272" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-4044.87" y="-5082" width="23" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-273" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="QnYma3ORGgAPOMFe7XWd-272">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4028" y="-5221" as="sourcePoint" />
+            <mxPoint x="-3978" y="-5271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
