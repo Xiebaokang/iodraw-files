@@ -1385,8 +1385,8 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-510" value="计算调度优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3224" y="-4833" width="154" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-511" value="代码优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3260.5" y="-4861" width="66" height="26" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-511" value="算子代码生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3272.5" y="-4861" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
