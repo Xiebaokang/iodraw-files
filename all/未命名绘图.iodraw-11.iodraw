@@ -1077,10 +1077,10 @@
           <mxGeometry x="-3958.1100000000006" y="-5294" width="93" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-296" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3941.73" y="-5248.5" width="144" height="121" as="geometry" />
+          <mxGeometry x="-3803.62" y="-5258.5" width="144" height="121" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-297" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3930" y="-5225" width="23" height="92" as="geometry" />
+          <mxGeometry x="-3791.89" y="-5235" width="23" height="92" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-298" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-297">
           <mxGeometry y="45" width="23" height="47" as="geometry" />
@@ -1097,13 +1097,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-301" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3861.77" y="-5193.5" width="29" height="28" as="geometry" />
+          <mxGeometry x="-3723.66" y="-5203.5" width="29" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-302" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3944.1800000000003" y="-5251" width="91" height="26" as="geometry" />
+          <mxGeometry x="-3806.07" y="-5261" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-303" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3884" y="-5225" width="23" height="92" as="geometry" />
+          <mxGeometry x="-3745.89" y="-5235" width="23" height="92" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-304" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-303">
           <mxGeometry y="45" width="23" height="47" as="geometry" />
@@ -1120,7 +1120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-307" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3833" y="-5225" width="23" height="92" as="geometry" />
+          <mxGeometry x="-3694.89" y="-5235" width="23" height="92" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-308" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-307">
           <mxGeometry y="45" width="23" height="47" as="geometry" />
