@@ -1011,7 +1011,7 @@
           <mxGeometry x="-3895.79" y="-5315" width="543.79" height="22" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-269" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e4f2fb;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3956" y="-5289" width="318" height="173" as="geometry" />
+          <mxGeometry x="-3956" y="-5289" width="319" height="173" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-270" value="共享内存(Shared Memory)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#1c6a92;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-3869.8" y="-5285.5" width="210.18" height="23" as="geometry" />
@@ -1083,16 +1083,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-361" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3941.73" y="-5248.5" width="153.73" height="138.5" as="geometry" />
+          <mxGeometry x="-3794.65" y="-5258.5" width="153.73" height="138.5" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-362" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3944.1800000000003" y="-5251" width="91" height="26" as="geometry" />
+          <mxGeometry x="-3797.1000000000004" y="-5261" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-363" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3882.18" y="-5173" width="29" height="28" as="geometry" />
+          <mxGeometry x="-3735.1" y="-5183" width="29" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-364" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3938.0000000000005" y="-5145" width="146.3100000000004" height="31" as="geometry" />
+          <mxGeometry x="-3790.9200000000005" y="-5155" width="146.3100000000004" height="31" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-365" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-364">
           <mxGeometry x="86.3100000000004" width="60" height="31" as="geometry" />
@@ -1109,7 +1109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-368" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3938.0000000000005" y="-5230" width="146.3100000000004" height="31" as="geometry" />
+          <mxGeometry x="-3790.9200000000005" y="-5240" width="146.3100000000004" height="31" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-369" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-368">
           <mxGeometry x="86.3100000000004" width="60" height="31" as="geometry" />
@@ -1126,7 +1126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-372" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3938.0000000000005" y="-5195" width="146.3100000000004" height="31" as="geometry" />
+          <mxGeometry x="-3790.9200000000005" y="-5205" width="146.3100000000004" height="31" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-373" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-372">
           <mxGeometry x="86.3100000000004" width="60" height="31" as="geometry" />
