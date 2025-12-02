@@ -1126,12 +1126,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-365" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-3740.61" y="-4964" width="60" height="32" as="geometry" />
+          <mxGeometry x="-3510.3900000000003" y="-4965" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-366" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="QnYma3ORGgAPOMFe7XWd-365">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3826.9200000000005" y="-4948.5" as="sourcePoint" />
-            <mxPoint x="-3810.9300000000003" y="-4987" as="targetPoint" />
+            <mxPoint x="-3602.1600000000008" y="-5015.5" as="sourcePoint" />
+            <mxPoint x="-3586.17" y="-5054" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-367" value="&lt;font face=&quot;YaHei UI&quot;&gt;线程(Thread)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;container=0;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-366">
