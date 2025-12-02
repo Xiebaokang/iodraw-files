@@ -1289,8 +1289,8 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-472" value="Hardware-Specific Dialects" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dce7fc;" vertex="1" parent="1">
           <mxGeometry x="-3700.1099999999997" y="-4881" width="156.45" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-476" value="MLIR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3895.7899999999995" y="-5002" width="45" height="26" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-476" value="Dialect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-3901.7899999999995" y="-5002" width="57" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
