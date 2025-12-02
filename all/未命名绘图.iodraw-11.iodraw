@@ -2688,10 +2688,10 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-1143" value="线程束布局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-1738.0000000000002" y="-5143" width="118" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-1145" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-1145" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="QnYma3ORGgAPOMFe7XWd-1111">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1685" y="-5505.46" as="sourcePoint" />
-            <mxPoint x="-1642" y="-5461" as="targetPoint" />
+            <mxPoint x="-1796.16" y="-5496.75" as="sourcePoint" />
+            <mxPoint x="-1753.16" y="-5452.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
