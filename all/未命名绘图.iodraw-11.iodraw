@@ -1070,8 +1070,8 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-285" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3883.1" y="-5198.5" width="29" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-286" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3729" y="-5269" width="90" height="26" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-286" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-3949" y="-5259" width="91" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
