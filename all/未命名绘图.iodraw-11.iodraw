@@ -1367,7 +1367,7 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-504" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3391" y="-4920.75" width="327" height="59.5" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-505" value="线程块级(Block-Level)建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-505" value="访存优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3385" y="-4892.75" width="154" height="25" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-506" value="线程级(Thread-Level)建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
