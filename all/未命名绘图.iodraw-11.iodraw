@@ -1257,11 +1257,14 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-275" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-3840.33" y="-5018" width="60" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-347" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-347" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QnYma3ORGgAPOMFe7XWd-275">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3960.65" y="-4991" as="sourcePoint" />
             <mxPoint x="-3910.65" y="-5041" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-348" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4104.16" y="-5032.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
