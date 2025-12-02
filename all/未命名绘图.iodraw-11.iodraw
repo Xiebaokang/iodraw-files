@@ -1020,10 +1020,10 @@
           <mxGeometry x="-3951.73" y="-5258.5" width="144" height="121" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-278" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3960" y="-5065" width="53" height="92" as="geometry" />
+          <mxGeometry x="-3960" y="-5065" width="60" height="92" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-275" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-278">
-          <mxGeometry y="45" width="53" height="47" as="geometry" />
+          <mxGeometry y="45" width="60" height="47" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-276" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-278" target="QnYma3ORGgAPOMFe7XWd-275">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
