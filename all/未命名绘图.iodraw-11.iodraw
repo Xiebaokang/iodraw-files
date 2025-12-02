@@ -1272,13 +1272,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-468" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87a2df;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3935.11" y="-5028" width="526.11" height="89" as="geometry" />
+          <mxGeometry x="-3935.11" y="-5028" width="407.11" height="89" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-469" value="MLIR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3934.8599999999997" y="-5032.5" width="45" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-473" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#ffffff;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-3929.11" y="-5007" width="385.5" height="50" as="geometry" />
+          <mxGeometry x="-3929.11" y="-5007" width="397.11" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-470" value="High-Level Dialects" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dce7fc;" vertex="1" parent="1">
           <mxGeometry x="-3925.1800000000003" y="-4985" width="109" height="23.5" as="geometry" />
@@ -1287,7 +1287,7 @@
           <mxGeometry x="-3809.69" y="-4985" width="108.58" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-472" value="Hardware-Specific Dialects" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dce7fc;" vertex="1" parent="1">
-          <mxGeometry x="-3700.1099999999997" y="-4881" width="156.45" height="23.5" as="geometry" />
+          <mxGeometry x="-3695.0999999999995" y="-4985" width="156.45" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-476" value="Dialects" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3931.1099999999997" y="-5011" width="62" height="26" as="geometry" />
