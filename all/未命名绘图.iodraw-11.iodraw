@@ -1254,13 +1254,14 @@
             <mxPoint x="-1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QnYma3ORGgAPOMFe7XWd-275">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3751.000010172526" y="-5002.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-275" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-3840.33" y="-5018" width="60" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-347" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3960.65" y="-4991" as="sourcePoint" />
+            <mxPoint x="-3910.65" y="-5041" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
