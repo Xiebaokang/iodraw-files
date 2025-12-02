@@ -1014,7 +1014,7 @@
           <mxGeometry x="-3915" y="-5282" width="141" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-271" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3943" y="-5242" width="118" height="115" as="geometry" />
+          <mxGeometry x="-3943" y="-5242" width="118" height="102" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-278" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3938" y="-5237" width="23" height="92" as="geometry" />
@@ -1067,7 +1067,7 @@
             <mxPoint x="-1" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-285" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-285" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3883.1" y="-5198.5" width="29" height="28" as="geometry" />
         </mxCell>
       </root>
