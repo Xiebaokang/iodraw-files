@@ -2568,9 +2568,6 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-914" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1881" y="-5616.25" width="18.33" height="17.57" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-916" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-1881" y="-5515.18" width="18.33" height="7.5" as="geometry" />
-        </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-918" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;YaHei UI&quot;&gt;smemV在Bank上的内存映射&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-2727.43" y="-5506.750000000001" width="197" height="30" as="geometry" />
         </mxCell>
@@ -2770,7 +2767,10 @@
           <mxGeometry x="-2079" y="-5504.26" width="18.33" height="7.5" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-917" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-1979.33" y="-5514.75" width="18.33" height="7.5" as="geometry" />
+          <mxGeometry x="-1980" y="-5504.25" width="18.33" height="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-916" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1881" y="-5504.26" width="18.33" height="7.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
