@@ -1011,7 +1011,7 @@
           <mxGeometry x="-3963" y="-5303" width="305" height="186" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-270" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#1c6a92;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3888" y="-5297" width="221.27" height="27" as="geometry" />
+          <mxGeometry x="-3874" y="-5297" width="207.27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-271" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3951.73" y="-5258.5" width="144" height="121" as="geometry" />
@@ -1073,8 +1073,8 @@
             <mxPoint x="-1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-295" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-4127.63" y="-5303" width="91" height="26" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-295" value="线程块(Block)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-4128.63" y="-5303" width="93" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
