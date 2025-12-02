@@ -1361,8 +1361,8 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-502" value="线程级(Thread-Level)建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3217" y="-4963" width="154" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-503" value="算子识别&amp;amp;计算逻辑建模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3367" y="-5046" width="146" height="26" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-503" value="关键算子识别&amp;amp;计算逻辑建模" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3305.5" y="-4991" width="170" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
