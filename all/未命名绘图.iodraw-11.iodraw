@@ -1019,45 +1019,8 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-271" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3951.73" y="-5258.5" width="144" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-285" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3871.77" y="-5203.5" width="29" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-286" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3954.1800000000003" y="-5261" width="91" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-287" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3894" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-288" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-287">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-289" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-287" target="QnYma3ORGgAPOMFe7XWd-288">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-290" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-289">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-291" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3843" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-292" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-291">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-293" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-291" target="QnYma3ORGgAPOMFe7XWd-292">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-294" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-293">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-295" value="线程块(Block)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3958.1100000000006" y="-5287" width="93" height="26" as="geometry" />
@@ -1065,62 +1028,11 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-296" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3803.62" y="-5258.5" width="144" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-297" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3791.89" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-298" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-297">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-299" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-297" target="QnYma3ORGgAPOMFe7XWd-298">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-300" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-299">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-301" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3637.02" y="-5000" width="29" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-302" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3806.07" y="-5261" width="91" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-303" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3745.89" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-304" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-303">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-305" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-303" target="QnYma3ORGgAPOMFe7XWd-304">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-306" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-305">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-307" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3694.89" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-308" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-307">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-309" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-307" target="QnYma3ORGgAPOMFe7XWd-308">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-310" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-309">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-311" value="网格(Grid)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3962.5900000000006" y="-5319" width="74" height="26" as="geometry" />
@@ -1134,62 +1046,8 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-315" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3646.73" y="-5258.5" width="144" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-316" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3635" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-317" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-316">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-318" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-316" target="QnYma3ORGgAPOMFe7XWd-317">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-319" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-318">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-320" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3566.77" y="-5203.5" width="29" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-321" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3649.1800000000003" y="-5261" width="91" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-322" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3589" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-323" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-322">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-324" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-322" target="QnYma3ORGgAPOMFe7XWd-323">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-325" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-324">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-326" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3538" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-327" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-326">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-328" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-326" target="QnYma3ORGgAPOMFe7XWd-327">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-329" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-328">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-330" value="线程块(Block)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3653.1100000000006" y="-5287" width="93" height="26" as="geometry" />
@@ -1197,75 +1055,29 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-331" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3498.62" y="-5258.5" width="144" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-332" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3486.89" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-333" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-332">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-334" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-332" target="QnYma3ORGgAPOMFe7XWd-333">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-335" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-334">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-336" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3418.66" y="-5203.5" width="29" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-337" value="线程束(Warp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3501.07" y="-5261" width="91" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-338" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3440.89" y="-5235" width="23" height="92" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-351" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3936.0000000000005" y="-5213" width="146.3100000000004" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-339" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-338">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-275" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-351">
+          <mxGeometry x="86.3100000000004" width="60" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-340" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-338" target="QnYma3ORGgAPOMFe7XWd-339">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-347" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-351" target="QnYma3ORGgAPOMFe7XWd-275">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-341" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-340">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-342" value="" style="group;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3389.89" y="-5235" width="23" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-343" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-342">
-          <mxGeometry y="45" width="23" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-344" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-342" target="QnYma3ORGgAPOMFe7XWd-343">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11.690000000000055" as="sourcePoint" />
-            <mxPoint x="-60.309999999999945" y="-142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-345" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-344">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-275" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-3840.33" y="-5018" width="60" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-347" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="QnYma3ORGgAPOMFe7XWd-275">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3926.6400000000003" y="-5002.5" as="sourcePoint" />
-            <mxPoint x="-3910.65" y="-5041" as="targetPoint" />
+            <mxPoint y="15.5" as="sourcePoint" />
+            <mxPoint x="15.990000000000236" y="-23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-349" value="&lt;font face=&quot;YaHei UI&quot;&gt;线程(Thread)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-347">
           <mxGeometry x="-0.0314" y="-1" relative="1" as="geometry">
             <mxPoint x="-2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-352" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-347">
+          <mxGeometry x="-0.1426" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
