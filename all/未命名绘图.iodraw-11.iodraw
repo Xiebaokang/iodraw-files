@@ -1254,19 +1254,13 @@
             <mxPoint x="-1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QnYma3ORGgAPOMFe7XWd-275">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3751.000010172526" y="-5002.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-275" value="寄存器&lt;div&gt;(Registers)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-3938.68" y="-5023" width="60" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-276" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=YaHei UI;" edge="1" parent="1" target="QnYma3ORGgAPOMFe7XWd-275">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3926.99" y="-5068" as="sourcePoint" />
-            <mxPoint x="-3998.99" y="-5210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-277" value="&lt;font&gt;线程&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Thread)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-276">
-          <mxGeometry x="-0.3879" y="1" relative="1" as="geometry">
-            <mxPoint x="201" y="1" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="-3840.33" y="-5018" width="60" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
