@@ -1271,11 +1271,11 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-468" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#729bd5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-468" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7ea3d7;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3935.11" y="-5028" width="526.11" height="89" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-469" value="MLIR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-3933.41" y="-5028" width="47" height="26" as="geometry" />
+          <mxGeometry x="-3935.1099999999997" y="-5028" width="47" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
