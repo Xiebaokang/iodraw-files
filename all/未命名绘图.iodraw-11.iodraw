@@ -1328,11 +1328,14 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-490" value="LLVM IR" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#d5e9d4;" vertex="1" parent="1">
           <mxGeometry x="-3850.75" y="-4861" width="58.51" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-491" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-491" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fab973;" vertex="1" parent="1">
           <mxGeometry x="-3934" y="-4826" width="404" height="51" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-492" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#fce8cd;" vertex="1" parent="1">
           <mxGeometry x="-3922.52" y="-4806" width="66.65" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-494" value="LLVM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-3925.8599999999997" y="-4882" width="47" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
