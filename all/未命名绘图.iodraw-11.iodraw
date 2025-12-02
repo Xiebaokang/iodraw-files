@@ -1017,7 +1017,7 @@
           <mxGeometry x="-3943" y="-5242" width="88" height="102" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-272" value="寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3917.69" y="-5033" width="23" height="47" as="geometry" />
+          <mxGeometry x="-3917.36" y="-5094" width="23" height="47" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-273" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QnYma3ORGgAPOMFe7XWd-269" target="QnYma3ORGgAPOMFe7XWd-272">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
