@@ -1125,13 +1125,16 @@
             <mxPoint x="-2" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-365" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Local Memory&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;container=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-3643.34" y="-4947" width="81.48" height="21.69" as="geometry" />
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-410" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3946.595" y="-5239" width="21.6899999999996" height="116.58500000000095" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-366" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QnYma3ORGgAPOMFe7XWd-365">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-365" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Local Memory&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;container=0;rotation=90;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-410">
+          <mxGeometry x="-29.895000000000437" y="65" width="81.48" height="21.69" as="geometry" />
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-366" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-410" target="QnYma3ORGgAPOMFe7XWd-365">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3603" y="-5012" as="sourcePoint" />
-            <mxPoint x="-3586.17" y="-5054" as="targetPoint" />
+            <mxPoint x="10.444999999999709" as="sourcePoint" />
+            <mxPoint x="27.274999999999636" y="-42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-367" value="&lt;font face=&quot;YaHei UI&quot;&gt;Thread&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee4d2;container=0;" vertex="1" connectable="0" parent="QnYma3ORGgAPOMFe7XWd-366">
