@@ -1128,7 +1128,7 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-410" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3946.595" y="-5239" width="21.6899999999996" height="116.58500000000095" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-365" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Local Memory&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;container=0;rotation=90;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-410">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-365" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Registers&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a84600;strokeColor=default;fontFamily=YaHei UI;fontColor=#ffffff;container=0;rotation=90;" vertex="1" parent="QnYma3ORGgAPOMFe7XWd-410">
           <mxGeometry x="-29.895000000000437" y="65" width="81.48" height="21.69" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-366" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QnYma3ORGgAPOMFe7XWd-410" target="QnYma3ORGgAPOMFe7XWd-365">
