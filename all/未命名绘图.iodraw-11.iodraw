@@ -1004,7 +1004,7 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-267" value="S" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-4111.8099999999995" y="-5205" width="24.84" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-268" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#008a00;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-268" value="&lt;font color=&quot;#ffffff&quot;&gt;全局内存(Global Memory)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#008a00;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3895.65" y="-5322" width="240" height="24" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-269" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e4f2fb;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
@@ -1137,7 +1137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-311" value="网格(Grid)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3962.5900000000006" y="-5329" width="74" height="26" as="geometry" />
+          <mxGeometry x="-3962.5900000000006" y="-5324" width="74" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
