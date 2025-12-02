@@ -1356,7 +1356,10 @@
           <mxGeometry x="-3360" y="-5041" width="265" height="47" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-501" value="线程块级(Block-Level)建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3346" y="-4934" width="154" height="25" as="geometry" />
+          <mxGeometry x="-3378" y="-4963" width="154" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-502" value="线程级(Thread-Level)建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3217" y="-4963" width="154" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
