@@ -1272,7 +1272,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-468" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87a2df;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3934" y="-5031" width="404" height="136" as="geometry" />
+          <mxGeometry x="-3934" y="-5032" width="404" height="137" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-469" value="MLIR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3934.8599999999997" y="-5032.5" width="45" height="26" as="geometry" />
@@ -1295,7 +1295,7 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-477" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#ffffff;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-3929.11" y="-4951" width="395.11" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-479" value="Mid-Level Dialects" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dce7fc;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-479" value="Lowering Passes" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dce7fc;" vertex="1" parent="1">
           <mxGeometry x="-3925" y="-4926" width="187" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-480" value="Hardware-Specific Dialects" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dce7fc;" vertex="1" parent="1">
