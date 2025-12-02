@@ -1145,10 +1145,10 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-435" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e4f2fb;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3682.12" y="-5289" width="269" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-436" value="Shared Memory" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#1c6a92;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-436" value="Shared Memory" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1c6a92;fontFamily=YaHei UI;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-3631" y="-5285.5" width="212.88" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-437" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-437" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3677.85" y="-5258.5" width="127.73" height="138.5" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-438" value="Warp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
@@ -1211,7 +1211,7 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-453" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=default;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-453" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fee4d2;fontColor=#333333;strokeColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3545.38" y="-5258.5" width="127.73" height="138.5" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-454" value="Warp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
