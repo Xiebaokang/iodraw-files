@@ -2125,7 +2125,7 @@
           <mxGeometry x="-2898.59" y="-2789.0600000000004" width="18.33" height="17.57" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-918" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;YaHei UI&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;逻辑布局到物理&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Bank&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;的映射&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" parent="1" vertex="1">
-          <mxGeometry x="-2774.9100000000003" y="-2999.0600000000004" width="266" height="36" as="geometry" />
+          <mxGeometry x="-2800.9300000000003" y="-3003.0000000000005" width="266" height="36" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-925" value="线程块布局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-2922.5900000000006" y="-2914.12" width="118" height="36" as="geometry" />
@@ -2619,9 +2619,6 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-1286" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;T0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontFamily=YaHei UI;" parent="1" vertex="1">
           <mxGeometry x="-2708.270000000001" y="-2731.210000000001" width="34" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-1287" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;smemV在Bank上的内存映射&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" parent="1" vertex="1">
-          <mxGeometry x="-2800.59" y="-2676.090000000001" width="274" height="36" as="geometry" />
-        </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-1288" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;T0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontFamily=YaHei UI;" parent="1" vertex="1">
           <mxGeometry x="-2708.270000000001" y="-2751.709999999999" width="34" height="29" as="geometry" />
         </mxCell>
@@ -2693,6 +2690,9 @@
             <mxPoint x="-2818.34" y="-2726.21" as="sourcePoint" />
             <mxPoint x="-2716.75" y="-2680.05" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LhMyphfYa0BqVyQzYlQx-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;YaHei UI&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;逻辑布局到物理&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Bank&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;的映射&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-2405.0000000000005" y="-2775.8300000000004" width="266" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
