@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="QSSRS8ACP-g7ioE9rR04">
-    <mxGraphModel dx="4820" dy="6442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5726" dy="6311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2685,14 +2685,112 @@
         <mxCell id="QnYma3ORGgAPOMFe7XWd-623" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;B&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" parent="1" vertex="1">
           <mxGeometry x="-2805.1025925925924" y="-3557.34" width="32" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="LhMyphfYa0BqVyQzYlQx-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=-0.004;entryY=0.931;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontFamily=YaHei UI;" edge="1" parent="1">
+        <mxCell id="LhMyphfYa0BqVyQzYlQx-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=-0.004;entryY=0.931;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontFamily=YaHei UI;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2818.7000000000003" y="-2721.12" as="sourcePoint" />
             <mxPoint x="-2717.11" y="-2674.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LhMyphfYa0BqVyQzYlQx-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;YaHei UI&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;逻辑布局到物理&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Bank&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;的映射&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="LhMyphfYa0BqVyQzYlQx-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;YaHei UI&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;逻辑布局到物理&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Bank&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;的映射&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" parent="1" vertex="1">
           <mxGeometry x="-2799.5900000000006" y="-2676.09" width="266" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#dee3dd;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-4135.32" y="-4008" width="304.32" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-4135.32" y="-3891" width="304.32" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-3" value="算子生成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#5fb6ec;" vertex="1" parent="1">
+          <mxGeometry x="-4130" y="-3885.5" width="65.25" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-4" value="性能测试" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;strokeColor=default;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=#5fb6ec;" vertex="1" parent="1">
+          <mxGeometry x="-3980.2" y="-3885.5" width="67.2" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-5" value="算子封装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;strokeColor=default;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=#5fb6ec;" vertex="1" parent="1">
+          <mxGeometry x="-4052.7599999999998" y="-3885.5" width="64.58" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-6" value="结果缓存" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;strokeColor=default;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=#5fb6ec;" vertex="1" parent="1">
+          <mxGeometry x="-3902.05" y="-3885.5" width="65.05" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c2c2c2;fontColor=#333333;strokeColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-4134" y="-4049.12" width="304" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-8" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;PyTorch算子/模型脚本&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dedede;fontColor=#333333;strokeColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-4127.25" y="-4045.68" width="206.25" height="19.63" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-9" value="调优参数" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dedede;fontColor=#333333;strokeColor=#000000;fontFamily=YaHei UI;align=center;verticalAlign=middle;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-3913" y="-4045.68" width="76" height="19.63" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7.586206896551724;endSize=4.875862068965517;endWidth=9.25089179548157;fillColor=#008a00;strokeColor=#005700;fontFamily=YaHei UI;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3846.25" y="-3894.87" as="sourcePoint" />
+            <mxPoint x="-3846.1" y="-4018.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=47.58620689655172;endSize=1.8413793103448275;fillColor=#008a00;strokeColor=#005700;fontFamily=YaHei UI;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3988.18" y="-4021" as="sourcePoint" />
+            <mxPoint x="-3988.18" y="-4010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=47.58620689655172;endSize=1.8413793103448275;fillColor=#008a00;strokeColor=#005700;fontFamily=YaHei UI;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3988.18" y="-3903" as="sourcePoint" />
+            <mxPoint x="-3988.18" y="-3892" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=47.58620689655172;endSize=1.8413793103448275;fillColor=#008a00;strokeColor=#005700;fontFamily=YaHei UI;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3988.87" y="-3858" as="sourcePoint" />
+            <mxPoint x="-3988.87" y="-3847" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-14" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;优化后PyTorch算子/模型脚本&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c2c2c2;fontColor=#333333;strokeColor=#000000;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-4135.32" y="-3846" width="304.32" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-4131.56" y="-4003.97" width="156.56" height="94.97" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-16" value="线程块级(Block-Level)建模" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#fee4d2;" vertex="1" parent="1">
+          <mxGeometry x="-4127.25" y="-3986.68" width="148.25" height="21.12" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;线程级(Thread-Level)建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#e4f2fb;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-4127.25" y="-3937" width="148.25" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-18" value="IR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-4066.01" y="-4008.97" width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=68.33333333333334;endSize=3.2914285714285714;fillColor=#fa6800;strokeColor=default;width=47.42857142857143;fontFamily=YaHei UI;gradientColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4057" y="-3961.75" as="sourcePoint" />
+            <mxPoint x="-4057" y="-3941.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-20" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;LowerInfo&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fa6800;fontColor=#000000;fontFamily=YaHei UI;" vertex="1" connectable="0" parent="BUeQ_uIqYtG2Bjihc_90-19">
+          <mxGeometry x="-0.4146" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10.833333333333334;endSize=1.1880000000000002;endWidth=19.666666666666664;fillColor=#f0a30a;strokeColor=#BD7000;fontFamily=YaHei UI;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3963.88" y="-3956.62" as="sourcePoint" />
+            <mxPoint x="-3971.88" y="-3956.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#ffcccc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-3960" y="-4004" width="104" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-23" value="计算调度优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#fd8181;strokeColor=#000000;align=center;verticalAlign=middle;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3953.4" y="-3960.87" width="90.4" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-24" value="访存优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#fd8181;strokeColor=#000000;align=center;verticalAlign=middle;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-3953.4" y="-3935" width="90.4" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-25" value="&amp;nbsp;Lowering Pass" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#fd8181;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-3953.4" y="-3987.5" width="90.4" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUeQ_uIqYtG2Bjihc_90-26" value="Passes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3935.5" y="-4011.37" width="55" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
