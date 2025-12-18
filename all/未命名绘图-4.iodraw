@@ -2710,10 +2710,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GYmCaY8PYKoYbRGrzgip-4" value="模拟评估选优" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=YaHei UI;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-2900.3" y="-3951" width="97" height="37" as="geometry" />
+          <mxGeometry x="-2905.38" y="-3951" width="97" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="GYmCaY8PYKoYbRGrzgip-5" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=YaHei UI;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-2742.05" y="-3951" width="91.43" height="37" as="geometry" />
+        <mxCell id="GYmCaY8PYKoYbRGrzgip-5" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=YaHei UI;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2781.9" y="-3951" width="91.43" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
