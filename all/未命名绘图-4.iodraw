@@ -2692,10 +2692,10 @@
           <mxGeometry x="-3244" y="-3952" width="79.07" height="38" as="geometry" />
         </mxCell>
         <mxCell id="GYmCaY8PYKoYbRGrzgip-2" value="分析硬件模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3079" y="-3976" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3049" y="-3952" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="GYmCaY8PYKoYbRGrzgip-3" value="生成调度空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-2854" y="-3974" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2824" y="-3950" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="GYmCaY8PYKoYbRGrzgip-4" value="模拟评估选优" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2649" y="-3976" width="120" height="60" as="geometry" />
