@@ -2916,9 +2916,6 @@
         <mxCell id="l5Ch5jCgNIOc9MuN9JWA-59" value="Pingpong" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3040.9900000000002" y="-2157" width="69" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1gsl6uYG-1d91Fz8HB8k-24" value="Wgmma QK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#85f755;" vertex="1" parent="1">
-          <mxGeometry x="-2574.9299999999994" y="-1980" width="97.95" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1">
           <mxGeometry x="-3344.65" y="-1847" width="710.1400000000001" height="53" as="geometry" />
         </mxCell>
@@ -2960,6 +2957,9 @@
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-33" value="data load" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1gsl6uYG-1d91Fz8HB8k-30">
           <mxGeometry x="51.36999999999989" y="15" width="67" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-24" value="Wgmma QK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aded91;" vertex="1" parent="1">
+          <mxGeometry x="-2576.6399999999994" y="-1996" width="97.95" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
