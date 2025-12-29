@@ -2926,19 +2926,13 @@
           <mxGeometry width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3345.06" y="-1883" width="710.49" height="53" as="geometry" />
+          <mxGeometry x="-3309.12" y="-1887" width="710.49" height="53" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1gsl6uYG-1d91Fz8HB8k-21">
           <mxGeometry x="0.3499999999999091" width="710.1400000000001" height="53" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-6" value="Math Warps 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1gsl6uYG-1d91Fz8HB8k-21">
           <mxGeometry width="93" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="1gsl6uYG-1d91Fz8HB8k-23" value="Wgmma QK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#68f36a;" vertex="1" parent="1gsl6uYG-1d91Fz8HB8k-21">
-          <mxGeometry x="191.06000000000049" y="13.073333333333334" width="97.95000000000003" height="26.853333333333335" as="geometry" />
-        </mxCell>
-        <mxCell id="1gsl6uYG-1d91Fz8HB8k-25" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffc35c;" vertex="1" parent="1gsl6uYG-1d91Fz8HB8k-21">
-          <mxGeometry x="390.0600000000005" y="13.073333333333334" width="97.95000000000003" height="26.853333333333335" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3344.71" y="-1816" width="710.1399999999999" height="75" as="geometry" />
