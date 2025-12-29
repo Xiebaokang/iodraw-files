@@ -2962,10 +2962,10 @@
           <mxGeometry x="-3142.34" y="-1902.5" width="94.64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-34" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
-          <mxGeometry x="-2938.17" y="-1902.5" width="115.64" height="38" as="geometry" />
+          <mxGeometry x="-2953.06" y="-1902.5" width="115.64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-35" value="Wgmma QK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aded91;" vertex="1" parent="1">
-          <mxGeometry x="-3132.34" y="-1892.5" width="94.64" height="38" as="geometry" />
+          <mxGeometry x="-3047.7000000000003" y="-1839.5" width="94.64" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
