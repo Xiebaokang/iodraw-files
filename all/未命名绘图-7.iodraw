@@ -2961,6 +2961,9 @@
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-24" value="Wgmma QK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aded91;" vertex="1" parent="1">
           <mxGeometry x="-2576.6399999999994" y="-1996" width="97.95" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-34" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aded91;" vertex="1" parent="1">
+          <mxGeometry x="-2566.6399999999994" y="-1986" width="97.95" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
