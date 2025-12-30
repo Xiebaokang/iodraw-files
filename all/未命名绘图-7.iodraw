@@ -3012,10 +3012,10 @@
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-67" value="warpgroup 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3454.31" y="-1519" width="89" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1gsl6uYG-1d91Fz8HB8k-68" value="GEMM 0" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-68" value="GEMM 0" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-3335.88" y="-1562" width="65.59" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="1gsl6uYG-1d91Fz8HB8k-69" value="Softmax" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;" vertex="1" parent="1">
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-69" value="Softmax" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-3270.2900000000004" y="-1562" width="65.59" height="24" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-70" value="GEMM 0" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=YaHei UI;" vertex="1" parent="1">
