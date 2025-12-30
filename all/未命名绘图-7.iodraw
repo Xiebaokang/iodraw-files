@@ -3015,6 +3015,12 @@
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-68" value="GEMM 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3033.59" y="-1604" width="65.59" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-69" value="Softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2921.1800000000003" y="-1600" width="65.59" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-70" value="GEMM 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3023.59" y="-1594" width="65.59" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
