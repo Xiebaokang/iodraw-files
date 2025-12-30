@@ -3000,10 +3000,10 @@
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-63" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
           <mxGeometry x="-2761.38" y="-1840.5" width="119.23" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="1gsl6uYG-1d91Fz8HB8k-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3367.31" y="-1447" as="sourcePoint" />
-            <mxPoint x="-2586.39" y="-1447" as="targetPoint" />
+            <mxPoint x="-2999" y="-1580" as="sourcePoint" />
+            <mxPoint x="-2484" y="-1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
