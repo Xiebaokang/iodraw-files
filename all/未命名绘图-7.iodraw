@@ -2962,7 +2962,7 @@
           <mxGeometry x="-3262.42" y="-1903.5" width="85.42" height="38" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-34" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
-          <mxGeometry x="-3176" y="-1903.5" width="117" height="38" as="geometry" />
+          <mxGeometry x="-3176" y="-1903.5" width="105" height="38" as="geometry" />
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3094.3599999999997" y="-2095" width="118.36999999999989" height="44.5" as="geometry" />
@@ -2975,6 +2975,12 @@
         </mxCell>
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-42" value="data load" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1gsl6uYG-1d91Fz8HB8k-39">
           <mxGeometry x="51.36999999999989" y="15" width="67" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-50" value="Wgmma QK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aded91;" vertex="1" parent="1">
+          <mxGeometry x="-3252.42" y="-1893.5" width="85.42" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-51" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
+          <mxGeometry x="-3166" y="-1893.5" width="105" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
