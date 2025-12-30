@@ -2970,6 +2970,9 @@
         <mxCell id="1gsl6uYG-1d91Fz8HB8k-37" value="wgmma.wait" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2674.32" y="-1901.37" width="146.53" height="20.08" as="geometry" />
         </mxCell>
+        <mxCell id="1gsl6uYG-1d91Fz8HB8k-38" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
+          <mxGeometry x="-3071.9899999999993" y="-1840.5" width="115.64" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
