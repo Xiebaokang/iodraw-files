@@ -3486,9 +3486,6 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-104" value="acc_o" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2853.0933333333446" y="-410" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-105" value="&lt;font face=&quot;YaHei UI&quot;&gt;DAG: {0: [1], 1: [2], 2: [], 3: []}&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2764.2699999999995" y="-313" width="170" height="27" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
