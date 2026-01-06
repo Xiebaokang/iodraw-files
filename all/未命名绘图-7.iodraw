@@ -3515,30 +3515,6 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-134" value="acc_s[i%2]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2690.466666666655" y="-244" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-137" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2723.01" y="-292.92" as="sourcePoint" />
-            <mxPoint x="-2625" y="-293" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-138" value="acc_o[(i-1)%2]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2678.086666666655" y="-296" as="geometry" />
-        </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-139" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-LSYQKktOSMjkeucRhZZ-128">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2827" y="-267" as="sourcePoint" />
-            <mxPoint x="-2802" y="-272" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-140" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-LSYQKktOSMjkeucRhZZ-128">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2825" y="-325" as="sourcePoint" />
-            <mxPoint x="-2742" y="-283" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-142" value="acc_o[(i-1)%2]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2794.996666666655" y="-283" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
