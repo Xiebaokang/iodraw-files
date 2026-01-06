@@ -3518,7 +3518,7 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-104" value="acc_o" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2922.0033333333445" y="-429" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-145" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-145" value="" style="endArrow=async;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3145.59" y="-358" as="sourcePoint" />
             <mxPoint x="-2857.92" y="-358" as="targetPoint" />
