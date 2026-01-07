@@ -3930,6 +3930,17 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-331" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3028.57" y="418" width="129" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-332" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-LSYQKktOSMjkeucRhZZ-333">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3297.32" y="407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-333" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=YaHei UI;fillColor=#cfcfcf;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-3392.39" y="393" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-334" value="acc_s[1]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3335.7864705882316" y="405" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
