@@ -3527,11 +3527,6 @@
             <mxPoint x="-2648.0499999999997" y="-427" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-161" value="scale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="-LSYQKktOSMjkeucRhZZ-160">
-          <mxGeometry x="-0.3644" y="1" relative="1" as="geometry">
-            <mxPoint x="-21" y="-23" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-162" value="TC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2825.71" y="-392" width="33" height="26" as="geometry" />
         </mxCell>
