@@ -3600,12 +3600,6 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-188" value="acc_o[0]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3021.9933333333443" y="-223" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-189" value="" style="endArrow=async;html=1;rounded=0;endFill=1;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3252.59" y="-147" as="sourcePoint" />
-            <mxPoint x="-2964.92" y="-147" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-190" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3184.6" y="-168" width="129" height="27" as="geometry" />
         </mxCell>
