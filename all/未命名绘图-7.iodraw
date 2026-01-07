@@ -3739,7 +3739,7 @@
           <mxGeometry x="-2446.783333333344" y="-537" as="geometry" />
         </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-268" value="&lt;font face=&quot;YaHei UI&quot;&gt;main loop&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3076.0499999999993" y="-304" width="75" height="27" as="geometry" />
+          <mxGeometry x="-3114.879999999999" y="-220" width="75" height="27" as="geometry" />
         </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-LSYQKktOSMjkeucRhZZ-276" target="-LSYQKktOSMjkeucRhZZ-277">
           <mxGeometry relative="1" as="geometry" />
@@ -3849,12 +3849,12 @@
         </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-302" value="" style="endArrow=async;html=1;rounded=0;endFill=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3441.7400000000002" y="-455" as="sourcePoint" />
-            <mxPoint x="-3154.07" y="-455" as="targetPoint" />
+            <mxPoint x="-3191.26" y="-285" as="sourcePoint" />
+            <mxPoint x="-2903.59" y="-285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-303" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3373.75" y="-476" width="129" height="27" as="geometry" />
+          <mxGeometry x="-3123.27" y="-306" width="129" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
