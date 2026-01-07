@@ -4059,7 +4059,7 @@
             <mxPoint x="-2495.18" y="437.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-379" value="acc_o" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-379" value="acc_o[2]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2615.1833333333443" y="447.5" as="geometry" />
         </mxCell>
       </root>
