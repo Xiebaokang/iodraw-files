@@ -3738,8 +3738,8 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-255" value="acc_o[0]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3173.8733333333444" y="318" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-268" value="&lt;font&gt;main loop&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2992.5799999999995" y="212" width="75" height="26" as="geometry" />
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-268" value="&lt;font&gt;main loop（i=0 to k）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3024.5799999999995" y="212" width="139" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-LSYQKktOSMjkeucRhZZ-276" target="-LSYQKktOSMjkeucRhZZ-277">
           <mxGeometry relative="1" as="geometry" />
