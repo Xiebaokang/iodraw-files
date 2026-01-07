@@ -3856,6 +3856,21 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-303" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3381.32" y="-318" width="129" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-304" value="&lt;font&gt;prolog&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3328.0099999999998" y="-454" width="55" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-305" value="acc_o[(i-1)%2]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3349.6433333333443" y="-411" as="geometry" />
+        </mxCell>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-306" value="" style="endArrow=async;html=1;rounded=0;endFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3441.7400000000002" y="-455" as="sourcePoint" />
+            <mxPoint x="-3154.07" y="-455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-307" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3373.75" y="-476" width="129" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
