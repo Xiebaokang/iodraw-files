@@ -3840,18 +3840,12 @@
         </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-298" value="" style="endArrow=async;html=1;rounded=0;endFill=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3260.04" y="-166" as="sourcePoint" />
-            <mxPoint x="-3005.7499999999995" y="-166" as="targetPoint" />
+            <mxPoint x="-3451.48" y="-195" as="sourcePoint" />
+            <mxPoint x="-3197.1899999999996" y="-195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-301" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-LSYQKktOSMjkeucRhZZ-299" target="-LSYQKktOSMjkeucRhZZ-300">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-299" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3192.0499999999997" y="-187" width="129" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-300" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2983.0499999999997" y="-187" width="129" height="27" as="geometry" />
+          <mxGeometry x="-3383.49" y="-216" width="129" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
