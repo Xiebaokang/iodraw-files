@@ -3921,12 +3921,6 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-329" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2714.2199999999993" y="678" width="129" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-330" value="" style="endArrow=async;html=1;rounded=0;endFill=1;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3112.1800000000003" y="699" as="sourcePoint" />
-            <mxPoint x="-2824.51" y="699" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-331" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3044.19" y="678" width="129" height="27" as="geometry" />
         </mxCell>
