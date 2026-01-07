@@ -3672,6 +3672,11 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-213" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2639.16" y="-685" width="129" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-LSYQKktOSMjkeucRhZZ-214">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2649.235294117647" y="-521.5882352941171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-214" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=YaHei UI;fillColor=#cfcfcf;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-2747.0699999999997" y="-536" width="29" height="29" as="geometry" />
         </mxCell>
