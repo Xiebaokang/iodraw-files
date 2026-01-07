@@ -3710,10 +3710,8 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-239" value="scale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2471.843333333344" y="-545" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-242" value="acc_s" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2699.0964705882316" y="-524" as="geometry">
-            <mxPoint x="-18" y="-16" as="offset" />
-          </mxGeometry>
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-242" value="acc_s[0]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2699.0964705882316" y="-524" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
