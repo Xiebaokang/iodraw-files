@@ -3683,9 +3683,6 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-219" value="TC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2748.4700000000003" y="-511" width="33" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-232" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=YaHei UI;fillColor=#cfcfcf;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-2607.75" y="-536" width="29" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-233" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=YaHei UI;fillColor=#cfcfcf;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-2521.3900000000003" y="-536" width="29" height="29" as="geometry" />
         </mxCell>
@@ -3697,9 +3694,6 @@
             <mxPoint x="-2283.68" y="-539" as="sourcePoint" />
             <mxPoint x="-2233.68" y="-589" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-236" value="TC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-2609.75" y="-511" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-LSYQKktOSMjkeucRhZZ-237" value="CC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2524.62" y="-511" width="33" height="26" as="geometry" />
