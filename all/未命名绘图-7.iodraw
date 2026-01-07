@@ -3724,7 +3724,7 @@
         <mxCell id="-LSYQKktOSMjkeucRhZZ-245" value="TC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2730.21" y="-400" width="33" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-LSYQKktOSMjkeucRhZZ-246" value="acc_s[0]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
+        <mxCell id="-LSYQKktOSMjkeucRhZZ-246" value="acc_s[1]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2672.2064705882312" y="-413" as="geometry" />
         </mxCell>
       </root>
