@@ -4301,7 +4301,7 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-37" value="acc_p2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2644.0333333333447" y="1010" as="geometry" />
         </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-82" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KgNsQTP57dX-5GRSO76W-82" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#003dcc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2922.59" y="921" as="sourcePoint" />
             <mxPoint x="-3048.59" y="921" as="targetPoint" />
