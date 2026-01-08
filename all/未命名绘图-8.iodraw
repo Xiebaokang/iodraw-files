@@ -4130,17 +4130,6 @@
             <mxPoint x="-2554.61" y="942" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KgNsQTP57dX-5GRSO76W-27" target="KgNsQTP57dX-5GRSO76W-29">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2808.02" y="1009" as="sourcePoint" />
-            <mxPoint x="-2753.02" y="985" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-32" value="scale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="KgNsQTP57dX-5GRSO76W-31">
-          <mxGeometry x="-0.3644" y="1" relative="1" as="geometry">
-            <mxPoint x="-21" y="-23" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KgNsQTP57dX-5GRSO76W-33" value="TC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2930.6800000000003" y="1020" width="33" height="26" as="geometry" />
         </mxCell>
