@@ -4192,6 +4192,12 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-46" value="acc_s3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3080.239999999988" y="1172" as="geometry" />
         </mxCell>
+        <mxCell id="KgNsQTP57dX-5GRSO76W-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2970.24" y="1218" as="sourcePoint" />
+            <mxPoint x="-2920.24" y="1168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
