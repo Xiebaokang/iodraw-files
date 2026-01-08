@@ -4421,27 +4421,6 @@
             <mxPoint x="-2859" y="1119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-102" value="acc_s3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3071.749999999988" y="1141" as="geometry" />
-        </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-104" value="acc_s2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3030.259999999988" y="1141" as="geometry" />
-        </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-135" value="scale" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2973.4700000000007" y="1144" as="geometry" />
-        </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-136" value="acc_o2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2894.2033333333447" y="1121" as="geometry" />
-        </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-137" value="acc_o1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2861.773333333345" y="1135" as="geometry" />
-        </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-138" value="acc_p1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2894.6533333333446" y="1178" as="geometry" />
-        </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-139" value="acc_p2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2964.2333333333445" y="1175" as="geometry" />
-        </mxCell>
         <mxCell id="KgNsQTP57dX-5GRSO76W-140" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=YaHei UI;fillColor=#cfcfcf;fontColor=#333333;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-2763.870000000001" y="1160" width="29" height="29" as="geometry" />
         </mxCell>
