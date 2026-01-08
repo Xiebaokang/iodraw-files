@@ -4310,10 +4310,10 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-83" value="反向标注buffer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-3029.97" y="898" width="100" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-84" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KgNsQTP57dX-5GRSO76W-84" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2999" y="1100" as="sourcePoint" />
-            <mxPoint x="-2949" y="1050" as="targetPoint" />
+            <mxPoint x="-2995.2" y="1234" as="sourcePoint" />
+            <mxPoint x="-2959" y="1234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
