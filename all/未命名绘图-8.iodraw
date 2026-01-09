@@ -4586,7 +4586,7 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-228" value="&lt;font face=&quot;YaHei UI&quot;&gt;execution&amp;nbsp;sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3048.7500000000005" y="1008" width="129" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-229" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KgNsQTP57dX-5GRSO76W-229" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KgNsQTP57dX-5GRSO76W-216">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3077.3900000000003" y="976" as="sourcePoint" />
             <mxPoint x="-3063" y="934" as="targetPoint" />
@@ -4729,6 +4729,9 @@
         </mxCell>
         <mxCell id="KgNsQTP57dX-5GRSO76W-262" value="acc_p2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2618.893333333345" y="991" as="geometry" />
+        </mxCell>
+        <mxCell id="KgNsQTP57dX-5GRSO76W-263" value="acc_s" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3381.9999999999945" y="1148.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
