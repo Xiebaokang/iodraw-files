@@ -4999,6 +4999,12 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-443" value="acc_o" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2857.843333333344" y="-302" as="geometry" />
         </mxCell>
+        <mxCell id="KgNsQTP57dX-5GRSO76W-445" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KgNsQTP57dX-5GRSO76W-417" target="KgNsQTP57dX-5GRSO76W-432">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3055" y="-284" as="sourcePoint" />
+            <mxPoint x="-3005" y="-334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
