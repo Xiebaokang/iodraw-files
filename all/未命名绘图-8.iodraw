@@ -4589,13 +4589,7 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-229" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3077.3900000000003" y="976" as="sourcePoint" />
-            <mxPoint x="-3062.8300000000004" y="934" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-230" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KgNsQTP57dX-5GRSO76W-216">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3041.8300000000004" y="934" as="sourcePoint" />
-            <mxPoint x="-3017.1300000000006" y="967" as="targetPoint" />
+            <mxPoint x="-3063" y="934" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KgNsQTP57dX-5GRSO76W-231" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
