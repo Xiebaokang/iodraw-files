@@ -5710,9 +5710,9 @@
         <mxCell id="-oZQbpz41inyvnZMzs1L-9" value="R(acc_s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2780.4400000000005" y="-2378.74" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-oZQbpz41inyvnZMzs1L-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=7.44;" edge="1" parent="1">
+        <mxCell id="-oZQbpz41inyvnZMzs1L-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=18;endSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2715.14" y="-2157" as="sourcePoint" />
+            <mxPoint x="-2706" y="-2157" as="sourcePoint" />
             <mxPoint x="-2674" y="-2157" as="targetPoint" />
           </mxGeometry>
         </mxCell>
