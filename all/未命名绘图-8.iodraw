@@ -5701,8 +5701,8 @@
         <mxCell id="-oZQbpz41inyvnZMzs1L-6" value="reduceOp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2628.23" y="-2196" width="71" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-oZQbpz41inyvnZMzs1L-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2672" y="-2387" width="40" height="26" as="geometry" />
+        <mxCell id="-oZQbpz41inyvnZMzs1L-7" value="R(acc_s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2685" y="-2387" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
