@@ -5495,7 +5495,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KgNsQTP57dX-5GRSO76W-610" value="copy&amp;nbsp; reduce&amp;nbsp; block&amp;nbsp; block&amp;nbsp; copy&amp;nbsp; reduce&amp;nbsp; block" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3008.35" y="2158" width="148.35" height="31" as="geometry" />
+          <mxGeometry x="-3008.35" y="2158" width="143.35" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KgNsQTP57dX-5GRSO76W-611" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KgNsQTP57dX-5GRSO76W-612">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2879.0125000000003" y="1993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgNsQTP57dX-5GRSO76W-612" value="l" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2889.26" y="1931" width="21" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
