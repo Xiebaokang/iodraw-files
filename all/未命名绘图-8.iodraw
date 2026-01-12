@@ -5363,6 +5363,9 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-565" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.498;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KgNsQTP57dX-5GRSO76W-563">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2951.12" y="2013" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2942" y="2013" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KgNsQTP57dX-5GRSO76W-566" value="copy&amp;nbsp; reduce&amp;nbsp; block&amp;nbsp; block&amp;nbsp; copy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
