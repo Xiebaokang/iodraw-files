@@ -5090,8 +5090,11 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-468" value="block&lt;div&gt;copy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3003.14" y="1809" width="58.83" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-469" value="block" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KgNsQTP57dX-5GRSO76W-469" value="reduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2926.6099999999997" y="1809" width="58.83" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KgNsQTP57dX-5GRSO76W-470" value="block" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2845.77" y="1809" width="58.83" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
