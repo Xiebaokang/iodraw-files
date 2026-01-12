@@ -5696,7 +5696,10 @@
           <mxGeometry x="-2536.38" y="-2350" width="12.38" height="115" as="geometry" />
         </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-2574.74" y="-2191" width="20" height="120" as="geometry" />
+          <mxGeometry x="-2606.06" y="-2279.75" width="20" height="148.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-oZQbpz41inyvnZMzs1L-6" value="reduceOp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2634" y="-2194" width="71" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
