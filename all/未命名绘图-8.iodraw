@@ -5081,7 +5081,7 @@
         <mxCell id="KgNsQTP57dX-5GRSO76W-465" value="gemm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3257.83" y="1809" width="58.83" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="KgNsQTP57dX-5GRSO76W-466" value="gemm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KgNsQTP57dX-5GRSO76W-466" value="copy&lt;div&gt;reduce&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3167.06" y="1809" width="58.83" height="31" as="geometry" />
         </mxCell>
       </root>
