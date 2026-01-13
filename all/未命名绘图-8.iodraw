@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="QSSRS8ACP-g7ioE9rR04">
-    <mxGraphModel dx="3695" dy="5882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4163" dy="6115" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6099,9 +6099,6 @@
         </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-206" value="R(acc_s)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-2834.81" y="-2226" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-oZQbpz41inyvnZMzs1L-240" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;T7&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;fontSize=8;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2599.74" y="-2200" width="4.74" height="10" as="geometry" />
         </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-241" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;T15&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;fontSize=8;fontFamily=YaHei UI;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2599.74" y="-2190" width="20" height="10" as="geometry" />
