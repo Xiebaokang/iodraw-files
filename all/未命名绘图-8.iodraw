@@ -6159,15 +6159,12 @@
         </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-414" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2562.9" y="-1924" as="sourcePoint" />
-            <mxPoint x="-2507" y="-1924" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-2565" y="-2039" />
-            </Array>
+            <mxPoint x="-2604" y="-2065" as="sourcePoint" />
+            <mxPoint x="-2548.1" y="-2065" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-416" value="Inference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-2568.8500000000004" y="-1944" width="61" height="24" as="geometry" />
+          <mxGeometry x="-2609.9500000000003" y="-2085" width="61" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
