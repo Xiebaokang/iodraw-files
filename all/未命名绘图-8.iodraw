@@ -6206,8 +6206,8 @@
             <mxPoint x="-2619.62" y="-2004.54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-oZQbpz41inyvnZMzs1L-483" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Consolas&quot;&gt;for (int w=8; w&amp;gt;=1; w)&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Consolas&quot;&gt;__shlf_xor_sync(0xffffffff,m[i],8,)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2666.67" y="-2108" width="172" height="41" as="geometry" />
+        <mxCell id="-oZQbpz41inyvnZMzs1L-483" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Consolas&quot;&gt;for (int w=4; w&amp;gt;=1; w=w/2)&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Consolas&quot;&gt;float __shlf_xor_sync(0xffffffff,m[i],w,8);&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2666.67" y="-2108" width="207" height="41" as="geometry" />
         </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-484" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2646.87" y="-2040" width="14.27" height="14" as="geometry" />
