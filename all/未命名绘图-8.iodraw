@@ -7119,8 +7119,8 @@
         <mxCell id="-oZQbpz41inyvnZMzs1L-833" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;YaHei UI&quot;&gt;Reg(m)&amp;nbsp; LowerInfo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fbaba2;strokeColor=#000000;" vertex="1" parent="-oZQbpz41inyvnZMzs1L-834">
           <mxGeometry x="0.07000000000016371" width="139.21" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="-oZQbpz41inyvnZMzs1L-835" value="scale = exp(acc_s - m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;labelBackgroundColor=#e4f2fb;" vertex="1" parent="1">
-          <mxGeometry x="-3025.129999999999" y="-5444.26" width="98" height="22" as="geometry" />
+        <mxCell id="-oZQbpz41inyvnZMzs1L-835" value="scale = exp(prev_m - m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontFamily=YaHei UI;fontStyle=1;fontSize=8;labelBackgroundColor=#e4f2fb;" vertex="1" parent="1">
+          <mxGeometry x="-3029.129999999999" y="-5444.26" width="106" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
