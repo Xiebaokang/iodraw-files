@@ -6658,6 +6658,12 @@
             <mxPoint x="-2460" y="-2139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-oZQbpz41inyvnZMzs1L-684" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#ff0000;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-oZQbpz41inyvnZMzs1L-240" target="-oZQbpz41inyvnZMzs1L-240">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2466" y="-2115" as="sourcePoint" />
+            <mxPoint x="-2450" y="-2129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
