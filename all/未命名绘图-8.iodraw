@@ -8116,7 +8116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-1158" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;scale&lt;/font&gt;[i]=&lt;font color=&quot;#004c99&quot;&gt;exp&lt;/font&gt;(&lt;font color=&quot;#009900&quot;&gt;prev_m&lt;/font&gt;[i]-&lt;font color=&quot;#009900&quot;&gt;m&lt;/font&gt;[i])&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Consolas;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2832.2500000000005" y="-2301" width="141" height="26" as="geometry" />
+          <mxGeometry x="-2829.7500000000005" y="-2305" width="141" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
