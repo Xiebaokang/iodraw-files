@@ -314,7 +314,7 @@
             <mxPoint x="-2563.67" y="-5387.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-72" value="R(log_d)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#a84600;fontSize=8;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" parent="1" vertex="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-72" value="Reg(log_d)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#a84600;fontSize=8;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" parent="1" vertex="1">
           <mxGeometry x="-2800.4700000000003" y="-5456.75" width="41.56" height="16.78" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=YaHei UI;endArrow=blockThin;endFill=1;strokeWidth=2;strokeColor=#1ba1e2;" parent="1" source="QnYma3ORGgAPOMFe7XWd-74" target="QnYma3ORGgAPOMFe7XWd-224" edge="1">
@@ -322,7 +322,7 @@
             <mxPoint x="-2686.5200000000004" y="-5488.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnYma3ORGgAPOMFe7XWd-74" value="R(acc_o)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#a84600;fontSize=8;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" parent="1" vertex="1">
+        <mxCell id="QnYma3ORGgAPOMFe7XWd-74" value="Reg(acc_o)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#a84600;fontSize=8;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" parent="1" vertex="1">
           <mxGeometry x="-2800.47" y="-5497.14" width="41.56" height="16.22" as="geometry" />
         </mxCell>
         <mxCell id="QnYma3ORGgAPOMFe7XWd-75" value="R(acc_o)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#a84600;fontSize=8;fontStyle=1;fontColor=#ffffff;fontFamily=YaHei UI;" parent="1" vertex="1">
