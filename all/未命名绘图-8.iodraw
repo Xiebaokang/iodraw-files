@@ -765,10 +765,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2956" y="-5651" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-2956" y="-5641" />
-              <mxPoint x="-2960" y="-5641" />
-              <mxPoint x="-2960" y="-5651" />
-              <mxPoint x="-2956" y="-5651" />
+              <mxPoint x="-2961" y="-5651" />
+              <mxPoint x="-2961" y="-5657" />
+              <mxPoint x="-2960" y="-5657" />
+              <mxPoint x="-2960" y="-5667" />
+              <mxPoint x="-2956" y="-5667" />
               <mxPoint x="-2956" y="-5607" />
             </Array>
           </mxGeometry>
