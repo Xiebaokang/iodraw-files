@@ -8118,6 +8118,9 @@
         <mxCell id="-oZQbpz41inyvnZMzs1L-1151" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-2779.999999999999" y="-2305" width="14.27" height="14" as="geometry" />
         </mxCell>
+        <mxCell id="-oZQbpz41inyvnZMzs1L-1163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-oZQbpz41inyvnZMzs1L-1152" target="-oZQbpz41inyvnZMzs1L-1144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-1152" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-2742.969999999999" y="-2319" width="14.27" height="14" as="geometry" />
         </mxCell>
@@ -8134,7 +8137,7 @@
           <mxGeometry x="-2838.5200000000004" y="-2290.5" width="141" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-oZQbpz41inyvnZMzs1L-1162" value="&lt;font face=&quot;YaHei UI&quot; style=&quot;font-size: 8px;&quot;&gt;Reg(scale)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2723.9700000000003" y="-2336" width="56" height="22" as="geometry" />
+          <mxGeometry x="-2721.4100000000003" y="-2336" width="56" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
