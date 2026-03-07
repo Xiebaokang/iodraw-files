@@ -5168,7 +5168,7 @@
         <mxCell id="zeJq2bbHnzVUswPTXRWx-1554" value="&lt;font&gt;异构代码生成/Runtime&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;strokeColor=default;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=#9c9c9c;" vertex="1" parent="1">
           <mxGeometry x="-3290.98" y="-2336.5" width="218.81" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="zeJq2bbHnzVUswPTXRWx-1555" value="库文件（.so）/JIT代码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="zeJq2bbHnzVUswPTXRWx-1555" value="库文件&lt;font face=&quot;Times New Roman&quot;&gt;（.so）/JIT代码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="-3290.75" y="-2294.5" width="218.36" height="23" as="geometry" />
         </mxCell>
         <mxCell id="zeJq2bbHnzVUswPTXRWx-1556" value="前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
