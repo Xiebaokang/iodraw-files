@@ -3497,11 +3497,11 @@
         <mxCell id="zeJq2bbHnzVUswPTXRWx-1057" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#124159;fontSize=20;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2812.9400000000005" y="-4676.5" width="9.84" height="10.5" as="geometry" />
         </mxCell>
-        <mxCell id="zeJq2bbHnzVUswPTXRWx-1058" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;(a) &lt;font&gt;线程块并行度低&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3320.67" y="-4631" width="187" height="38" as="geometry" />
+        <mxCell id="zeJq2bbHnzVUswPTXRWx-1058" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;(a) &lt;font&gt;线程块并行度低&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-3325.67" y="-4630" width="198" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="zeJq2bbHnzVUswPTXRWx-1059" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;(b)&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;线程并行度低&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-2999.99" y="-4631" width="168" height="38" as="geometry" />
+        <mxCell id="zeJq2bbHnzVUswPTXRWx-1059" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(b)&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;线程并行度低&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-2995.99" y="-4630" width="161" height="36" as="geometry" />
         </mxCell>
         <mxCell id="zeJq2bbHnzVUswPTXRWx-1060" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cee2c6;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-2720.83" y="-4678" width="190.12" height="45" as="geometry" />
@@ -3527,8 +3527,8 @@
         <mxCell id="zeJq2bbHnzVUswPTXRWx-1067" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#124159;fontSize=20;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2511.66" y="-4678.5" width="9.84" height="10.5" as="geometry" />
         </mxCell>
-        <mxCell id="zeJq2bbHnzVUswPTXRWx-1068" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;(c) &lt;font&gt;并行度合理&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-2675.71" y="-4632.25" width="146" height="38" as="geometry" />
+        <mxCell id="zeJq2bbHnzVUswPTXRWx-1068" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;(c) &lt;font&gt;并行度合理&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-2681.71" y="-4631.25" width="158" height="36" as="geometry" />
         </mxCell>
         <mxCell id="zeJq2bbHnzVUswPTXRWx-1069" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1d668b;rotation=90;fontSize=20;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2694.5600000000004" y="-4678.5" width="10.2" height="12.25" as="geometry" />
