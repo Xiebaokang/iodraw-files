@@ -3536,8 +3536,8 @@
         <mxCell id="zeJq2bbHnzVUswPTXRWx-1070" value="GridSize: [1, 1]&lt;div style=&quot;font-size: 20px;&quot;&gt;BlockSize: [256]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-3259.2800000000007" y="-4791" width="154" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zeJq2bbHnzVUswPTXRWx-1071" value="grid: [16, 16]&lt;div style=&quot;font-size: 20px;&quot;&gt;block: [64]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-2964.99" y="-4788" width="124" height="60" as="geometry" />
+        <mxCell id="zeJq2bbHnzVUswPTXRWx-1071" value="GridSize:: [16, 16]&lt;br&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BlockSize&lt;/span&gt;: [64]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-2964.99" y="-4788" width="169" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zeJq2bbHnzVUswPTXRWx-1072" value="grid: [16, 16]&lt;div style=&quot;font-size: 20px;&quot;&gt;block: [4*64]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-2666.71" y="-4783.75" width="126" height="60" as="geometry" />
