@@ -2858,9 +2858,9 @@
             <mxPoint x="-2056.7200000000475" y="-350.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZOvE7nIcAqh21ZI6Vfce-779" value="smem_q" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZOvE7nIcAqh21ZI6Vfce-778">
+        <mxCell id="ZOvE7nIcAqh21ZI6Vfce-779" value="smem_q" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontSize=11;fontColor=#6c1e1e;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="ZOvE7nIcAqh21ZI6Vfce-778">
           <mxGeometry x="-0.2847" y="1" relative="1" as="geometry">
-            <mxPoint x="4" y="1" as="offset" />
+            <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZOvE7nIcAqh21ZI6Vfce-774" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=YaHei UI;fillColor=#cfcfcf;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
@@ -2874,7 +2874,7 @@
             <mxPoint x="-1973.1700000000476" y="-288.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZOvE7nIcAqh21ZI6Vfce-781" value="smem_k" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZOvE7nIcAqh21ZI6Vfce-780">
+        <mxCell id="ZOvE7nIcAqh21ZI6Vfce-781" value="smem_k" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontSize=11;fontColor=#6c1e1e;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="ZOvE7nIcAqh21ZI6Vfce-780">
           <mxGeometry x="-0.2847" y="1" relative="1" as="geometry">
             <mxPoint x="4" y="1" as="offset" />
           </mxGeometry>
