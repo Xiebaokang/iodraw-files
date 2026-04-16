@@ -2853,6 +2853,9 @@
         <mxCell id="ZOvE7nIcAqh21ZI6Vfce-773" value="acc_o" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1835.7533333333442" y="-487" as="geometry" />
         </mxCell>
+        <mxCell id="ZOvE7nIcAqh21ZI6Vfce-774" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=YaHei UI;fillColor=#cfcfcf;fontColor=#333333;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1608.0000000000002" y="-526" width="29" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
