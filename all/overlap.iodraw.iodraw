@@ -3414,14 +3414,11 @@
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-194" value="load V2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="fSoo1eGSWvoAKG-DtjjP-191">
           <mxGeometry x="42.99999999999989" y="15.5" width="59" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-195" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3205.2200000000003" y="-2829.5" width="121.25" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-140" value="Softmax0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="fSoo1eGSWvoAKG-DtjjP-195">
-          <mxGeometry width="86.63" height="38" as="geometry" />
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-140" value="Softmax0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
+          <mxGeometry x="-3205.22" y="-2829.5" width="103.22" height="38" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-141" value="Cast0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#98825d;" vertex="1" parent="1">
-          <mxGeometry x="-3083.9700000000003" y="-2829.5" width="34.62" height="38" as="geometry" />
+          <mxGeometry x="-3118.59" y="-2829.5" width="34.62" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
