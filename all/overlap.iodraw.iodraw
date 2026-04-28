@@ -3118,34 +3118,13 @@
           <mxGeometry x="0.32999999999992724" width="115.29" height="38" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-9" value="TMA&lt;div&gt;Issue&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef37c;" vertex="1" parent="fSoo1eGSWvoAKG-DtjjP-7">
-          <mxGeometry width="36" height="38" as="geometry" />
+          <mxGeometry width="31" height="38" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-10" value="load Q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="fSoo1eGSWvoAKG-DtjjP-7">
           <mxGeometry x="58.36999999999989" y="15" width="53" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3362.899999999999" y="-2690" width="118.36999999999989" height="44.5" as="geometry" />
-        </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60A7F0;" vertex="1" parent="fSoo1eGSWvoAKG-DtjjP-11">
-          <mxGeometry x="0.32999999999992724" width="115.29" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-13" value="TMA&lt;div&gt;Issue&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef37c;" vertex="1" parent="fSoo1eGSWvoAKG-DtjjP-11">
-          <mxGeometry width="54.29" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-14" value="load K1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="fSoo1eGSWvoAKG-DtjjP-11">
-          <mxGeometry x="55.36999999999989" y="15" width="59" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-15" value="Wgmma QK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aded91;" vertex="1" parent="1">
           <mxGeometry x="-3301.24" y="-2607.5" width="75.42" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60A7F0;" vertex="1" parent="1">
-          <mxGeometry x="-3307.669999999999" y="-2711.5" width="115.29" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-26" value="TMA&lt;div&gt;Issue&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef37c;" vertex="1" parent="1">
-          <mxGeometry x="-3307.999999999999" y="-2711.5" width="54.29" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-27" value="load V1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-3252.629999999999" y="-2696.5" width="59" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
