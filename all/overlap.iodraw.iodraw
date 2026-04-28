@@ -3313,7 +3313,7 @@
           <mxGeometry x="-2434.9999999999995" y="-2607.5" width="75.42" height="38" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-113" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1">
-          <mxGeometry x="-3503.1400000000003" y="-2837" width="1153.55" height="53" as="geometry" />
+          <mxGeometry x="-3503.14" y="-2837" width="1593.14" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-114" value="CUDA Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3503.14" y="-2837" width="78" height="26" as="geometry" />
@@ -3426,7 +3426,7 @@
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-197" value="Softmax1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
           <mxGeometry x="-2964.79" y="-2829.5" width="103.22" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-198" value="Cast0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#98825d;" vertex="1" parent="1">
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-198" value="Cast1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#98825d;" vertex="1" parent="1">
           <mxGeometry x="-2860.9100000000003" y="-2829.5" width="32.34" height="38" as="geometry" />
         </mxCell>
       </root>
