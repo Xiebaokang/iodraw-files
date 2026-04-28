@@ -3096,8 +3096,8 @@
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1">
           <mxGeometry x="-3503.5499999999997" y="-2552" width="910.73" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-2" value="Math Warps 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3503.8999999999996" y="-2552" width="93" height="26" as="geometry" />
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-2" value="CUDA Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
+          <mxGeometry x="-3495.8999999999996" y="-2552" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1">
           <mxGeometry x="-3503.6099999999997" y="-2615" width="909.79" height="53" as="geometry" />
