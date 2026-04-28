@@ -3174,6 +3174,9 @@
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-47" value="load V2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="fSoo1eGSWvoAKG-DtjjP-44">
           <mxGeometry x="42.99999999999989" y="15.5" width="59" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-48" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
+          <mxGeometry x="-3171.98" y="-2604" width="102.98" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
