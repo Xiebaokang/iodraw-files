@@ -3429,6 +3429,12 @@
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-198" value="Cast1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#98825d;" vertex="1" parent="1">
           <mxGeometry x="-2860.9100000000003" y="-2829.5" width="32.34" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-199" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3074.3849999999993" y="-2489" as="sourcePoint" />
+            <mxPoint x="-3075.59" y="-2737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
