@@ -3316,13 +3316,13 @@
           <mxGeometry x="-3486" y="-2945" width="1920.68" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-114" value="CUDA Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3434.46" y="-2945" width="78" height="26" as="geometry" />
+          <mxGeometry x="-3485" y="-2945" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-115" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1">
           <mxGeometry x="-3486" y="-3008" width="1920.68" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-116" value="Tensor Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3434.87" y="-3008" width="85" height="26" as="geometry" />
+          <mxGeometry x="-3486" y="-3008" width="85" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-117" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#e6e6e6;" vertex="1" parent="1">
           <mxGeometry x="-3485" y="-3177" width="1918.68" height="158" as="geometry" />
@@ -3601,7 +3601,7 @@
           <mxGeometry x="-3485" y="-3251" width="1919.18" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-251" value="CUDA Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
-          <mxGeometry x="-3434.9600000000005" y="-3251" width="78" height="26" as="geometry" />
+          <mxGeometry x="-3485.0000000000005" y="-3251" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-252" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1">
           <mxGeometry x="-3485" y="-3314" width="1919.18" height="53" as="geometry" />
