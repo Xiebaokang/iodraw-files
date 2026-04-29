@@ -3598,13 +3598,13 @@
           <mxGeometry x="-1687.21" y="-3000.5" width="104.48" height="38" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-250" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1">
-          <mxGeometry x="-3434.9600000000005" y="-3251" width="1869.14" height="53" as="geometry" />
+          <mxGeometry x="-3485" y="-3251" width="1919.18" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-251" value="CUDA Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3434.9600000000005" y="-3251" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-252" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e6e6e6;" vertex="1" parent="1">
-          <mxGeometry x="-3435.0200000000004" y="-3314" width="1869.2" height="53" as="geometry" />
+          <mxGeometry x="-3485" y="-3314" width="1919.18" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-253" value="Tensor Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=YaHei UI;" vertex="1" parent="1">
           <mxGeometry x="-3435.3700000000003" y="-3314" width="85" height="26" as="geometry" />
