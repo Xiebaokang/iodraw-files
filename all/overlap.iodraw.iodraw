@@ -4464,9 +4464,6 @@
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-682" value="PV0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aded91;" vertex="1" parent="1">
           <mxGeometry x="-2087.720000000001" y="-3622.5" width="104.48" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-702" value="QK0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#aded91;" vertex="1" parent="1">
-          <mxGeometry x="-1981.1700000000005" y="-3622.5" width="104.48" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-703" value="Softmax2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
           <mxGeometry x="-1947.5400000000004" y="-3559.5" width="103.22" height="38" as="geometry" />
         </mxCell>
