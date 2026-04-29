@@ -4362,6 +4362,12 @@
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-629" value="acc_o" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=YaHei UI;fontColor=#6c1e1e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-3093.4633333333445" y="-3930" as="geometry" />
         </mxCell>
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-630" value="acc_p：1&lt;div&gt;scale：1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3006" y="-3992" width="69" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-631" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2910" y="-3966" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
