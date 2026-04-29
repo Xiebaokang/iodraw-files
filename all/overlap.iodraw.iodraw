@@ -4292,6 +4292,12 @@
             <mxPoint x="-3140.0499999999997" y="-3683" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-600" value="Softmax0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
+          <mxGeometry x="-3024.02" y="-3549.5" width="103.22" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-601" value="Cast0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#98825d;" vertex="1" parent="1">
+          <mxGeometry x="-2920.1400000000003" y="-3549.5" width="32.34" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
