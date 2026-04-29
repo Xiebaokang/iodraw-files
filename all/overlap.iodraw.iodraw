@@ -4410,11 +4410,8 @@
             <mxPoint x="-2617.4" y="-3640.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-645" value="Softmax1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
+        <mxCell id="fSoo1eGSWvoAKG-DtjjP-645" value="Softmax2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5b342;" vertex="1" parent="1">
           <mxGeometry x="-2582.59" y="-3559.5" width="103.22" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fSoo1eGSWvoAKG-DtjjP-646" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSoo1eGSWvoAKG-DtjjP-643" target="fSoo1eGSWvoAKG-DtjjP-645">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fSoo1eGSWvoAKG-DtjjP-643" value="rescale1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#98825d;" vertex="1" parent="1">
           <mxGeometry x="-2615.4500000000007" y="-3559.5" width="32.34" height="38" as="geometry" />
