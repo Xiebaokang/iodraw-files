@@ -7,8 +7,11 @@
         <mxCell id="TLOZxC4ChQlSalsZeqTa-1" value="loadQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="140" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-2" value="loadQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-2" value="loadK0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-3" value="loadK1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
