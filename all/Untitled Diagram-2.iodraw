@@ -310,8 +310,8 @@
         <mxCell id="TLOZxC4ChQlSalsZeqTa-102" value="L6(offset) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-103" value="swizzle(offset) = new_offset" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="348.5" y="520" width="170" height="30" as="geometry" />
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-103" value="swizzle(offset) = new_offset" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="353.75" y="527.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-124" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="348.5" y="550" width="187" height="115" as="geometry" />
