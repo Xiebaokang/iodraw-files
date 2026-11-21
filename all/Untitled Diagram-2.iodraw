@@ -370,12 +370,6 @@
         <mxCell id="TLOZxC4ChQlSalsZeqTa-132" value="coalesced(offset)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="145" y="528" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-133" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=5.13;dx=10.38;notch=0;arrowHead=20.5;rounded=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="270.0000531914893" y="540.001707317073" width="24.174202127659573" height="26.341463414634145" as="geometry" />
-        </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-134" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="372.82712765957444" y="577.0731707317073" width="155.89893617021275" height="48.78048780487805" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
