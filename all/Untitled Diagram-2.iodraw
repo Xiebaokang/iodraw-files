@@ -365,10 +365,7 @@
           <mxGeometry x="355" y="680" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-131" value="&lt;b&gt;coalesced(offset) = new_offset&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="140" y="510" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-132" value="coalesced(offset)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="145" y="528" width="110" height="30" as="geometry" />
+          <mxGeometry x="140" y="500" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
