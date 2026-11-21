@@ -311,7 +311,7 @@
           <mxGeometry x="355" y="500" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-104" value="swizzle(offset)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="355" y="560" width="100" height="30" as="geometry" />
+          <mxGeometry x="310" y="560" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-106" value="i = offset / w&lt;div&gt;j = offset % w&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="465" y="555" width="90" height="40" as="geometry" />
@@ -324,8 +324,8 @@
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-109" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=8.965517241379311;endSize=3.0965517241379312;endWidth=13.127229488703925;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="372.5" y="560" as="sourcePoint" />
-            <mxPoint x="397.5" y="560" as="targetPoint" />
+            <mxPoint x="410" y="575" as="sourcePoint" />
+            <mxPoint x="430" y="574.84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
