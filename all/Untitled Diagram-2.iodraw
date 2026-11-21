@@ -311,10 +311,10 @@
           <mxGeometry x="355" y="500" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-104" value="swizzle(offset)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="310" y="560" width="100" height="30" as="geometry" />
+          <mxGeometry x="314" y="560" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-106" value="i = offset / w&lt;div&gt;j = offset % w&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="465" y="555" width="90" height="40" as="geometry" />
+          <mxGeometry x="440" y="555" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-107" value="i = i&lt;div&gt;j = j ^ i&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="560" y="555" width="60" height="40" as="geometry" />
