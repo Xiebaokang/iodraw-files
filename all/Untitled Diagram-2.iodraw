@@ -382,7 +382,7 @@
             <mxPoint x="239.77" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-140" value="copy" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=21.363636363636363;endSize=4.331818181818181;" edge="1" parent="1">
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-140" value="copy" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=21.363636363636363;endSize=7.363636363636362;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="570" as="sourcePoint" />
             <mxPoint x="730" y="570" as="targetPoint" />
