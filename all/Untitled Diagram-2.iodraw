@@ -367,6 +367,12 @@
         <mxCell id="TLOZxC4ChQlSalsZeqTa-131" value="&lt;b&gt;coalesced(offset) = new_offset&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="500" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-136" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=9.375;endSize=3.375;endWidth=16.015625;fillColor=#575757;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.69" y="499" as="sourcePoint" />
+            <mxPoint x="449.69" y="519" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
