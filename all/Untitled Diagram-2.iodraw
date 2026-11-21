@@ -311,40 +311,40 @@
           <mxGeometry x="355" y="500" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-104" value="swizzle(offset)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="234" y="570" width="100" height="30" as="geometry" />
+          <mxGeometry x="234" y="578" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-106" value="i = offset / w&lt;div&gt;j = offset % w&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="358" y="565" width="90" height="40" as="geometry" />
+          <mxGeometry x="358" y="573" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-107" value="i = i&lt;div&gt;j = j ^ i&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="468" y="565" width="60" height="40" as="geometry" />
+          <mxGeometry x="468" y="573" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-108" value="new_offset = i * w + j" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="540" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="540" y="578" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-109" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=8.965517241379311;endSize=3.0965517241379312;endWidth=13.127229488703925;fillColor=#f5f5f5;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="329" y="585" as="sourcePoint" />
-            <mxPoint x="349" y="584.84" as="targetPoint" />
+            <mxPoint x="329" y="593" as="sourcePoint" />
+            <mxPoint x="349" y="592.84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-110" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=8.965517241379311;endSize=3.0965517241379312;endWidth=13.127229488703925;fillColor=#f5f5f5;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="438" y="585" as="sourcePoint" />
-            <mxPoint x="458" y="584.84" as="targetPoint" />
+            <mxPoint x="438" y="593" as="sourcePoint" />
+            <mxPoint x="458" y="592.84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-111" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=8.965517241379311;endSize=3.0965517241379312;endWidth=13.127229488703925;fillColor=#f5f5f5;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="515" y="585" as="sourcePoint" />
-            <mxPoint x="535" y="584.84" as="targetPoint" />
+            <mxPoint x="515" y="593" as="sourcePoint" />
+            <mxPoint x="535" y="592.84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-116" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="555" width="158" height="50" as="geometry" />
+          <mxGeometry x="353" y="563" width="158" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-118" value="&lt;b&gt;Swizzle&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="398" y="548" width="70" height="30" as="geometry" />
+          <mxGeometry x="398" y="556" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
