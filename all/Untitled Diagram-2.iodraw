@@ -679,9 +679,10 @@
             <mxPoint x="500" y="381.19" as="sourcePoint" />
             <mxPoint x="634.6000000000001" y="639.9400000000003" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="511.19" />
-              <mxPoint x="570" y="511.19" />
-              <mxPoint x="570" y="640.19" />
+              <mxPoint x="510" y="381" />
+              <mxPoint x="510" y="500" />
+              <mxPoint x="580" y="500" />
+              <mxPoint x="580" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
