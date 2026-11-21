@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TLOZxC4ChQlSalsZeqTa-125" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="527.5" width="182.5" height="142.5" as="geometry" />
+          <mxGeometry x="347.5" y="530" width="182.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fafafa;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="160" height="160" as="geometry" />
@@ -311,7 +311,7 @@
           <mxGeometry x="420" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-103" value="swizzle(offset) = new_offset" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="353.75" y="527.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="353.75" y="530.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-124" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="348.5" y="550" width="187" height="115" as="geometry" />
