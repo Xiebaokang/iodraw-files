@@ -77,7 +77,10 @@
           <mxGeometry x="960" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="40" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="10" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
