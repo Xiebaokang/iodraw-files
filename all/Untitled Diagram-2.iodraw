@@ -364,8 +364,8 @@
         <mxCell id="TLOZxC4ChQlSalsZeqTa-130" value="L2(swizzle(offset)) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="355" y="680" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-131" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="135" y="498" width="50" height="30" as="geometry" />
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-131" value="coalesced(offset) = new_offset" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="65" y="498" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
