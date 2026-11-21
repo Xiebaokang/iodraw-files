@@ -311,7 +311,7 @@
           <mxGeometry x="355" y="500" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-104" value="swizzle(offset)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="340" y="526" width="100" height="30" as="geometry" />
+          <mxGeometry x="353" y="526" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-106" value="i = offset / w&lt;div&gt;j = offset % w&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="358" y="573" width="90" height="40" as="geometry" />
