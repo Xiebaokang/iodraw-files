@@ -389,9 +389,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-142" value="copy" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=21.363636363636363;endSize=7.363636363636362;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.0065" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="495" y="360" as="sourcePoint" />
             <mxPoint x="545" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-145" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#dedede;" vertex="1" parent="1">
@@ -672,18 +673,6 @@
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-226" value="2️⃣" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="625" y="805" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.038;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TLOZxC4ChQlSalsZeqTa-224">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="370" as="sourcePoint" />
-            <mxPoint x="640" y="640" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="470" />
-              <mxPoint x="550" y="470" />
-              <mxPoint x="550" y="642" />
-              <mxPoint x="625" y="642" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
