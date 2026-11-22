@@ -945,12 +945,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yXcfwtAhl-_CxWU_AKn1-106" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yXcfwtAhl-_CxWU_AKn1-88">
+        <mxCell id="yXcfwtAhl-_CxWU_AKn1-106" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yXcfwtAhl-_CxWU_AKn1-88" target="yXcfwtAhl-_CxWU_AKn1-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2241" y="16" as="sourcePoint" />
             <mxPoint x="2291" y="-34" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2291" y="16" />
+              <mxPoint x="2092" y="12" />
               <mxPoint x="2241" y="-34" />
             </Array>
           </mxGeometry>
