@@ -936,11 +936,11 @@
         </mxCell>
         <mxCell id="yXcfwtAhl-_CxWU_AKn1-104" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1894" y="209" as="sourcePoint" />
-            <mxPoint x="1944" y="159" as="targetPoint" />
+            <mxPoint x="1664" y="70" as="sourcePoint" />
+            <mxPoint x="1779" y="29" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1944" y="209" />
-              <mxPoint x="1894" y="159" />
+              <mxPoint x="1645" y="32" />
+              <mxPoint x="1664" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
