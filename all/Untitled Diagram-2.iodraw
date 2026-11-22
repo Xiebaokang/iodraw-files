@@ -361,7 +361,7 @@
             <mxPoint x="439.69" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-130" value="L2(swizzle(offset)) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-130" value="L2(swizzle(offset)) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;fontSize=12;fontColor=#4780d7;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="680" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-131" value="&lt;b&gt;coalesced(offset) = new_offset&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
@@ -373,7 +373,7 @@
             <mxPoint x="239.77" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TLOZxC4ChQlSalsZeqTa-138" value="L3(coalesced(offset)) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="TLOZxC4ChQlSalsZeqTa-138" value="L3(coalesced(offset)) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;fontSize=12;fontColor=#4780d7;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="560" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLOZxC4ChQlSalsZeqTa-139" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;width=9.375;endSize=3.375;endWidth=16.015625;fillColor=#575757;" parent="1" edge="1">
