@@ -913,6 +913,12 @@
         <mxCell id="yXcfwtAhl-_CxWU_AKn1-60" value="tensor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1910" y="30" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yXcfwtAhl-_CxWU_AKn1-61" value="L1&#39;(r, t, w) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;fontSize=12;fontColor=#4780d7;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1032" y="880" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXcfwtAhl-_CxWU_AKn1-62" value="L2&#39;(offset) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;fontSize=12;fontColor=#4780d7;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="722" y="880" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
