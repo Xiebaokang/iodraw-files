@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="z2uTWEq1hi4DQvz07nop">
-    <mxGraphModel dx="1113" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="895" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -721,8 +721,8 @@
         <mxCell id="yXcfwtAhl-_CxWU_AKn1-8" value="L2&#39;(offset) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;fontSize=12;fontColor=#4780d7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="712" y="870" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yXcfwtAhl-_CxWU_AKn1-10" value="1.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="268" width="40" height="30" as="geometry" />
+        <mxCell id="yXcfwtAhl-_CxWU_AKn1-10" value="1. L1&#39;&lt;sup&gt;-1&lt;/sup&gt;(m, n) = (r, t, w)&lt;div&gt;2. L1(r, t, w) = (m, n)&lt;/div&gt;&lt;div&gt;3. L1&#39;&lt;sup&gt;-1&lt;/sup&gt;&amp;nbsp;· L1(r, t, w) = (r, t w)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="243" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
