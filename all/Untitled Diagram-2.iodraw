@@ -721,8 +721,8 @@
         <mxCell id="yXcfwtAhl-_CxWU_AKn1-8" value="L2&#39;(offset) = (m, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;fontSize=12;fontColor=#4780d7;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="712" y="870" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yXcfwtAhl-_CxWU_AKn1-10" value="&lt;font&gt;1. L1&#39;&lt;sup style=&quot;&quot;&gt;-1&lt;/sup&gt;(m, n) = (r, t, w)&lt;/font&gt;&lt;div&gt;&lt;font&gt;2. L1(r, t, w) = (m, n)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;3. L1&#39;&lt;sup style=&quot;&quot;&gt;-1&lt;/sup&gt;·L1(r, t, w) = (r, t w)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="960" y="243" width="240" height="80" as="geometry" />
+        <mxCell id="yXcfwtAhl-_CxWU_AKn1-10" value="&lt;font&gt;1. L1&#39;&lt;sup style=&quot;&quot;&gt;-1&lt;/sup&gt;(m, n) = (r, t, w)&lt;/font&gt;&lt;div&gt;&lt;font&gt;2. L1(r, t, w) = (m, n)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;3. L1&#39;&lt;sup style=&quot;&quot;&gt;-1&lt;/sup&gt;·L1(r1, t1, w1) = (r0, t0 w0)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;4. ldmatrix()&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="960" y="243" width="290" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
