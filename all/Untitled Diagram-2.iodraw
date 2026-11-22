@@ -945,6 +945,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yXcfwtAhl-_CxWU_AKn1-106" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2053" y="189" as="sourcePoint" />
+            <mxPoint x="2103" y="139" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2103" y="189" />
+              <mxPoint x="2053" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
